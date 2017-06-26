@@ -29,18 +29,6 @@ def pal2id(c,pal,verbose=False):
       show_word(0,rows[0])
     return rows[0]['id']
 
-#def connect2():
-  #server = SSHTunnelForwarder(
-  #        ('tekinged.com', 22),
-          #ssh_private_key="/Users/bentj/.ssh/id_rsa",
-  #        ssh_password="cherredochedelmeas",
-  #        ssh_username="johnbent",
-  #        remote_bind_address=('127.0.0.1', 3308))
-  #server.start()
-  #print "Have connection to %d" % server.local_bind_port
-  #cur = con.cursor()
-  #return (con,cur)
-
 def print_from_row(row,indent=''):
   print "%s%06d/%06d: %-15s %5s %s" % (indent, row['stem'], row['id'], row['pal'].upper(), row['pos'], row['eng'])
   if (row['pdef']):

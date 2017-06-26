@@ -55,18 +55,35 @@ def get_pal(wid,c):
   pal = query(q,c)[0]['pal']
   return pal
 
-def add_examples(word,branches,c):
-  q='select * from examples where '
+def get_regexes(word,branches):
+  regex=''
   branches = branches + (word,)
   for branch in branches:
-    q+="lower(palauan) regexp '[[:<:]]%s[[:>:]]' or " % branch['pal']
-  q+='0 limit 5;'
+    regex+="lower(palauan) regexp '[[:<:]]%s[[:>:]]' or " % branch['pal']
+  regex+='0'
+  return regex 
+
+def add_proverbs(word,branches,c):
+  add_sentences(word,branches,c,'proverbs','PROVERBS','english','explanation')
+
+def add_examples(word,branches,c):
+  add_sentences(word,branches,c,'examples','JOSEPHS DICTIONARY EXAMPLE SENTENCES','english')
+
+def add_uploads(word,branches,c):
+  add_sentences(word,branches,c,'upload_sentence','VOLUNTEER UPLOADED EXAMPLE SENTENCES','eng')
+
+def add_sentences(word,branches,c,table,label,english,explanation=None):
+  q='select * from %s where %s limit 5' % (table, get_regexes(word,branches))
   examples = query(q,c)
   if examples:
     print '<span class="column">'
-    print 'EXAMPLE SENTENCES'
+    print label 
     for example in examples:
-      print '<div class="entry"><i>%s</i> %s</div>' % ( example['palauan'], example['english'] )
+      if explanation:
+        explanation_text = '[%s]' % example[explanation]
+      else:
+        explanation_text = ''
+      print '<div class="entry"><i>%s</i> %s %s</div>' % ( example['palauan'], example[english], explanation_text )
     print '</span>'
   #print branches
 
@@ -111,6 +128,8 @@ def print_word(row,c):
   add_links(row,c)
   add_synonyms(row,c)
   add_examples(row,branches,c)
+  add_uploads(row,branches,c)
+  add_proverbs(row,branches,c)
 
   # now add the picture
   add_image(row['id'],row['pal'])
@@ -124,7 +143,7 @@ def main():
 
   print_header()
 
-  q = "select id,pal,eng,pdef,pos,oword,origin from all_words3" # where id=stem and pal in ('meas', 'mengelebed', 'chelebed','omar')";
+  q = "select id,pal,eng,pdef,pos,oword,origin from all_words3 where id=stem and pal in ('rubak', 'meas', 'mengelebed', 'chelebed','omar')";
   for row in query(q,c):
     print_word(row,c)
 
