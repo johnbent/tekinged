@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+import argparse
 import sys
 import pymysql
 import string
@@ -141,10 +142,20 @@ def print_word(row,c,xml):
 def main():
   (db,c) = belau.connect()
 
+  parser = argparse.ArgumentParser(description='Convert database into XML suitable to convert into Mac Dict with Dictionary Development Kit.')
+  parser.add_argument('-l', type=int, help='Only do a few words.') 
+  parser.add_argument('-f', type=str, help='Only do a specific word.')
+  args = parser.parse_args()
+
   xml = open('Palauan.xml', 'w')
   print_header(xml)
 
   q = "select id,pal,eng,pdef,pos,oword,origin from all_words3 where id=stem"; 
+  if args.f:
+    q += " and pal like '%s' " % args.f
+  if args.l:
+    q += " limit %d order by rand()" % args.l
+  print query
   words = query(q,c)
   for idx,row in enumerate(words):
     print '%5d/%d %s' % (idx, len(words), row['pal'])
