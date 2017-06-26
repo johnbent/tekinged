@@ -1,0 +1,27 @@
+SKIP
+v melbolb v.t. xx --ibelbii xx xx xx
+v melechiir v.t. xx --ticherii xx xx xx
+v omub v.t. xx --mngii xx xx xx
+v omiou v.t. xx --miungii xx xx xx
+v omuut v.t. xx --mutii xx xx xx
+v melekau v.t. xx --xx tokau  xx xx
+v melimd v.t. xx --xx tuimd xx xx
+v melobs v.t. xx --dobsii duobs xx xx
+v mengelekall v.t. xx --xx kelekall xx xx
+v mengemeldiil v.t. xx --komeldillii xx xx xx
+v mengemus v.t. xx --chumsengii chomus xx xx
+v mengetechat v.t. xx --chotechetir chotechat xx xx
+v mengetitk v.t. xx --chitetkii xx xx xx
+v mengetukl v.t. xx --xx kutukl xx xx
+v mengetut v.t. xx --kututur xx xx xx
+v mengidadeb v.t. xx --xx choidadeb xx xx
+v mengiechab v.t. xx --chiechebengii chuiechab xx xx
+v mengiroir v.t. xx --choiririi choiroir chiliririi chiliroir
+v olengimes v.caus. xx --ongmesii ongimes xx xx
+v olidoid v.t. xx --xx oidoid xx xx
+v -j 0 omekberaod v.caus. make (something) heavy; increase the weight (of something).  --mekberedii mekbereod xx xx
+l 1 berreod
+START
+v ometkou v.t. xx --xx metkou xx xx
+v omtaor v.t. xx --mtorii mtaor xx xx
+v omtelub v.caus. xx --mtelbar xx xx xx

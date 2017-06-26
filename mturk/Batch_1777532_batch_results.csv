@@ -1,0 +1,105 @@
+"HITId","HITTypeId","Title","Description","Keywords","Reward","CreationTime","MaxAssignments","RequesterAnnotation","AssignmentDurationInSeconds","AutoApprovalDelayInSeconds","Expiration","NumberOfSimilarHITs","LifetimeInSeconds","AssignmentId","WorkerId","AssignmentStatus","AcceptTime","SubmitTime","AutoApprovalTime","ApprovalTime","RejectionTime","RequesterFeedback","WorkTimeInSeconds","LifetimeApprovalRate","Last30DaysApprovalRate","Last7DaysApprovalRate","Input.image_url","Answer.column","Approve","Reject"
+"3VP28W7DUMJZJVWORBO4GA0NYZ3FZR","3PFYYPJUJW4Z7TTVX8EEH7YSDOZZ2H","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 31 17:03:51 GMT 2014","1","BatchId:1777532;","3600","86400","Wed Jan 07 17:03:51 GMT 2015","","","3Z7ISHFUH0UTQ0KV9ZN0V2ELKL3Z87","ACLCFPUQWV591","Approved","Wed Dec 31 20:26:10 GMT 2014","Wed Dec 31 20:53:49 GMT 2014","Thu Jan 01 12:53:49 PST 2015","Wed Dec 31 23:37:19 PST 2014","","","1659","100% (2/2)","100% (2/2)","100% (2/2)","http://tekinged.com/png-halves/dict-070-left.png","bekeskesib V.S. prone to sweating. See kesib1. --bekesbesib a rengul easily angered; touchy.
+bekesulaul V.S. get sleepy easily. See mesulaul.
+bekesuul V.S. chronically lying or misrepresenting. See mengesuul.
+beketall V.A.S. is to be unwrapped, unravelled, unwound or undone. See omoket.
+beketaut V.S. good at shooting. See taut. ant. bekiit. --beketaut el tekoi words which are right to the point. --beketaut a tekingel incisive; speaking to the point.
+beketbotb V.S. eloquent; capapable of explaining things in detail. See melbotb.
+beketechetoched V.S. REDUP. giving up easily. See tmoched2.
+beketechiir V.S. good at grasping or comprehending things.
+beketekoi V.S. talkative. See tekoi. --bleketekoi N.R.S. talkativeness. --bekeketekoi V.S. REDUP. rather talkative. --oubeketekoi V.T. talk constantly about (something).
+beketelechelubel V.S. bathe or take showers often. See telechelubel.
+beketertord V.S. REDUP. easily irritated or frustrated. See tord.
+beketerturech V.S. REDUP. smell like urine. See turech1.
+beketimel V.S. slow-moving; slow (in running). See betimel.
+beketimer V.S. syn. beketimel.
+beketingaol V.S. prone to lying. See tingaol.
+beketiochel V.S. (plant, person, etc.) productive. See tiochel.
+beketung(e)l V.S. have a keen sense of smell. See melung(e)l.
+beketurech V.S. smell like urine. See turech1.
+bekeu V.S. brave; courageous. --blekeu N.R.S. bravery; courage. --oubekeu  V.T. pretend (oneself) to be brave. --Bekeulbechab (bekeu el Bechab) N. name of brave Palauan warrior. --Tbekculiaes N. name of hill near Ngerubesang.
+bekeuel V.S. smell of turtle (after eating turtle). See uel.
+Bekeulbechab (bekeu el Bechab) N. name of brave Palauan warrior. See bekeu.
+bekiul STEM N. POSS. See bekai.
+bekidokel V.S. easily soiled. See idokel1."
+"37ZQELHEQZXB8GAMAAHNGDDNLM6MNN","3PFYYPJUJW4Z7TTVX8EEH7YSDOZZ2H","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 31 17:03:50 GMT 2014","1","BatchId:1777532;","3600","86400","Wed Jan 07 17:03:50 GMT 2015","","","39KFRKBFINUW62X6KUADEHVJTW7OYC","ACLCFPUQWV591","Approved","Wed Dec 31 20:53:49 GMT 2014","Wed Dec 31 21:29:02 GMT 2014","Thu Jan 01 13:29:02 PST 2015","Wed Dec 31 23:37:19 PST 2014","","","2113","100% (2/2)","100% (2/2)","100% (2/2)","http://tekinged.com/png-halves/dict-070-right.png","bekiit V.S. poor in aiming. See iit. ant. beketaut. --bekiit el tekoi words which are irrelevant or not to the point.
+bekikl V.S. worried; insecure. --bekeklang V.S. INCH. getting worried.
+bekilekiakl V.S. (person) always wanting to remain independent, uninvolved or free from obligations. See meleakl.
+bekililangel V.S. cry a lot; prone to crying. See langel.
+bekititerachel V.S. REDUP. slippery; slimy. See tmorech.
+bekngiuk 1. N. mold. 2. V.S. (food) moldy or mildewed. --bekngiukel N. POSS. --bekngukang V.S. INCH. is getting moldy or spoiled.
+bekngukang V.S. INCH. is getting moldy or spoiled. See bekngiuk.
+bekoasech V.S. smell of juice or gravy. See uasech.
+bekocheoch V.S. persistent in asking for things. See omecheoch.
+beko(der)durech V.S. always sending others on errands; always willing to go on errands. See oldurech.
+bekoderengesakl V.S. having sharp hearing. See orrenges.
+bekoderuchel V.S. ready or willing to go on errands. See oderuchel.
+bekodurech V.S. syn. bekoderdurech.
+bekoiuiuul V.S. (disease) contagious. See oliuul.
+bekokoad V.S. prone to fighting. See okoad.
+bekokuii (a rengul) V.S. kind; generous. See kekuii. --blekokuii N.R.S. kindness; generosity.
+bekolik V.S. (underarms) smelling sweaty. See olik2.
+bekongesengasech (a rengul) V.S. REDUP. easily angered; excitable. See ngasech1.
+beko(nge)senges V.S. obedient; tractable. See ngesenges.
+bekongit V.S. always asking for things. See ongit1.
+bekord V.S. about; approximately. E.g. Ng locha bekord el tela a rekil a rubak. I wonder what the approximate age of the old man might be.
+bekoreomel V.S. smell of the forest; smell of fresh plants. See oreomel.
+bekosenges V.S. syn. bekongesenges.
+bekotangel V.S. have fat cheeks. See otang.
+bekoteterau V.S. REDUP. easy to sell, See olterau."
+"324N5FAHSWATQXJSRPQYBHFWIKEVK9","3PFYYPJUJW4Z7TTVX8EEH7YSDOZZ2H","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 31 17:03:50 GMT 2014","1","BatchId:1777532;","3600","86400","Wed Jan 07 17:03:50 GMT 2015","","","3IGI0VL647J2U3TSDS12X1XCPBONO4","AFP9MUR4T9F70","Approved","Wed Dec 31 17:23:19 GMT 2014","Wed Dec 31 17:35:21 GMT 2014","Thu Jan 01 09:35:21 PST 2015","Wed Dec 31 23:37:19 PST 2014","","","722","100% (1/1)","100% (1/1)","100% (1/1)","http://tekinged.com/png-halves/dict-071-left.png","bekoungeroel v.s. continually scolding. See oungeroel.
+beks-el stem n.poss. See baks.
+beksall v.a.s. (spearhead) is to be pounded and flattened. See omuks.
+bekudasu v.s. resourceful in thinking; thoughtful; considerate. See omdasu.
+bekudoud v.s. generous (usually, with Palauan money); charitable; receiving a lot of money (usually, Palauan); rich. See udoud.
+bekukall v.a.s. is to be puffed up. See omkuuk.
+bekukokl v.s. rising early; be an early riser or early bird. See omkokl.
+bekureor v.s. work a lot; hard-working; diligent. See ureor.
+bekururau v.s. syn. bekerurau
+bekutab v.s. having a good sense of direction; good at understanding implications of things. See tab.
+bekuu n. type of turtle
+
+
+
+belai n. blue-lined surgeon fish (Acanthurus lineatus).
+belailes n. type of tapioca.
+belalang n. step in stairs.
+belalk vs. feeling or expressing shame or fright. --belalk a medal face express shame or fright. --belalk a rengul feel shame or fright.
+belating-el stem n.poss. See belatong.
+belatong (Sp. plato dish, plate) n. plate; dish; bowl. --belatingel n.poss. --belatong er a Merikel stainless steel late with several compartments.
+
+
+
+Belau n. Palau --omelau v.t. speak to (someone) in riddles; deceive; beat around the bush. --rechlbelau n.pl. Palauans. --chaibebelau [?aybebelaw] n. riddle. --chader a Belau Palauan (person). --tekoi er a Belau Palauan (language).
+
+
+
+belau n. tree in coffee family (Guettarda speciosa L.).
+beldakl1 1.v.r.s. cooked in water 2.n.r.s. fish cooked in water. See bodes. --omeldakl v.t. cook (fish) in water
+
+beldakl2 v.s. splattered all over with something. --omeldakl v.t. throw (something) so that it splatters. 
+beldechel-el stem.n.poss. See belduchel.
+belduchel n. payment at ocheraol (=money-raising party). --beldechelel n.poss. --omelduchel v.t. pay (particular amount) at oche"
+"3SX4X51T8Z8SO019EMRVMBISHFNAO7","3PFYYPJUJW4Z7TTVX8EEH7YSDOZZ2H","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 31 17:03:51 GMT 2014","1","BatchId:1777532;","3600","86400","Wed Jan 07 17:03:51 GMT 2015","","","3FIUS151DV18SYV825BZ28FDXDCGG3","AT5I4VF891S7I","Approved","Wed Dec 31 17:15:48 GMT 2014","Wed Dec 31 17:57:04 GMT 2014","Thu Jan 01 09:57:04 PST 2015","Wed Dec 31 23:37:19 PST 2014","","","2476","100% (1/1)","100% (1/1)","100% (1/1)","http://tekinged.com/png-halves/dict-071-right.png","raol. --kabelduchel V.RECIP. pay at ocheraol together.
+beleball V.A.S. is to be wound around with rope, cord, tape, etc. See belebel.
+belebel N. cord or rope for winding (esp., used for starting outboard motor); shingles (disease). --belebelel N.POSS. --belebelel a mesil rope for starting outboard motor. --omelebel V.T. wind rope, cord, tape, etc. around. --bllebel V.R.S. --beleball V.A.S. --kebelebel V.RECIP. (animals) get tethers tangled; (people) get limbs tangled (when wrestling).
+belech-el STEM N.POSS. See balech.
+belechall V.A.S. is to be hit with a slingshot. See balech.
+belechel-el STEM N.POSS. See belochel.
+belelengel V.S.REDUP. very long or tall. See lai.
+beleng-el STEM N.OBLIG POSS. See bal-.
+Beliliou N. Peliliu island. --rechibeliliou N.PL. inhabitants of Peleliu.
+belils V.S. (noise) high or piercing.
+belkul N.OBLIG.POSS. meaning; purpose; function. --belkul a tekol meaning of a word; proverb. --belkul a Droteo Droteos function. --belkul tia el ongdibel purpose of this gathering. E,g. Ngara belkul tiang? What's the meaning of this?/What's this for? E.g. A Droteo a kmal medenge a betok el belkul a tekoi. Droteo really knows a lot of proverbs.
+bellachel V.S. purulent; festering; (women's genitals) unclean and smelly; (starchy food) too soft or slimy. See lalech. E.g. Bellachel a delam! (lit,) Your mother's unclean! (insult)
+bellek N. devil; evil spirit.
+bellekalek V.S. (face) looking sad or distressed.
+bellemakl V.S. attentive; concentrating; deliberate. See mellemakl. --bellemakl a beluu village is quiet or calm.
+bellibl V.R.S. removed; extracted. See omlibl.
+belloi N. bitter yam (grows on vine).
+belluchel V.R.S. mixed; dissolved. See omulech.
+bellul N.OBLIG>POSS> rectum.
+bellutel V.R.S. (clothes) turned inside out. See bult-.
+belng-el STEM N.POSS See bluu.
+belochel 1. V.A.S. is to be shot with a slingshot. 2. N.A.S. Micronesian pigeon (Ducula oceanica). See balech. --belechelel N.Poss. his pigeon (caught for food).
+belt-el STEM N.OBLIG.POSS. See bult-."

@@ -1,0 +1,372 @@
+SKIP Before  21213 11691 287 734
+SKIP After   21450 11752 289 776
+w e conn. xx
+e Te meruul er a kall e merael. --They make the food and then (they) leave.
+e Ak dilsechii a mlai e chilsberberii. --I carved the canoe and then painted it.
+e A lengar er ngii a ududek, e ak mo er a Guam. --If I had money, (then) I’d go to Guam. 
+e Se er a kbo er a Merikel, e ak kilie er a blil a Toki. --When I went to America, I lived at Toki’s place. 
+e A klukuk e te me er a blik. --Tomorrow they’re coming to my house. 
+e Ak milluches a babier e a sechelik a mirruul a kall. --I was writing letters while my friend was preparing food. 
+e Ngara me ke di dechor e omengur? --Why are you standing up while eating?
+e A Droteo a metongakl, e a Toki a kekedeb. --Droteo is tall, but Toki is short.
+w e vocative contentless word (used with name when addressing someone)
+w eabed n. xx
+p merael el eabed --low, fast-moving clouds.
+p ulat el eabed --high, stationary clouds
+w eai num. xx
+p eai el buil --eight months
+w eanged n. xx
+- engedel n.poss.3s eyebrow.
+- chelleanged n. location in sky relatively close to earth.
+- -t legend Uchelianged n. legendary Palauan creator.
+p engedel a mad --eyebrow.
+p beluu er a eanged --heaven.
+p rubak er a eanged --god.
+e Ng ungil a eanged. --Weather is good./(Someone) is in good mood.
+e Ng mekngit a eanged. --Weather is bad.
+w ears n. xx
+p mechut el ears --early immigrants to a village.
+p beches el ears --recent immigrants to a village
+w ouears v.t. use (particular material) as sail
+w kliars n.r.s. triangle
+l kliars ouears ears
+w -o S ebangkelio n. gospel
+v melebed v.t. xx
+- ebedall v.a.s. is to be lassoed or ensnared
+- ilebed v.r.s. lassoed; ensnared
+w -t place Echeluu n. mangrove channel in Ngerard
+w meluchet v.t. xx
+- echetall v.a.s. is to be unhooked.
+- iluchet v.r.s. unhooked
+w ekong v.i. xx
+- echikang v.i.inch. is beginning to go (towards hearer)
+w -ed affix our (including you)
+w -t place Edeaur n. old name of Ngeaur
+w edechedong n. three stripped-off pieces
+w edechid n. breadth of three fingers
+w ede n. xx
+p ede el klebesei --three nights
+w ongede num. xx
+p ongede el ureor --Wednesday.
+p ongede el buil --March.
+p ongede el skuul --third grade; third grader 
+w ouedeiskors v.i. have three wives
+l ouedeiskors ede
+w edeitiud n. (one) third.
+p ta er a edeitiud --one third.
+p chimo er a edeitiud --one third.
+p eru er a edeitiud --two thirds
+l edeitiud ede
+w oumead v.t. boast about (oneself)
+- mead v.s. conceited; proud of oneself; boastful.
+- medengang v.s.inch. is getting too conceited or proud; is getting a swelled head 
+v melad v.t. xx --edengii edengelterir ildengii ildengelterir 
+- edongel v.a.s. xx
+- ilad v.r.s. coaxed into doing something; flattered; whetted; sharpened.
+- meldelad v.t.redup. keep needling or coaxing (someone); keep flattering
+w ilad n.r.s. pride.
+- ildengel n.r.s.poss.3s 
+l melad ilad
+w -ei affix used in terms of address such as chedei, ngelekei, merrengei, ochellei
+w -ek affix my
+w ekebil n. girl
+w ekil n. thick braided rope.
+r Te menga a ekil. --They’re from Angaur. --They eat rope; rope is used to tie slaves and is therefore a symbol of inferiority.
+w ekong v.i. xx
+e Ng sebechek el eko er a blim er a klukuk. --I can come to your house tomorrow.
+e Bo er a bita e a Droteo a ikong. --Go next door, and Droteo will be along (soon). 
+w le mod. xx
+e Ng dimlak kbo er a party e le a bechik a mle smecher. --I didn’t go to the party because my wife was sick. 
+w elechang n. xx
+p er a elecha el taem --these days.
+p er a elecha el tutau --this morning.
+p elecha el sils --today.
+p elecha el mong --from now on
+w elii n. xx
+p er a tutau er a elii --yesterday morning
+w elolem num. xx
+p elolem el rak --six years
+w -em affix your
+w -emam affix our (excluding your)
+w -emam affix us (excluding you)
+w emel n.poss.3s interior; rear of enclosed space; interior end of mangrove channel.
+p melai a ngar er a emel el tekoi --try to find something out indirectly; try to find out what is really behind the situation.
+p el mo er a emel --in the direction of land
+w -emiu affix you (plural)
+w emull n. xx
+- emellel n.poss.3s
+e A Toki a mle soal el mo er a Guam, e ng di ng mla mo diak a ududel. --Toki wanted to go to Guam, but her money ran out.
+e Ak ileko er a blim e ng di ke mle dibus. --I came to your house, but you were out. 
+w engelakl v.t. xx
+- engeleklii v.pf.3s
+- ilengeleklii v.pf.3s.past
+- melengelakl v.i. keep passing out or going back and forth
+p me engelakl --come by.
+p mo engelakl --go by
+w eolt n. wind; breeze; air; storm; typhoon.
+p eltel a ngebard --west wind.
+e A eolt a bad er a cheskiik. --The wind is sleeping in the cheskiik tree (i.e. - it’s time when the east wind is strong during the day and quiet at night).
+e Ng ungil a eltel. --He’s in a very good mood (esp., after drinking). 
+p meleolt a rengul --(person) carefree or nonchalant; (person) not easily disturbed or content to let things happen as they may 
+w eong n. white foam residue which forms when coconut syrup is cooked
+w eou n. xx
+p eungel a tebel --space under(neath) the table.
+p eungek --space below or underneath me.
+p ngar er a eou a rengul --humble; respectful.
+e A Droteo a kie er a eou. --Droteo live downstairs.
+e A Tony a ngar er a eou el chad. --Tony is lower in rank.
+e A katuu a mechiuaiu er a eungek. --The cat is sleeping underneath me (i.e. under my chair). 
+e A bilas a ulekiu a eungel a did. --The boat passed under the bridge.
+e Bo er a eou! --Sit down!/Wait!
+p er a uche er a -- before.
+p er a uche er a cheldecheduch --before the meeting.
+e A ulemuchel el mesuub er a uche er a kumengur. --I began to study before I had dinner.
+w uriul n. xx
+p er a uriul er a --after.
+p er a uriul er a cheldecheduch --after the meeting.
+e Ak mlo mechiuaiu er a uriul er a lorael a Toki. --I went to sleep after Toki left. 
+v meleleb v.t. foo --elebii iueleb illebii illeleb
+w eresaod n. two separate pieces (of long object)
+w eresuk n. two quantities or portions
+w eretelooch n. two pieces of pre-chewed food
+w eretiud n. two cut pieces (of food)
+w -erir affix their
+w er_se_er_a expression when (in the past).
+p er se er a Sebadong --last Saturday.
+p er se er a taem er a Siabal --during the Japanese times.
+p er se er a (taem er a) mekemad --during the war.
+e Ak milsuub er se er a leme a Droteo. --I was studying when Droteo came. 
+e A Satsko a chiliis er se er a lesa a deleb. --Satsko fled when she saw the ghost. 
+w -t legend Ersoi n. legendary male inhabitant of Ngeriab
+w melasem v.t. xx
+- esemall/esomel v.a.s. is to be tried out or challenged.
+- ilasem v.r.s. tried out; challenged.
+w -t legend Esou n. name of elder from Imeliik who (in Palauan legeng) bought a large bai built by Orachel and became high chief of Imeliik
+w etiu num. xx
+p etiu el rak --nine years
+w euachedong n. four stripped-off pieces
+w euaitiud n. (one) fourth.
+p chimo er a euaitiud --one fourth.
+p ta er a euaitiud --one fourth.
+p ede er a euaitiud --three fourths
+w eua n. xx
+p eua el buil --four months
+w -t legend Euchel n. location in Ngeriab where, in Palauan legend, Adebetei and Ersoi went to carouse with fish-maidens; shallow area in ocean between Beliliou and Ngeaur.
+w euid num. xx
+p euid el klok --seven o’clock
+w -o E -b fender fenda n. fender
+w -o E -b France Furans n. France
+w hang interj. Oh! (exclamation of surprise)
+w hang n. hamlet; neighborhood; section of village or town.
+w harau v.t. xx
+e A sensei a mle harau a blals. --The teacher paid the fine.
+w -t place Hereng n. Helen reef (southwest of Koror)
+w hngob/hngobe/hngong interj. exclamation uttered to draw attention to unpleasant smell
+w -t place H.O. n. (abbrev.) Babeldaob (used pejoratively); v.s. unexperienced in Western ways; ignorant of modern conveniences.
+p chad er H.O. --country rube (used pejoratively with reference to inhabitants of Babeldaob)
+w honto n. xx
+p chad er a honto --inhabitant of Babeldaob.
+e Ak mo er a honto. --I’m going to Babeldaob.
+w rechihuribing/rechihuiribing n.pl. inhabitants of the Philippines
+w huuhuu n. sound of dog barking; bow-wow.
+- ouhuu v.i. (dog) bark
+w iab n. gold-spotted jack
+w iakorang n. tuberose; asucena
+w iami n. grass in snapdragon family
+w -t tree ias n. milky mangrove tree; river poison tree
+w iau n. nakedness
+w -t place Ibangellel n. location in Imeliik
+w Ibedul n. title of chiefs in Koror
+w Ibeluu n. name of clan in Ngchesar
+w -t place Ibesang n. location in Ollei
+w ibokill n. curve (in road)
+w ibuchel n. sea urchin; anus; asshole.
+- ibechelel n.poss.3s 
+p ungelel a ibuchel --hard membrane inside sea urchin.
+p ibuchel er a ngemai --sea urchins found in great quantity in shallow; fortunate person who without any effort on his part gets showered with gifts or girlfriends.
+w -id affix our (including your)
+w -id affix us (including you)
+w ideliseb n. xx
+p er a idelsebel --three days ago.
+p er a uche er a idelsebel --four or more days ago
+w -t money idenges n. Palauan money: type of kldait
+v melides v.t. pare or shred (fruit). --idesii imides ildesii ilides 
+- idesall v.a.s. (fruit) is to be pared or shredded.
+- ildesall/ilides v.r.s. (fruit) pared or shredded 
+w ideuekl v.i. go around (corner of building); to hide or conceal oneself.
+w idokel n. dirtiness; filthiness. v.s. dirty; filthy.
+- idekelel n.poss.3s 
+p idekelel a bilem --the filthiness of your clothes
+v omekidokel v.caus. (person) get (someone’s clothes, body, etc.) dirty. --mekidekelii mekidokel milkedeli milkidokel 
+- bekidokel v.s. easily soiled
+- mesidokel v.s. somewhat dirty; somewhat faded in color
+l omekidokel idokel
+w idungel n. firewood.
+- idengelel n.poss.3s
+w -t place Iebukel n. hamlet in Koror
+w -t place Iebukel n. hamlet in Ngerechelong
+w -t legend Iechad n. legendary inhabitant of Ngriil who lent Palauan money to Remesechau
+w iedel n. xx
+- edelel n.poss.3s
+- mesedel/mesiedel n. hog plum (type of mango)
+w -o G Iesus n. Jesus (protestant usage)
+w ieteklel n.poss.3s what one should do with something; how one should deal with something; (someone’s) way of doing or using something.
+e Ng di kea kudenge a ieteklek er aika el kall. --I don’t know what to do with all that food.
+w iidek n. xx
+p idekel a but --buttocks
+w iikr n. xx
+- iikl var. iikr
+p ikrel a blai --outside of the house.
+p el mo er a ikrel --in the direction beyond the reef.
+e A rengalek a milil er a iikr. --The children are playing outside.
+w -o E -b hinge iings n. hinge
+w iis n. nose; curved board at entrance of bai laid on top of kuoku or chututem.
+p blsebselel a iis --nostril.
+p medal a iis ¬--tip of nose.
+p medulel a iis --bridge of nose.
+p bita a isngel --having only one nostril.
+p obuu a osul a iis --get nosebleed.
+r A isnged a di kmeed e diak dengetemii. --Our nose is close (to the mouth), but cannot be licked. --i.e. we shouldn’t be too sure of, or overconfident in, ourselves.
+w -ik affix my
+w -t money ikesoul n. Palauan money: type of kldait
+w -t money iksid n. Palauan money: type of kldait
+w ikurs n. twitching (nervous disorder)
+w -il affix his; her; its; their (non-human).
+w ilalidel v.s. having chills; shivering severely
+w ilaot n. coconut syrup (made by boiling chemadech = coconut sap); nectar; any sweet liquid.
+- ilotel n.poss.3s 
+p ilotel a chilakngil --honey
+w ilbolb n. fortress
+w melbolb v.t. encircle; encompass
+l melbolb ilbolb
+v melild v.t. peel or remove skin of (fruit, tapioca, taro, etc.). --ildii imild ilildii ilild
+- ildall v.a.s. (fruit, tapioca, taro, etc.) is to be peeled.
+- ilild v.r.s. (fruit, tapioca, taro, etc.) peeled
+w ildois n. xx
+p diak lua ildisel a --very many; not like any quantity of something imaginable.
+e A ildisel! --That’s too much!
+e Ng tela a ildisel a lisem? --How many coconuts do you have?
+w meleakl v.t. xx
+- ileakl v.r.s. separated; separate; set apart; removed; dissociated; special 
+v meleleb v.t. xx --elebii iueleb illebii illeleb 
+- ileleb v.r.s. also, overgrown (with foliage); flooded; under water; covered (with blanket, etc.).
+v meliuch v.t. open (can); cut open (coconut); break ground for (taro patch); work over soil in preparing (taro patch).  --iuchii imiuch iluchii iliuch
+- iliuch/iluochel v.r.s. opened; cut open.
+- iuochel v.a.s. is to be opened or cut open 
+w iluodel n. xx
+- iliud var. iluodel
+v meliuekl v.t. xx --iuklii iuekl iliueklii iliuekl 
+- iliuekl v.r.s. surrounded by.
+- iuekill v.a.s. is to be surrounded by.
+- meleliuekl v.i.redup. keep turning around or revolving 
+w ilkaik n. curved edge of bottom of canoe which remains above water
+w melkaik v.t. even out or shape curves on bottom of (canoe) 
+w ilkolk n. darkness; stupidity.
+- ilkelkel n.poss.3s 
+p ilkelkel a rum --darkness or gloominess of the room.
+p ilkelkel a btelum --your stupidity.
+p ilkelkel a rengul --his stupidity.
+w ilkol n. mosquito (term used only in Peleliu)
+w illitokl n. whirlwind
+w ilmokl n.r.s. freedom; license; permission.
+- ilmeklel n.poss.3s
+e Ak milsa a ilmokl a Droteo, me ng sebechel el mo er a katsudo. --I’ve given Droteo freedom (from earlier restrictions), so he can go to the movies. 
+w ilobech n. hollowed-out hull of canoe or boat; hold.
+- ilebechel n.poss.3s
+w ilou n. sheltered or protected area next to hill, mountain, etc.
+v mesechem v.t. xx --isechemii isechem ilsechemii ilsechem
+- ilsechem v.r.s. held or grasped firmly.
+- isechemall v.a.s. is to be held or grasped firmly 
+w ilteet n. xx
+p ngalek ilteet --child of high family
+w meluil v.t. xx 
+- meluil v.i. (waves) roll.
+- iluil v.r.s. rolled up
+w ilumel n.a.s. drink; beverage.
+- imelel n.poss.3s
+p imelek el ralm --my drink of water.
+p imelem el kohi --your drink or cup of coffee.
+p ilumel er a party --party drink
+w -t legend Iluochel n.r.s. (in Palauan legend) name of Dilidechuu in Ngeaur after she began to prepare taro patches
+w meius v.t. xx
+- ilus v.r.s. rowed; paddled; stirred.
+- isall v.a.s. is to be rowed, paddled or stirred
+w -im affix your (singular)
+w -t place Imeiong n. hamlet in Ngeremlengui
+w mimokl v.s. xx
+p mimokl a rengul --broad-minded.
+p mimokl a usekerel el chad --person who is easy to coax or flatter; person who is flexible or generous 
+v melimokl v.t. xx --imeklii imokl ilemeklii ilemokl 
+- ilmokl v.r.s. loosened.
+- imekill v.a.s. is to be loosened
+l ilmokl melimokl
+w -t place Imeliik n. village in S.W. Babeldaob.
+- rechimeliik n.pl. inhabitants of Imeliik
+w imiit v.i. xx
+p imiit a medal --asleep.
+p diak liit --without fail; definitely.
+e Ng diak liit el me a Droteo. --Droteo will definitely come.
+e Ng diak kiit el mekodkau. --I won’t fail to kill you (one of these days). 
+e Ng mla imiit a cheokl. --The worst is over. 
+e A Toki a mla imiit. --Toki has given birth.
+e A ngalek a ietu a medal. --The child is about to fall asleep. 
+w imiu v.t. pass by or in front of
+w -t place Imiungs n. old name of Ngeremlengui
+w imorech v.s. too much; overflowing
+w Imul n. hamlet in Imeliik
+w imuul v.i. cross over (to other side); n. crossbeam of bai on whose projecting ends buikorengodel is laid; crossbeam of house on whose projecting ends orengodel is laid
+w -t place Ingas n. name of house in Ngerubesang
+w -t place Ingdonesia n. Indonesia
+w ingukl n. stones on which cooking pot is placed; fire hearth; fire pit.
+w iobech n. ravine; valley
+w meliobech v.t. chop or chip (canoe) out of log 
+w -t money iodes n. Palauan money: type of kldait
+w ioi interj. Oh! (exclamation of surprise used by females)
+w iorech n. high incoming tide resulting from strong current
+w oleorech n. overflow; overabundance
+w ioud n. xx
+e Tia el eudem! --What happened? - You’re late!
+w -ir affix their (human)
+w -ir affix him; her; it
+w irebereb n. darkness.
+- mengirebereb v.i. walk or grope in the dark 
+v omekioud/omekmeoud v.caus. make late; delay. --mekioudii mekioud milekioudii milekioud
+- ulekioud v.r.s. delayed 
+l omekioud ioud
+w irechar n. xx
+p rechedad er a irechar --our ancestors
+w ititiumd n. ancient times; former times; a long time ago
+w -t fish itotech n. thumb-print emperor fish
+w -iu affix your (plural)
+w iuaiu v.s. calm; peaceful
+w mechiuaiu v.s. xx
+p mo mechiuaiu --go to sleep.
+p Kemiu a ko er a mechiuaiu. --You’re not paying any attention (i.e. it’s as if you were sleeping). 
+v omechiuaiu v.caus. xx --mechiuii mechiueterir milechiuii milechiueterir
+- ochiuall v.a.s. is to be put to sleep
+START
+w mechiuaiu n. sensitive plant (contracts when touched)
+w iud n. bunch of bananas
+w iud n. type of clam
+w -o E -b U-drive iudoraibu n. rent-a-car; U-drive car; v.s. (woman) loose or fast
+w iuechel n.poss.3s tears
+w -t place Iuekako n. passage in Ngerdmau
+w -t place Iuesang n. location in Ngeriab
+w -t tree iul n. freycinetia tree
+w -t place Iuliti n. Ulithi
+w iull n. wave in open ocean; swell.
+- ouiull v.i. (fish) swim near surface of water and make ripples; (submerged log, etc.) cause surface of water to ripple
+w iumd n. algae
+w iungs n. xx
+- ingsel n.poss.3s
+- rechiungs n.pl. islanders.
+p ingsel a Belau --islands of Palau.
+p chad er a iungs --islander (way of referring to inhabitants of other Micronesian districts)
+w meliungs v.t. chop (log) into pieces
+w ius n. xx
+p ius er a Belau --Palauan crocodile (without webbed feet).
+p ius er a chomote --non-indigenous crocodile (with webbed feet)
+w iusech n. xx
+- isechel n.poss.3s
+w omekiusech v.caus. calm surface of (ocean) by spitting coconut juice on it; wait for (sea) to become calm 
+w iuud n. type of oyster 

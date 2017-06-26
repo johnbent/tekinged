@@ -1,0 +1,76 @@
+:
+A XXX ng rengedel ker el beluu?
+Ngera er a ikang a rengedel a YYY?
+Imeong : Ngeremlengui
+Ngermetengel : Ngeremlengui
+Ngchemesed : Ngeremlengui
+Ngerutechei : Ngeremlengui
+Ngereklangong : Ngeremlengui
+Ngerang : Melekeok
+Ngerubesang :Melekeok
+Ngermelech : Melekeok
+Ngeruliang : Melekeok
+Ngeburech :Melekeok
+Ngebedech :Melekeok
+Ngerkeai : Imeliik
+Imul : Imeliik
+Chelechui : Imeliik
+Ngchemiangel : Imeliik
+Medorm : Imeliik
+Ngerberruch : Imeliik
+Iebuekel : Oreor
+Ngerkesoaol: Oreor
+Ngermid: Oreor
+Ngerkebesang: Oreor
+Meyuns: Oreor
+Ngerbeched: Oreor
+Ngerchemai: Oreor
+Ngerieleb: Oreor
+Ngebuked:Ngaraard
+Elab:Ngaraard
+Ngkeklau:Ngaraard
+Ulimang:Ngaraard
+Chol:Ngaraard
+Ngesang Uang:Ngaraard
+Ngeong:Ngaraard
+Ngeuakl:Ngaraard
+Mechebechubel:Ngatpang
+Ngerdubech:Ngatpang
+Ngimis:Ngatpang
+Ngeruchob:Ngatpang
+Mengellang : Ngerchelong
+Ollei : Ngerchelong
+Ngebei : Ngerchelong
+Iebukel : Ngerchelong
+Ngerbau : Ngerchelong
+Ngriil : Ngerchelong
+Ngeyungel : Ngerchelong
+Ngermetong : Ngerchelong
+Ngercheluuk : Ngiual
+Ngermechau : Ngiual
+Ngersngai : Ngiual
+Ngellau : Ngiual
+Urdmang : Ngardmau
+Ngerutoi : Ngardmau
+Ngetbong : Ngardmau
+Ngeruikl : Ngchesar
+Ngeraus : Ngchesar
+Ngerkesou : Ngchesar
+Ngerngesang : Ngchesar
+Ngersuul : Ngchesar
+Ngerusar : Irrai
+Ngeruluobel : Irrai
+Ngetkib : Irrai
+Oikull : Irrai
+Ngchesechang : Irrai
+Ngerdelolk : Beliliou
+Ngesias : Beliliou
+Ngerchol : Beliliou
+Ngerkeiukl : Beliliou
+Teliu : Beliliou
+Ngerbelau : Ngeaur
+Ngermasch : Ngeaur
+Rois : Ngeaur
+Ngebeanged : Ngeaur
+Ngerdimes : Ngcheangel
+Ngerdilong : Ngcheangel

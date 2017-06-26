@@ -1,0 +1,3 @@
+w -t place Kesebekuu n. passage in Koror.
+w kesebekuu n. vine in Legume family (used medicinally) (Thomas Bean; Entada phaseoloides).
+w -t fish kesebekuu n. moray eel.

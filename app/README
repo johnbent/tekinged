@@ -1,0 +1,25 @@
+DSL format: http://informationworker.ru/lingvo.en/dslcompiler/entrystructure.htm
+stardict format: http://thanhsiang.org/faqing/node/181
+
+android app:  
+  http://goldendict.mobi  (free version, $4.99 paid) [http://goldendict.org]. Uses stardict format
+    Lingoes .LD2 files
+    Babylon .BGL files
+    ABBYY Lingvo .LSD, .DSL, .LSA and .DAT files
+    StarDict files
+    Dictd files
+    Hunspell morphologies
+
+iphone app:  
+  istardict 
+    (can't upload database; email pending); 
+  gurudic ($0.99) 
+    uses stardict format
+  dictionary universal ($4.99)
+    uses stardict format
+    lingvo dsl format
+  fora dictionary ($4.99)
+    also android
+    http://ng-comp.com/fora/desktop.htm
+    StarDict, XDXF, DSL, DICTD, or TSV/Plain
+  

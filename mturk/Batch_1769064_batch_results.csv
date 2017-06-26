@@ -1,0 +1,707 @@
+"HITId","HITTypeId","Title","Description","Keywords","Reward","CreationTime","MaxAssignments","RequesterAnnotation","AssignmentDurationInSeconds","AutoApprovalDelayInSeconds","Expiration","NumberOfSimilarHITs","LifetimeInSeconds","AssignmentId","WorkerId","AssignmentStatus","AcceptTime","SubmitTime","AutoApprovalTime","ApprovalTime","RejectionTime","RequesterFeedback","WorkTimeInSeconds","LifetimeApprovalRate","Last30DaysApprovalRate","Last7DaysApprovalRate","Input.image_url","Answer.column","Approve","Reject"
+"3VIVIU06FJBJUFZVDU4VB5H6Y78IM2","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3LOTDFNYA7YYBKPD6Q9Z6Q1PP38WFM","A3AJOG8FAY1D73","Approved","Wed Dec 17 20:00:23 GMT 2014","Wed Dec 17 20:09:22 GMT 2014","Thu Dec 18 12:09:22 PST 2014","Wed Dec 17 12:28:42 PST 2014","","","539","100% (28/28)","100% (20/20)","100% (20/20)","http://tekinged.com/png-halves/dict-064-left.png","bar3 (Eng. bar) n. bar; tavern.
+bar-, berngel n.oblig.poss. slap in the face. May be related to bal-, belengel. --omar v.t. slap (someone) in the face; slap (face). --blar v.r.s. --kebar v.recip. slap each other in the face. --berngl a rengul anything discouraging to one's spirit. e.g. Ng diak a berngel a rengul a Droteo. Nothing stops Droteo from doing things./Droteo isn't easily discouraged.
+bara (Jp. bara) n. rose.
+baras n. gravel for cement.
+barb (Eng. valve) n. valve. --barb er a mesil engine valve.
+
+
+
+barikang (Jp. barikan) n. hair clipper.
+baror (Sp. farol lantern) n. table lamp.
+Barrak n. bathing place in Ngerkerong.
+barrill (Sp. barril barrel, water cask) n. wooden barrel.
+bars n. tree in Verbena family (Vitex coffassus Reinw.).
+
+bas1 n. embers; coals; burned pieces of wood. --besengel n.poss. --besengel a dekool cigarette ashes.
+
+bas2 (Eng. bus) n. bus.
+bas3 (Eng. bass) n. bass (in singing).
+basech1 n. direction in which canoe is sailed against the wind (requiring zigzag movement of canoe); tack. ant. siul. --omasech v.i. move in zigzag fashion (when sailing canoe against the wind); tack; (chickens) move or jockey into position for fighting. --kebasech v.recip. (chickens position themselves with relation to each other. --besebasech n.redup. (bolt of) lightning (striking the earth); crackling or rumbling sound of thunder.
+
+
+
+
+basech2 n. flint for starting fire; fuse (for homemade bomb). --besechel n.poss. --besechel a dub fuse for bomb.
+basech3 1. n. white film over eye; cataract. 2. v.s. (eye) covered with cataract.
+basi n. barge.
+basingul n.oblig.poss. (vulg.) anus. See ingul.
+basio (Jp. basho) n. place.
+
+basket (Eng. basket) n. basketball. --oubasket v.i. play basketball.
+
+Baskua (Sp. Pascua) n. Easter
+baslokil n. fairy cod; lunar-tailed cod (Variola louti).
+bastaor (Jp. basutaoru) N. bath towel. See taor."
+"3VIVIU06FJBJUFZVDU4VB5H6Y78IM2","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3X73LLYYQ1DS2M759F6CDS0BC8JNHQ","ABX5OQLR6UNBC","Approved","Wed Dec 17 21:55:49 GMT 2014","Wed Dec 17 21:55:59 GMT 2014","Thu Dec 18 13:55:59 PST 2014","Wed Dec 17 15:45:27 PST 2014","","","10","100% (7/7)","100% (7/7)","100% (7/7)","http://tekinged.com/png-halves/dict-064-left.png","bar3 (Eng. bar) N. bar; tavern.
+bar-, berngel N. OBLIG. POSS. slap in the face. May be related to bal-, belengel. --omar V.T. slap (someone) in the face; slap (face). --blar V.R.S. --kebar V. RECIP. slap each other in the face. --berngel a rengul anything discouraging to one's spirit. E.g. Ng diak a berngel a rengul a Droteo. Nothing stopes Droteo from doing things./Droteo isn't easily discouraged.
+bara (Jp. bara) N. rose.
+baras N. gravel for cement.
+barb (Eng. valve) N. valve. --barb er a mesil engine valve.
+barikang (Jp. barikan) N. hair clipper.
+baror (Sp. farol lantern) N. table lamp.
+Barrak N. bathing place in Ngerkerong.
+barril (Sp. barril barrel, water cask) N. wooden barrel.
+bars N. tree in Verbena family (Vitex coffassus Rreinw.).
+bas1 N embers; coals; burned pieces of wood. --besengel N. POSS. --besengel a dekool cigarette ashes.
+bas2 (Eng. bus) N. bus.
+bas3 (Eng. bass) N. bass (in singing).
+basech1 N. direction in which canoe is sailed against the wind (requiring zigzag movement of canoe); tack. ant. siul. --omasech V.I. move in zigzag fashion (when sailing canoe against the wind); tack; (chickens) move or jockey into position for fighting. --kebasech V. RECIP. (chickens) position themselves in relation to each other. --besebasech N. REDUP. (bolt of) lightning (striking the earth); crackling or rumbling sound of thunder.
+basech2 N. flint for starting fire; fuse (for homemade bomb). --besechel N. POSS. --besechel a dub fuse for bomb.
+basech3 1. N. white film over eye; cataract. 2. V.S. (eye) covered with cataract.
+basi N. barge
+basingul N. OBLIG. POSS. (vulg.) anus. See ingul.
+basio (Jp. basho) N. place.
+basket (Eng. basket) N. basketball. --oubasket V.I. play basketball.
+Baskua (Sp. Pascua) N. Easter.
+baslokil N. fairy cod; lunar-tailed cod (Variola louti).
+bastaor (Jp. basutaoru) N. bath towel. See taor."
+"3OYHVNTV5SXY0DAVQD4KGPLOLBCOKY","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","39KFRKBFINUW62X6KUADEHVJSD3YOF","A3AJOG8FAY1D73","Approved","Wed Dec 17 20:16:39 GMT 2014","Wed Dec 17 20:32:16 GMT 2014","Thu Dec 18 12:32:16 PST 2014","Wed Dec 17 15:45:27 PST 2014","","","937","100% (28/28)","100% (20/20)","100% (20/20)","http://tekinged.com/png-halves/dict-064-right.png","bastor (Eng. pastor) n. pastor.
+bat (Eng. bat) n. bat. --bat er a iakiu baseball bat. --bat er a sabtbol softball bat.
+bata1 (Jp. bataa) n. butter.
+bata2 n. avocado. May be related to bata1.
+baterflai (Eng. butterfly) v.s. fickle; prone to changing one's mind; prone to moving from one boyfriend or girlfriend to another.
+Batmechei n. island in Ngetbang.
+batrol (Sp. patron guardian) n. patrol; guardian; person in control or charge.
+batteri (Eng. battery, Jp. batterii) n. battery (for any purpose.
+
+
+bau1 n. smell; odor; scent. --bul n.poss. --bekebul n.oblig.poss. smell identical to that of something else. --buul v.s. (food, plant, etc.) has strong, lasting odor. --bekebau v.s. (cooked meat of fish, cooking pot, etc.) foul-smelling; smell of vagina. e.g. Ng ngar er ngii a ngodech el bau. There's a strange smell (here).
+
+bau2 v.s. (mouth, bums) sore and irritated (especially, when child teething). 
+
+baungor n. coral rock-cod (Epinephelus corallicola).
+
+bdech-el stem n.poss. See budech1.
+
+bdechall1 v.a.s. are to be bound into sheaves or pacified. See budech1.
+
+bdechall2 v.a.s. is to be vomited on. See mudech1.
+bdel-ul stem n.poss. See bedul1.
+bdelulechang (< bdelul a chang) n. end of jetty; landing place. See bedul1, chang.
+
+bdesall v.a.s. is to be thrown hard or pushed away. See omides.
+
+bdibd n. termite; wood-eating worm.
+bdingel n. welt. --omdingel v.t. raise bumps or welts on. --obdingel v.erg. (body) have bumps or welts.
+
+bdung-el stem n.poss. See bduu.
+bduu n. ball; boil; abscess. --bdungel n.poss. --omduu 1. v.t. bounce (ball, etc.). 2. v.i. play with ball. --obduu v.erg. come or bounce up to surface of water. --ombibduu v.i.redup. (ball, coconut, etc.) float or bob on surface of water. --ungelel a bduu core or a boil.
+bduul n. Barringtonia tree (Barringtonia asiatica (L.) Burs.).
+beab1 n. rodent; any of several varieties of rat or mouse; roof rat (Rattus rattus), Norwegian"
+"3OYHVNTV5SXY0DAVQD4KGPLOLBCOKY","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3FTF2T8WLRHPAAY03497WUFEM6YW9H","ABX5OQLR6UNBC","Approved","Wed Dec 17 21:21:22 GMT 2014","Wed Dec 17 21:43:27 GMT 2014","Thu Dec 18 13:43:27 PST 2014","Wed Dec 17 15:45:27 PST 2014","","","1325","100% (7/7)","100% (7/7)","100% (7/7)","http://tekinged.com/png-halves/dict-064-right.png","bastor (Eng. pastor) N. pastor.
+bat (Eng. bat) N. bat -- bat er a iakiu baseball bat -- bat er a sabtbol softball bat
+bata1 (Jp. bataa) N. butter
+bata2 N. avocado. May be related to bata 1
+baterflai (Eng. butterfly) V.S. fickle; prone to changing one's mind; prone to moving from one boyfriend or girlfriend to another.
+Batmechei N. island in Ngetbang.
+batrol (Sp. patron guardian) N. patrol; guardian; person in control or charge.
+batteri (Eng. battery, Jp. batterii) N. battery (for any purpose).
+bau1 N. smell; odor; sent. --bul N. POSS. --bekebul N. OBLIG. POSS. smell identical to that of something else. --buul V.S. (food, plant, etc.) has strong, lasting odor. --bekebau V.S. (cooked meat or fish, cooking pot, etc.) foul-smelling; smell of vagina. E.g. Ng ngar er ngii a ngodech el bau.  There's a strange smell (here).
+bau2 V.S. (mouth, gums) sore and irritated (especially, when child teething).
+baungor N. coral rock-cod (Epinephelus coral-licola).
+bdechel STEM N. POSS. see budech 1.
+bdechall1 V.A.S. are to be bound into sheaves or pacified. See budech1.
+bdechall2 V.A.S. is to be vomited on. See mudech1.
+bdelul STEM N. POSS. See bedul1.
+bdelulechang N. end of jetty; landing place. See bedul1, chang.
+bdesall V.A.S. is to be thrown hard or pushed away. See omides.
+bdibd N. termite; wood-eating worm.
+bdingel N. welt. --omdingel V.T. raise bumps or welts on. --obdingel V.ERG. (body) have bumps or welts.
+bdungel STEM N. POSS. See bduu.
+bduu N. ball; boil; abscess. --dungel N. POSS. --omduu 1 V.T. bounce (ball, etc) 2 V.I. play with ball. --obduu V. ERG. come or bounce up to surface of water. --ombibduu V. I. REDUP. (ball, coconut, etc.) float or bob on surface of water. --ungelel a bduu core of a boil.
+bduul N. Barringtonia tree (Barringtonia asiatica (L.) Burs.)
+beab1 N. rodent; an of several varieties of rat or mouse; roof rat (Rattus rattus), Norwegian"
+"378G7J1SJKX3JMRNLDKRZOL54GGEWH","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","3","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3DH6GAKTYYO856BDM3LUUF2NCG0ZYA","A3AJOG8FAY1D73","Approved","Wed Dec 17 19:44:37 GMT 2014","Wed Dec 17 20:00:23 GMT 2014","Thu Dec 18 12:00:23 PST 2014","Wed Dec 17 12:28:41 PST 2014","","","946","100% (28/28)","100% (20/20)","100% (20/20)","http://tekinged.com/png-halves/dict-065-left.png","rat (Rattus norvegicus), Polynesian rat (Rattus exulans), Himalayan rat (Rattus nitidus), or house mouse (Mus musculus); type of dukl (=trigger fish). --rasechebeab (el chad) v.s. cruel; heartless; ungrateful. --raelbeab n. beams or rafters at ends and sides of house (on which rats often run). --blil a beab jail; prison. --bedengel a beab gray. --ullemachel el beab small mouse; field mouse.
+
+
+beached n. tin; tin roofing; tin can. --bechecel n.poss. e.g. A rechad er a Ngerechelong a sorir a beached. People from Ngerechelong (are so backward and isolated from the modern world that they) like (to collect) tin cans (out of curiosity).
+
+
+Beachedarsai n. legendary Palauan man who, after arriving in heaven, asked one of the gods for food. Though the food was small in quantity and Beachedarsai thought it would not be enough, each time he finished eating a new portion appeared on the plate. e.g. Ng ko er a kelel a Beachedarsai, el di telkib e diak bo lak. It's like the food of Beachedarsai: though small in quantity, it never runs out--i.e., something beneficial (food, money, etc.) keeps coming in steady supply (from an unknown source).
+
+
+
+
+beadel n. yellow-tailed brown parrotfish (Callyodan dubius). --bebeadel v.s.redup. (skin) smooth.
+beakl v.a.s. is to be shot. See boes.
+beb-el stem n.poss. See baeb.
+bebul stem n.poss. See bab.
+babael1 v.a.s. is to be formed, shaped or created. See omeob.
+
+bebael2 n. gold-spotted spinefoot (Siganus chrysospilos) or rabbit fish (Siganus punctatus). --Ucherkemul el bebael one of legendary chiefs of Ngeaur.
+
+
+beball v.a.s. is to be formed, shaped or created. See omeob.
+
+bebeadel v.s.redup. (skin) smooth. Sea beadel.
+
+bebedeng v.s.redup. rather stagnant. See bedeng.
+
+bebeot v.s.redup. fairly easy or cheap. See beot. --bebeot a rengul rather undecided about something; not take something too seriously. e.g. Ng ko er a bebeot a cheral a klok er a Hong Kong. The prices for watches are pretty low in Hong Kong. e.g. Ng ko er a bebeot a rengul a Droteo er a omerael el mo"
+"378G7J1SJKX3JMRNLDKRZOL54GGEWH","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","3","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3FE7TXL1LIM9QTHF6MVMUIPES202QQ","ABX5OQLR6UNBC","Approved","Thu Dec 18 01:45:32 GMT 2014","Thu Dec 18 02:00:35 GMT 2014","Thu Dec 18 18:00:35 PST 2014","Wed Dec 17 20:15:47 PST 2014","","","903","100% (7/7)","100% (7/7)","100% (7/7)","http://tekinged.com/png-halves/dict-065-left.png","rat (Rattus norvegicus), Polynesian rat (Rattus exulans), Himalayan rat (Rattus nitidus) or house mouse (Mus musculus); type of dukl (=trigger fish). --rasechebeab (el chad) V.S. cruel; heartless; ungrateful. --raelbeab N. beams or rafters at ends and sides of house (on which rats often run). --blil a beab jail; prison. --bedengel a beab gray. --ullemachel el beab small mouse; field mouse.
+beached N. tin; tin roofing; tin can. bechedel N. POSS. E,g, A rechad er a Ngerechelong a sorir a beached. People from Ngerechelong (are so backward and isolated from the modern world that they) like (to collect) tin cans (out of curiosity).
+Beachedarsai N. legendary Palauan man who, after arriving in heaven, asked one of the gods for food. Though the food was small in quantity and Beachedarsai thought it would not be enough, each time he finished eating a new portion appeared on the plate. E.g. Ng ko er a kelel a Beachedarsai, el di telkib e diak bo lak. It's like the food of Beachedarsai: though small in quantity, it never runs out -- i.e., something beneficial (food, money, etc.) keeps coming in steady supply (from an unknown source).
+beadel N. yellow-tailed brown parrotfish (Callyodan dubius). --bebeadel V.S. REDUP. (skin) smooth.
+beakl V.A.S. is to be shot. See boes.
+bebel STEM N. POSS. See baeb.
+bebul STEM N. POSS. See bab.
+bebael1 V.A.S. is to be formed, shaped, or created. See omeob.
+bebael2 N. gold-spotted spinefoot (Siganus chrysospilos) or rabbit fish (Siganus punctatus). --Ucherkemul el bebael one of legendary chiefs of Ngeaur.
+beball V.A.S. is to be formed, shaped, or created. See omeob.
+bebeadel V.S. REDUP (skin) smooth. See beadel.
+bebedeng V.S. REDUP rather stagnant. See bedeng.
+bebeot V.S. REDUP fairly easy or cheap. See beot. --bebeot a rengul rather undecided about something; not take something too seriously. E.g. Ng ko er a bebeot a cheral a klok er a Hong Kong. The prices for watches are pretty low in Hong Kong. E.g. Ng ko er a bebeot a rengul a Droteo er a omerael el mo"
+"378G7J1SJKX3JMRNLDKRZOL54GGEWH","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","3","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3WSELTNVR31BNC4B05IW55JZOT1TA4","A3QVIVWCPBEWYY","Rejected","Wed Dec 17 19:05:58 GMT 2014","Wed Dec 17 19:22:21 GMT 2014","Thu Dec 18 11:22:21 PST 2014","","Wed Dec 17 11:24:52 PST 2014","Too many typos.  Even in the English definitions section.","983","33% (1/3)","33% (1/3)","33% (1/3)","http://tekinged.com/png-halves/dict-065-left.png","beached N. tin; tin roofing; tin can. --bechedel N. POSS. E.g. A rechad er a       
+    Ngerechelong a sorir a beached. People from Ngerechelong (are so backward 
+    and isolated from the modern world that they) like (to collect) tin cans (out of 
+    curiosity).
+Beachedarsai N. legendary Palauan man who after arriving in heaven, asked one 
+    of the gods for food. Though the food was small in quantity and Beachedarsai 
+    thought it would not be enough, each time he finished eating a new portion 
+    appeared on the plate. E.g. Nf ko er a kelel a Beachedarsai, el di telkib e diak 
+    bo lak. It's like the food of Beachedarsai: though small in quantity, it never 
+    runs out--i.e., something beneficial (food, money, etc.) keeps coming in steady
+    supply (from an unknown source).
+beadel N. yellow-tailed brown parrotfish (Callyodan dubius). --bebeadel V.S. 
+    REDUP. (skin) smooth.
+beakl V.A.S. is to be shot. See boes.
+beb-el STEM N. POSS. See bab.
+bebael1 V.A.S. is to be formed, shaped or created. See omeob.
+bebael2 N. gold-spotted spinefoot (Siganus chrysospilos) or rabbit fish (Siganus 
+    punctatus). --Ucherkemul el bebael one of legendary chiefs of Ngeaur.
+beball V.A.S. is to be formed, shaped or created. See omeob.
+bebeadel V.S. REDUP. (skin) smooth. See beadel. 
+bebedeng V.S. REDUP. rather stagnant. See bedeng.
+bebeot V.S. REDUP. fairly easy or cheap. See beot. --bebeot a rengul rather 
+    undecided about something; not take something too seriously. E.g. Ng ko er a 
+    bebeot a cheral a klok er a Hong Kong. The prices for watches are pretty low in
+    Hong Kong. E.g. ko er a bebeot a rengul a Droteo er a omerael el mo."
+"3L60IFZKF2HX66N0GF6XJO8VH8VHH0","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","3","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","36PW28KO4ZV9YTMEAAT16JJYLKTAEC","A3AJOG8FAY1D73","Approved","Wed Dec 17 20:09:22 GMT 2014","Wed Dec 17 20:16:38 GMT 2014","Thu Dec 18 12:16:38 PST 2014","Wed Dec 17 12:28:41 PST 2014","","","436","100% (28/28)","100% (20/20)","100% (20/20)","http://tekinged.com/png-halves/dict-065-right.png","er a Hawaii. Droteo is rather undecided about travelling to Hawaii.
+bebetok v.s.redup. just more than enough. See betok.
+bebibrurek v.s.redup. yellowish. See bibrurek.
+bebil n. a little; a few; some; other. --er a bebil er a taem sometimes.
+
+
+bebleob v.r.s.redup. (generally) round in shape. See bleob.
+
+bebubong v.s.redup. somewhat senile. See bubong.
+
+bebulis v.s.redup. half-witted; prone to wandering around and talking to onjeself. See bulis.
+bech-il stem n.poss. See buch.
+
+bechachas v.s.redup. black; sooty. See chas.
+
+bechachau v.s.redup. empty. See chachau. --bechachongel n.oblig.poss. action of emptying pot, etc. --bechachau a bdelul stupid; empty-headed.
+
+bechachongall v.a.s. is to be emptied out. See chachau.
+
+bechachongel n.oblig.poss. action of emptying pot, etc. See bechachau.
+bechachutem v.s.redup. covered or soiled with dirt. See chutem.
+
+bechakl 1. n. float for fishnet. 2. v.s. unable to submerge into water (because too fat, etc.). --becheklel n.poss. action of drifting --omechakl 1. v.t. (make) float; let drift. 2. v.i. float; drift --blechakl v.r.s. --bechekill v.a.s. --obechakl v.erg. go adrift.
+
+
+
+
+bechall v.a.s. (firewood) is to be split. See omachel.
+
+bechall v.a.s. (long object) is to be thrown. See boech.
+bechars n. cockroach.
+bechebechall 1. b.a.s. is to be put into straight line or row. 2. n.a.s. picture puzzle. See omechobech.
+
+bechechedereder v.s.redup. always wanting to lead; domineering; bossy; pushy. See mengedereder.
+bechecherd (a rengul) v.s.redup. irascible; easily fed up with. See chechard.
+bechecherirs v.s.redup. condinually jealous or over-possessive about one's spouse. See mengerirs."
+"3L60IFZKF2HX66N0GF6XJO8VH8VHH0","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","3","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3DBQWDE4Y6XGMTNA8D53OVXL7X95N4","A3QVIVWCPBEWYY","Rejected","Wed Dec 17 18:45:42 GMT 2014","Wed Dec 17 19:05:28 GMT 2014","Thu Dec 18 11:05:28 PST 2014","","Wed Dec 17 11:24:51 PST 2014","Too many typos.  Even in the English definitions section.","1186","33% (1/3)","33% (1/3)","33% (1/3)","http://tekinged.com/png-halves/dict-065-right.png","bebetok v.s. redup. just more than enough. See betook.
+bebibrurek v.s. redup. yellowish. See bibrurek.
+bebil n. a little; a few; some; other. --er a bebil er a taem sometimes.
+bebleob v.r.s. redup. (generally) round in shape. See bleob.
+bebubong v.s. redup. somewhat senile. See bubong.
+bebulis v.s. redup. half-witted; prone to wandering around and talking to oneself. See bulis.
+bech-il stem n. poss. See buch.
+bechachas v.s. redup. black; sooty. See chas.
+bechachau v.s. redup. empty. See chachau. --bechachongel n. oblig.poss. action of emptying pot, etc. --behachau a bdelul stupid; empty-headed.
+bechachongall v.a.s. is to be emptied out. See chachau.
+bechachongel n. oblig.poss. action of emptying pot, etc. see bechachau.
+bechachutem v.s. redup. covered or soiled with dirt. See chutem.
+bechakl 1. n. float for fishnet. 2. v.s. unable to submerge into water (because too fat, etc.). --becheklel n. poss. action of drifting. --omechakl 1. v.t. (make) float; let drift. 2. v.i. float; drift --blechakl v.r.s. --bechekill v.a.s. --obechakl v.erg. go adrift.
+bechall v.a.s. (firewood) is to be split. See omachel.
+bechall v.a.s. (long object) is to be thrown. See boech.
+bechars n. cockroach.
+bechbechall 1. v.a.s. is to be put into straight line or row. 2. n.a.s. picture puzzle. See omechobech.
+bechechedereder v.s. redup. alaways wanting to lead; domineering; bossy; pushy. See mengedereder.
+bechccherd (a rengul) v.s. redup. irascible; easily fed up with. See checheerd.
+bechccherirs v.s. redup. continually jealous or over-possessive about one's spouse. See mengerirs."
+"3L60IFZKF2HX66N0GF6XJO8VH8VHH0","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","3","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3XXU1SWE8MUA737K23UMLUHURI10AW","A3S0ADDLHL2GUD","Approved","Wed Dec 17 18:55:24 GMT 2014","Wed Dec 17 19:25:52 GMT 2014","Thu Dec 18 11:25:52 PST 2014","Wed Dec 17 11:31:18 PST 2014","","","1828","100% (12/12)","100% (2/2)","100% (2/2)","http://tekinged.com/png-halves/dict-065-right.png","bebetok V.S.REDUP. just more than enough. See betok.
+bebibrurek V.S.REDUP. yellowish. See bibrurek.
+bebil N. a little; a few; some; other. --er a bebil er a taem sometimes.
+bebleob V.R.S.REDUP. (generally) round in shape. See bleob.
+bebubong V.S. REDUP. somewhat senile. See bubong.
+bebulis V.S.REDUP. half-witted; prone to wandering around and talking to oneself. See bulis.
+bech-il STEM N. POSS. See buch.
+bechachas V.S.REDUP. black; sooty. See chas.
+bechachau V.S.REDUP. empty. See chachau. --bechachongel N.OBLIG.POSS. action of emptying pot, etc.--bechachau a bdelul stupid; empty-headed.
+bechachongall V.A.S. is to be emptied out. See chachau.
+bechachongel N.OBLIG.POSS. action of emptying pot, etc. See bechachau.
+bechachutem V.S.REDUP. covered or soiled with dirt. See chutem.
+bechakl 1. N. float for fishnet. 2. V.S. unable to submerge into water (because too fat, etc.) --becheklel N.POSS. action of drifting. --omechakl 1. V.T. (make) float; let drift. 2. V.I. float; drift. --biechakl V.R.S. --bechekill V.A.S. --obechakl V.ERG. go adrift.
+bechall V.A.S. (firewood) is to be split. See omachel.
+bechall V.A.S. (long object) is to be thrown. See boech.
+bechars N. cockroach.
+bechebechall 1. V.A.S. is to be put into straight line or row.  2. N.A.S. picture puzzle. See omechobech.
+bechechedereder V.S.REDUP. always wanting to lead; domineering; bossy; pushy. See mengedereder.
+bechecherd (a rengul) V.S.REDUP. irascible; easily fed up with. See checherd.
+bechecherirs V.S.REDUP. continually jealous or over-possessive about one's spouse. See mengerirs."
+"311HQEI8RRFM42HI9SQSSIN6ZVFZ75","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","36WLNQG78Z9EH3R6GOTX1U3432OBEI","A3AJOG8FAY1D73","Approved","Wed Dec 17 20:55:00 GMT 2014","Wed Dec 17 21:12:44 GMT 2014","Thu Dec 18 13:12:44 PST 2014","Wed Dec 17 15:45:27 PST 2014","","","1064","100% (28/28)","100% (20/20)","100% (20/20)","http://tekinged.com/png-halves/dict-066-left.png","bechechisngull v.s. always frowning. See mengisngull.
+beched-el stem n.poss. See bached.
+beched-el stem n.poss. See beached.
+bechedall v.a.s. is to be broken off or broken into pieces. See omached.
+bechedechudel (a rengul) v.s. irritable. See chedechudel.
+bechedereder v.s. always wanting to lead; domineering; bossy; pushy. See mengadereder.
+
+bechei n. land snake.
+bechekill v.a.s. is to be made to float or let to drift. See bechakl.
+
+bechekl-el stem n.poss. See bechakl, bechukl.
+bechel-el stem n.poss. See bachel.
+bechelchold v.s.redup. always farting; flatulent. See chold.
+bechelechelingaol v.s.redup. condinually jealous. See mechechei. --blechelechelingaol n.r.s. envy; jealousy; selfishness. --bechelechelingaol a rengul selfish; greedy; stingy; self-centered.
+
+bechelelengang v.s.redup.inch. becoming white.
+
+becheleleu v.s.redup. white. See cheleleu. --bechelelengang v.s.redup.inch. becoming white --becheleliol v.s. very white.
+
+
+becheleliol v.s. very white. See becheleleu.
+
+bechengall v.a.s. is to be stepped on and crushed. See omoch.
+becheremremangel (a rengul) v.s. greedy; stingy. See mengeremrum.
+
+becheritem b.s. having appearance of cheritem--i.e., dark red and shiny. See cheretem. 
+bechertotel v.s. evacuating frequently. See chert1.
+
+beches v.s. new; clean; clear; exact; blunt; frank; straight. --bleches n.r.s. new or clean state of something; newness. --omekbeches v.caus. renovate; repair; make new. --bechesong v.s.inch. is getting clean. vbeches el ears recent immigrants to a village. --beches el ralm clean or pure water. --beches el rak poinsettia. e.g. Ak di beches el dmu er kau. I'll tell you frankly or bluntly.
+bechesechusem v.s. dirty or smeared (with food). See chesechusem-.
+becheseng-el stem n.poss. See bechos.
+bechesong v.s. inch. is getting clean. See beches."
+"311HQEI8RRFM42HI9SQSSIN6ZVFZ75","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3TU5ZICBRD0KC8J4M34N492HEY78Q6","A3QVIVWCPBEWYY","Approved","Wed Dec 17 19:22:22 GMT 2014","Wed Dec 17 19:42:43 GMT 2014","Thu Dec 18 11:42:43 PST 2014","Wed Dec 17 12:28:41 PST 2014","","","1221","33% (1/3)","33% (1/3)","33% (1/3)","http://tekinged.com/png-halves/dict-066-left.png","bechechisngull V.S. always frowning. See mengisngull.
+beched-el STEM N. POSS. See bached.
+beched-el STEM N. POSS. See beached.
+bechedall V.A.S. is to be broken off or broken into pieces. See omached.
+bechedechudel (a rengul) V.S. irritable. See chedechudel.
+bechedereder V.S. always wanting to lead; domineering; bossy; pushy. See 
+    mengedereder.
+bechei N. land snake.
+bechekill V.A.S. is to be made to float or let to drift. See bechakl.
+bechekl-el STEM N. POSS. See bechakl, bechukl.
+bechel-el STEM N. POSS. See bachel.
+bechelchold V.S. REDUP. always farting; flatulent. See chold.
+bechelechelingaol V.S. REDUP. continually jealous. See mechechei. 
+    --blechelechelingaol N.R.S. envy; jealousy; selfishness. --bechelechelingaol a 
+    rengul selfish; greedy; stingy; self-centered.
+bechelelengang V.S. REDUP. INCH. becoming white.
+becheleleu V.S. REDUP. white. See cheleleu. --bechelelengang V.S. REDUP.INCH. 
+    becoming white. --becheleliol V.S. very white.
+becheleliol V.S. very white. See becheleleu.
+bechengall V.A.S. is to be stepped on and crushed. See omoch.
+becheremremangel (a rengul) V.S. greedy; stingy. See mengeremrum.
+becheritem V.S. having appearance of cheritem--i.e., dark red and shiny. 
+    See cheritem.
+bechertotel V.S. evacuating frequently. See chert1.
+beches V.S. new; clean; clear; exact; blunt; frank; straight. --bleches N.R.S. new
+    or clean state of something; newness. --omekbeches V. CAUS. renovate; 
+    repair; make new. --bechesong V.S. INCH. is getting clean. --beches el ears 
+    recent immigrants to a village. --beches el ralm clean or pure water. --beches el
+    rak poinsettia. E.g. Ak di beches el dmu er kau. I'll tell you frankly or bluntly.
+bechesechusem V.S. dirty or smeared (with food). See chesechusem-.
+becheseng-el STEM N. POSS. See bechos.
+bechesong V.S. INCH. is getting clean. See beches."
+"33NOQL7T9NYQ4GM1JXIY6IJ1AFLZ8S","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","39N5ACM9HEMZQ11ZRIVC407IT9L9PP","A3AJOG8FAY1D73","Approved","Wed Dec 17 20:43:46 GMT 2014","Wed Dec 17 20:54:59 GMT 2014","Thu Dec 18 12:54:59 PST 2014","Wed Dec 17 15:45:28 PST 2014","","","673","100% (28/28)","100% (20/20)","100% (20/20)","http://tekinged.com/png-halves/dict-066-right.png","bechetall v.a.s. is to be extracted or extirpated. See omechit.
+bechidel v.a.s. is to be broken off or broken into pieces. See omached.
+bechiil v.s. married. See buch. --chebechiil n. marriage. --telbechiil n. one marriage.
+bechochod v.s. fragrant; aromatic. See chochod. --blechochod n.r.s. fragrant smell.
+bechoderengesakl v.s. syn. bekoderengesakl.
+bechoel v.a.s. is to be connected. See omech.
+bechos n. thumb; big toe. --bechesengel n.poss. --bechesengel a chim thumb. --bechesengel a oach big toe. --telbechos, erebechos n. one, two thumb's lengths. --tmut er a bechos suck on one's thumb.
+
+
+
+bechui n. breadfruit blossom.
+bechukl n. rope binding soaes to hull of a canoe. --becheklel n.poss.
+bed-ul stem n.poss. See bad.
+bedachel1 n. type of tree.
+bedachel2 v.a.s. (canoe, boat, etc.) is to have curve made in it. See bodech.
+
+bedakl n. bag of waters; sac of amniotic fluid.
+bedaoch n. black noddy (dives rapidly into water to catch fish) (Anous minutus or Anous tenuirostris). --bedaoch-, bedochel n.oblig.poss. action of beating sea with pole or knocking down fruit from tree. --omedaoch v.t. beat (sea) with pole (to scare fish); knock down (fruit) with long pole. --bldaoch, uldaoch v.r.s. --bedechall, udochall v.a.s. --kebedaoch v.recip. beat sea or knowk down fruit together. --mechadelbedaoch n. brown noddy (Anous stolidus). --chereselbedaoch n. type of noddy bird.
+
+
+
+
+bedebadel n. syn. nglosech er a bedebadel.
+bedebangd v.s.redup. bouncy; having a good bounce. See bangd1.
+
+bedebedechakl n.redup. sooty tern (swoops down to surface of water to catch fish) (Sterna anaetheta). See omedechakl.
+
+bedech-el stem n.poss. See bodech.
+bedechall1 v.a.s. (sea) is to be beaten with pole; (fruit) is to be knocked down with pole. See bedaoch.
+bedechall2 v.a.s. (canoe, boat, etc.) is to have curve made in it. See bodech.
+bedechall3 v.a.s. is to be picked up with fingers. See omodech2.
+bedechekill v.a.s. is to be thrown down (in fighting, etc.). See omedechakl."
+"33NOQL7T9NYQ4GM1JXIY6IJ1AFLZ8S","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3S96KQ6I9M39LJ7NKF9YV6R59XCTDM","A3S0ADDLHL2GUD","Approved","Wed Dec 17 20:06:33 GMT 2014","Wed Dec 17 20:23:25 GMT 2014","Thu Dec 18 12:23:25 PST 2014","Wed Dec 17 12:28:41 PST 2014","","","1012","100% (12/12)","100% (2/2)","100% (2/2)","http://tekinged.com/png-halves/dict-066-right.png","bechetall V.A.S. is to be extracted or extirpated.  See omechit.
+bechidel V.A.S. is to be broken off or broken into pieces.  See omached.
+bechiil V.S. married. See buch. --chebechiil N. marriage. --telbechiil N. one marriage.
+bechochod V.S. fragrant; aromatic. See chochod. --blechochod N.R.S. frangrant smell.
+bechoderengesakl V.S. syn. bekoderengesakl.
+bechoel V.A.S. is to be connected. See omech.
+bechos N. thum; big tow. --bechesengel N. POSS. --bechesengel a chim thumb. --bechesengel a oach big toe. --telbechos, crebechos N. one, two thumb's lengths.  --tmut er a bechos suck on one's thumb.
+bechui N. breadfruit blossom.
+bechukl N. rope binding soaes to hull of canoe. --becheklel N.POSS.
+bedul STEM N. POSS. See bad.
+bedachel 1 N. type of tree.
+bedachel 2 V.A.S. (canoe, boat, etc.) is to have curve made in it. See bodech.
+bedakl N. bag of waters; sac of amniotic fluid.
+bedaoch N. black noddy (dives rapidly into water to catch fish) (anous minutus or Anous tenuirostris). --bedaoch-, bedochel N.OBLIG. POSS. action of beating sea with pole or knocking down fruit from tree. --omedaoch V.T. beat (sea) with pole (to scare fish); knock down (fruit) with long pole. --bidaoch, uldaoch V.R.S. --bedechall, udochall V.A.S. --kebedaoch V.RECIP. beat sea or knock down fruit together. --mechadelbedaoch N. brown noddy (Anous stolidus). --chereselbedaoch N. type of noddy bird.
+bedebadel N. syn. nglosech er a bedebadel.
+bedebangd V.S.REDUP. bouncy; having a good bounce. See bangd 1.
+bedebedechakl N.REDUP. sooty tern (swoops down to surface of water to catch fish) (Sterna anaetheta). See omedechakl.
+bedechel STEM N. POSS. See bodech.
+bedechall 1 V.A.S. (sea) is to be beaten with pole; (fruit) is to be knocked down with pole. See bedaoch.
+bedechall 2 V.A.S. (canoe, boat, etc.) is to have curve made in it. See bodech.
+bedechall 3 V.A.S. is to be picked up with fingers. See omodech 2.
+bedechekill V.A.S. is to be thrown down (in fighting, etc.). See omedechakl."
+"3DQYSJDTYKAI8MWDVIGD17ZCDIMEXA","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3G0WWMR1UVJ5FF68S5T6M6SC3U1QN9","A3AJOG8FAY1D73","Approved","Wed Dec 17 21:37:12 GMT 2014","Wed Dec 17 21:47:00 GMT 2014","Thu Dec 18 13:47:00 PST 2014","Wed Dec 17 15:45:28 PST 2014","","","588","100% (28/28)","100% (20/20)","100% (20/20)","http://tekinged.com/png-halves/dict-067-left.png","bedek-el stem n.poss. See badek.
+bedekl-el stem n.poss. See bedikl.
+bedektall v.s. fearfull; shy. See dakt.
+bedel n. macaranga tree (good for firewood) (Macaranga carolinensis Volk.). --charmbedel n. blue-faced parrotfinch (Erythrura trichroa).
+bedelkall v.s. fearful; shy.
+bedeng v.s. (liquid) stagnant, stale or giving off stagnant smell. --bldeng n.r.s. stagnant state (of liquid). --bebedeng v.s.redup. rather stagnant.
+
+
+bedengang v.s.inch. is (just) going to sleep. See bad.
+bendengel n.oblig.poss. body; corpse; skin; color; type; kind; appearance; physique. --bedengel a chutem brown. --bedengel a chudel green. vbedengel a biib green. --bedengel a eanged sky blue. --bedengel a daob deep blue. --bedengel a daob deep blue. --bedengel a beab/chab gray. --kloklel a bedengel one's personal property. --bek el bedengel a... all kinds or sorts of; assorted. --olab bedengel well-built; able-bodied; ready and able. --ngar er ngil er a bendengel a kmo... have a premonition that...; have a gut feeling that...; feel in one's bones that... e.g. Ng ngar er ngii er a bedengek a kmo ng mo er ngii a mekngit. I have a premonition that something bad will happen.
+
+
+
+
+
+
+bederechuis v.s. (starchy food) spoiled (by water), decomposing or moldy. See chuis.
+bederengachet v.s. cowardly; clumsy; undependable. --blderengachet n.r.s. cowardliness; clumsiness; undependability.
+
+bedes-il stem n.poss. See besos.
+bedesall1 v.a.s. (fish) is to be boiled in water. See bodes.
+
+bedesall2 v.a.s. is to be arranged or lined up or displayed. See omades.
+bediangau n. woman who spends a lot of time with kitchen duties. See ngau, omed.
+bedikel v.a.s. is to be cut, slit or operated on. See bodk.
+
+
+bedikl n. any trap used to catch animals on land; snare. --bedeklel n.poss. --omedikl v.t. trap; ensnare; raise (pole or mast). --bldikl v.r.s. --bedkall v.a.s. --malkebedikl (< malk er a bedikl) n. decoy chicken used to attract other chickens to trap. --bedikl er a beab mouse-trap. --bedikl er a Sai"
+"3DQYSJDTYKAI8MWDVIGD17ZCDIMEXA","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3TMFV4NEP8DPW5FQYC3TWYK3239W8R","ABX5OQLR6UNBC","Approved","Thu Dec 18 02:13:18 GMT 2014","Thu Dec 18 02:30:36 GMT 2014","Thu Dec 18 18:30:36 PST 2014","Wed Dec 17 20:11:58 PST 2014","","","1038","100% (7/7)","100% (7/7)","100% (7/7)","http://tekinged.com/png-halves/dict-067-left.png","bedekel STEM N. POSS. See badek.
+bedekiel STEM N. POSS. see bedikl
+bedektall V.S. fearful; shy. See dakt.
+bedel N. macaranga tree (good for firewood) (Macaranga carolinensis Volk.). --charmbedel N. blue-faced parrotfinch (Erythrura trichroa).
+bedelkall V.S. fearful; shy.
+bedeng V.S. (liquid) stagnant, stale, or giving off stagnant smell. --bideng N.R.S. stagnant state (of liquid). --bebedeng V.S. REDUP. rather stagnant.
+bedengang V.S. INCH. is (just) going to sleep. See bad.
+bedengel N. OBLIG. POSS. body; corpse; skin; color; type; kind; appearance; physique. --bedengel a chutem brown. --bedengel a biib green. --bedengel a eanged sky blue. bedengel a daob deep blue. --bedengel a beab/chab gray. --kloklel a bedengel one's personal property. --bek el bedengel a... all kinds or sorts of; assorted. --olab bedengel well-built; able-bodied; ready and able. --ngar er ngii er a bedengel a kmo... have a premonition that...; have a gut feeling that...; feel in one's bones that... E.g. Ng ngar er ngii er a bedengek a kmo ng mo er ngii a mekngit. I have a premonition that something bad will happen.
+bederechuis V.S. (starchy food) spoiled (by water), decomposing or moldy. See chuis.
+bederengachet V.S. cowardly; clumsy; undependable. --biderengachet N. R. S. cowardliness; clumsiness; undependability.
+bedesil STEM N. POSS. besos.
+bedesall1 V.A.S. (fish) is to be boiled in water. See bodes.
+bedesall2 V.A.S. is to be arranged or lined up or displayed. See omades.
+bediangau N. woman who spends a lot of time with kitchen duties. See ngau, omed.
+bedikel V.A.S. is to be cut, slit, or operated on. See bodk.
+bedikl N. any trap used to catch animals on land; snare. --bedeklel N. POSS. --omedikl V.T. trap; ensnare; raise (pole or mast). --bldikl V.R.S. --bedkall V.A.S. --malkebedikl N. a decoy chicken used to attract other chickens to trap. --bedikl er a beab mouse-trap. --bedikl er a Sai-"
+"3VDVA3ILICE82Z7BUKLU61GNLJLG10","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","34QN5IT0TZQWOFE555A8P3BZ1ZZ808","A2JJ4YUI3L3LGI","Approved","Thu Dec 18 08:49:46 GMT 2014","Thu Dec 18 09:09:58 GMT 2014","Fri Dec 19 01:09:58 PST 2014","Thu Dec 18 12:16:06 PST 2014","","","1212","100% (7/7)","100% (5/5)","100% (5/5)","http://tekinged.com/png-halves/dict-067-right.png","bal chicken trap using decoy chicken (orig., introduced from Saipan).
+bedis v.s. (coconut, betel nut) rotten or rotten-smelling.  --bidis N.R.S. rotten state (of coconut, betel nut), --bedis a rengul inconsiderate.
+bediu v.s. putrid; foul-smelling.  --bediu a ngor have bad breath.
+bedk-el STEM N. POSS.  See bodk.
+bedkall V.A.S. is to be trapped or ensnared.  See bedikl.
+bedngiuk  1. N.; 2. V.S. syn. beknigiuk.
+bedoch-el STEM N. OBLIG. POSS.  See bedaoch.
+bedochel V.S. (words, medicine) effective or strong.  --bldochel N.R.S. efficacity or strength (of medicine, etc.).
+bedoel V.A.S. (ball, etc.) is to be caught; it to be grabbed; (money) is to be borrowed.  See omed.
+bedukl V.A.S. is to be arranged or lined up or displayed.  See omades.
+bedul 1 N. head; leader --bdelul N. POSS.  --bingsbedul N. headache.  --tabderrir V.S. of one mind; in agreement.  --omings a bdelul have a light but continuous headache.  --ungll a bdelul smart.  --mekngit a bdelul stupid.  --tedobech a bdelul crazy.  --bdelulechang (<bdelul a chang) N. end of jetty; landing place.  --bdelul a cheldebechel group leader.  --bdelul a omarael tour leader.  --medal a bedul forehead.  --btil a bedul back of head.  --omilel a bedul skull.  --medal a kluk type of Palauan money.
+bedul 2 N. OBLIG. POSS. direction; area or space facing onto; upstream  --mobedul N. OBLIG. POSS. general location or direction.  E.g. A droteo a millutk el bedul a kboub.  Droteo pointed to the wall.  E.g. A Toki a rirurt el bedul a skuul.  Toki ran in the direction of the school.  E.g.  A skull a dechor el bedul a M-Dok.  The school faces in the direction of M-Dock.  E.g. A Droteo a melecholb er a bedul.  Droteo is bathing upstream.
+bedull V.A.S. is to be extracted; is to be pulled or plucked out.  See omadel.
+beduut N. rabbit fish (Siganus argenteus).
+beek (Eng. bake) V.T. bake.
+beemech V.S. (fish, etc.)  somewhat rotten and smelly.
+bek1 MOD. each; every.  --rebek (referring to"
+"3VDVA3ILICE82Z7BUKLU61GNLJLG10","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3ZPBJO59KP0JGAGSKLS9HNOHY3UDH9","A3AJOG8FAY1D73","Approved","Wed Dec 17 21:00:15 GMT 2014","Wed Dec 17 21:26:42 GMT 2014","Thu Dec 18 13:26:42 PST 2014","Wed Dec 17 15:45:26 PST 2014","","","1587","100% (28/28)","100% (20/20)","100% (20/20)","http://tekinged.com/png-halves/dict-067-right.png","bal chicken trap using decoy chicken (orig., introduced from Saipan).
+bedis v.s. (coconut, betel nut) rotten or rotten-smelling. --bldis n.r.s. rotten state (of coconut, betel nut). --bedis a rengul inconsiderate.
+
+bediu v.s. putrid; foul-smelling. --bldiu n.r.s. putrid smell. --bediu a ngor have bad breath.
+
+bedk-el stem n.poss. See bodk.
+bedkall v.a.s. is to be trapped or enshared. See bedikl.
+
+bedngiuk 1. n.; 2. v.s. syn. bekngiuk.
+bedoch-el stem n.oblig.poss. See bedaoch.
+bedochel v.s. (words, medicine) effective or strong. --bldochel n.r.s. efficacity or strength (of medicine, etc.).
+
+bedoel v.a.s. (ball, etc.) is to be caught; is to be grabbed; (money) is to be borrowed. See omed.
+
+bedukl v.a.s. is to be arranged or lined up or displayed. See omades.
+bedul1 n. head; leader. --bdelul n.poss. --bingsbedul n. headache. --tabderrir v.s. of one mind; in agreement. --omings a bdelul have a light but continuous headache. --ungil a bdelul smart. --mekngit a bdelul stupid. --dedobech a bdelul crazy. --bdelulechang (< bdelul a chang) n. end of jetty; landing place. --bdelul a cheldebechel group leader. --bdelul a omerael tour leader. --medal a bedul forehead. --btil a bedul back of head. --omilel a bedul skull. --medal a kluk type of Palauan money.
+
+
+
+
+bedul2 n.oblig.poss. direction; area or space facing onto; upstream. --mobedul n.oblig.poss. general location or direction. e.g. A Droteo a millutk el bedul a kboub. Droteao pointed to the wall. e.g. A Toki a rirurt el bedul a skuul. Toki ran in the direction of the school. e.g. A skuul a dechor el bedul a M-Dok. The school faces in the direction of M-Dock. e.g. A Droteo a melecholb er a bedul. Droteo is bathing upstream.
+
+
+
+
+bedull v.a.s. is to be extracted; is to be pulled or plucked out. See omadel.
+
+beduut n. rabbit fish 9Siganus argenteus).
+beek (Eng. bake) v.t. bake.
+beemech v.s. (fish, etc.) somewhat rotten and smelly.
+bek1 mod. each; every. --rebek (referring to"
+"3NZ1E5QA6Y0BZ00JFLVS8G27HMYB5W","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3AMW0RGHOD1KF35TSSEHM122YXFNPD","A3AJOG8FAY1D73","Approved","Wed Dec 17 19:05:41 GMT 2014","Wed Dec 17 19:15:04 GMT 2014","Thu Dec 18 11:15:04 PST 2014","Wed Dec 17 11:31:17 PST 2014","","","563","100% (28/28)","100% (20/20)","100% (20/20)","http://tekinged.com/png-halves/dict-068-left.png","human beings only). --bek el tutau/sils/buil, etc. every morning, day or month, etc.
+bek2 (Eng. bag) N. sack; bag. --bekengel N. POSS.
+bekai N. pottery; clay pot or jar; incubator bird (shaped like jar); Micronesian megapode (Megapodius laperouse). --beiul N. POSS. --chad er a bekai potter
+bekakbekak N. cackling of a hen. --oubekakbekak V.J. cackle.
+bekall N. sail; canoe which is sailing; (actoin 9f) driving or sailing. --bekellel N. POSS. --bekellel a maiai driving a car; --bakellel a chedeng shark's fin. --omekall 1. V.T. drive (car); drive (canoe) with raised sails. 2. V.I. (shark, etc.) swim near surface of water with fin showing --blekall V. RECIP. go sailing together (each in his own canoe). --chad er a bekall driver.
+
+
+
+
+
+
+bekasoch V.S. (taro plant in storage, etc.) musty or moldy.
+bekatel V.A.S. is to be unwrapped, unravelled, unwound or undone. See omoket.
+
+
+bekbeduul V.S. rocky; having many rocks. See chibekbad.
+bekeasem V.S. prone to imitation; be a copy-cat. See melasem.
+
+
+bekebau V.S. (cooked meat or fish, cooking pot, etc.) fouwl-smelling; smell of vagina. See bau.
+bekebed V.S. skilled at catching (ball, etc.). See omed.
+bekebekall V.A.S. is to be gladdened or made happy. See omekebek.
+bekeberech V.S. smell of the sea or raw fish. See berech.
+
+
+bekebesbes V.S. REDUP. forgetful; absent0minded. See besbes.
+
+bekebet V.S. prone to lying around or spending a lot of time in bed. See bet.
+bekeblengur V.S. prone to eating a lot of food at mealtimes. See blengur.
+bekebloridang V.S. smell of pomade. See bloridang.
+bekebrotech V.S. prone to slapping. See brotech.
+
+bekebtil V.S. syn. bekebut.
+bekebul1 N. OBLIG. POSS. smell identical to that of something else. See bau. E.g. Ng ko er a bekebul a bung. It smells just like a flower."
+"3NZ1E5QA6Y0BZ00JFLVS8G27HMYB5W","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3VE8AYVF8MWNLJTV8NTTSAY370LF8E","ABX5OQLR6UNBC","Approved","Thu Dec 18 02:30:37 GMT 2014","Thu Dec 18 02:45:43 GMT 2014","Thu Dec 18 18:45:43 PST 2014","Wed Dec 17 20:11:09 PST 2014","","","906","100% (7/7)","100% (7/7)","100% (7/7)","http://tekinged.com/png-halves/dict-068-left.png","human beings only). --bek el tutau/sils/buil, etc every morning, day or month, etc.
+bek2 (Eng. bag) N sack; bag. --bekengel N. POSS.
+bekai N. pottery; clay pot or jar; incubator bird (shaped like jar); Micronesian megapode (Megapodius laperouse). --beklul N. POSS. --chad er a bekal potter.
+bekakbekak N. cackling of hen. --oubekakbekak V.I. cackle.
+bekall N. sail; canoe which is sailing; (action of) driving or sailing. --bekellel N. POSS. --bekellel a mlai driving a car; --bekellel a chedeng shark's fin. --omekall 1 V.T. drive (car); drive (canoe) with raised sails. 2. V.I. (shark, etc.) swim near surface of water with fin showing. --blekall V.R.S. also, (person) driven by desire to wander or spend time away from home. --kebekall V. RECIP. go sailing together (each in his own canoe). --chad er a bekall driver.
+bekasoch V.S. (taro plant in storage, etc.) musty or moldy.
+bekatel V.A.S. is to be unwrapped, unravelled, unwound or undone. See omoket.
+bekbeduul V.S. rocky; having many rocks. See chibekbad.
+bekeasem V.S. prone to imitation; be a copy-cat. See melasem.
+bekebau V.S. (cooked meat or fish, cooking pot, etc.) foul-smelling; smell of vagina. See bau.
+bekebed V.S. skilled at catching (ball, etc.). See omed.
+bekebekall. V.A.S. is to be gladdened or made happy. See omekebek.
+bekeberech V.S. smell of the sea or raw fish. See berech.
+bekebesbes V.S. REDUP. forgetful; absent-minded. See besbes.
+bekebet V.S. prone to lying around or spending a lot of time in bed. See bet.
+bekeblengur V.S. prone to eating a lot of food at mealtimes. See blengur.
+bekebloridang V.S. smell of pomade. See bloridang.
+bekebrotech V.S. prone to slapping. See brotech.
+bekebtil V.S. syn. bekebut.
+bekebul1 N. OBLIG. POSS. smell identical to that of something else. See bau. E.g. Ng ko er a bekebul a bung. It smells just like a flower."
+"3CESM1J3EH2Z67Y8FV1TN0TSNIS6WO","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3CP1TO84PT0KX7YHMU7JW7UNW2K52F","A3AJOG8FAY1D73","Approved","Wed Dec 17 18:54:46 GMT 2014","Wed Dec 17 19:04:58 GMT 2014","Thu Dec 18 11:04:58 PST 2014","Wed Dec 17 11:31:17 PST 2014","","","612","100% (28/28)","100% (20/20)","100% (20/20)","http://tekinged.com/png-halves/dict-068-right.png","bekebul2 V.S. tending to place many restrictions on things. See bul1.
+bekebut V.S. (woman) having large buttocks or vabina; (man) having large buttocks. See but.
+bekebuul V.S. (person, animal) has strong (body) odor. See buul.
+bekechais V.S. boastful; bragging; prone to exaggerating or distorting stories (usually, unintentionally). See chais1.
+bekechat V.S. (clothes, etc.) smelling of smoke. See chat.
+bekecheluch V.S. smell of coconut oil. See cheluch.
+
+bekechemang V.S. smell of crabs (after cooking or eating crabs, etc.). See chemang.
+
+
+bekecheremrum V.S. smell of sea cucumber. See cheremrum.
+bekecheroll V.S. (woman) fertile or having many children. See cheroll.
+bekedangesmad V.S. (person) always making sure to behave properly. See malanges.
+
+bekedebedebek V.S. having a good memory. See debedebek.
+
+bekedechedechaol. V.S. prone to talking or having conversations. See megedecheduch.
+bekededengmes V.S. REDUP. always respectful. See melengmes.
+bekedengmes V.S. always respectful. See melengmes. 
+bekedidengmes V.S. REDUP. syn. bekededengmes.
+
+
+bekekatuu V.S. smell of a cat. See katuu.
+bekekemim V.S. REDUP. have sour or rotting smell (e.g., of garbage). See kemim.
+bekekerkard V.S. REDUP. reddish. See bekerkard.
+
+bekekesengorech V.S. REDUP. smell rather like a pig's house. See bekesengorech. 
+
+
+bekekesib V.S. prone to sweating. See kesib1.
+bekekesius V.S. REDUP. rather vulgar in speech. See bekesius.
+bekeketekoi V.S. REDUP. rather talkative. See beketekoi.
+bekekim V.S. smell of clams (after cleaning or cooking clams, etc.). See kim.
+bekekitel V.S. prone to whimpering; (woman) prone to moaning during sexual intercourse. See olekitel.
+bekeklang V.S. INCH. getting worried. See bekikl."
+"3CESM1J3EH2Z67Y8FV1TN0TSNIS6WO","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3ZWFC4W1UU6T3O8R7WZTJRT8XTCFRV","A2JJ4YUI3L3LGI","Approved","Thu Dec 18 08:50:17 GMT 2014","Thu Dec 18 09:27:02 GMT 2014","Fri Dec 19 01:27:02 PST 2014","Thu Dec 18 12:16:06 PST 2014","","","2205","100% (7/7)","100% (5/5)","100% (5/5)","http://tekinged.com/png-halves/dict-068-right.png","bekebul 2 V.S. tending to place many restriction on things.  See bul1.
+bekebut V.S. (woman) having large buttocks or vagina; (man) having large buttocks.  See but.
+bekebuul V.S. (person, animal) has strong (body) odor.  See buul.
+bekechais V.S. boastful; bragging; prone to exaggerating or distorting stories (usually, unintentionally).  See Chais1.
+bekechat V.S. (clothes, etc.) smelling of smoke.  See chai.
+bekecheluch V.S. smell of coconut oil.  See cheluch.
+bekechemang V.S. smell of crabs (after cooking or eating crabs, etc.)  See chemang.
+bekecheremrum V.S. smell of sea cucumber.  See cheremrum.
+bekecheroll V.S. (woman) fertile or having many children.  See cheroll.
+bekedangesmad V.S. (person) always making sure to behave properly.  See melanges.
+bekedebedebek V.S. having a good memory.  See debedebek.
+bekedechedechaol V.S. prone to talking or having conversations.  See mengedecheduch.
+bekededengmes V.S. REDUP. always respectful.  See melengmes.
+bekedengmes V.S. always respecful.  See melengmes.
+bekedidengmes V.S. REDUP. syn. bekededengmes.
+bekekatuu V.S. smell of a cat.  See katuu.
+bekekemim V.S. REDUP. reddish.  See bekerkard.
+bekekesengorech V.S. REDUP smell rather like a pig's house.  See bekesengorech.
+bekekesib V.S. prone to sweating.  See kesib1.
+bekekesius V.S. REDUP. rather vulgar in speech.  See bekesius.
+bekeketokoi V.S. REDUP. rather talkative.  See beketekoi.
+bekekim V.S. smell of clams (after cleaning or cooking clams, etc.).  See kim.
+bekekitel V.S. prone to whimpering; (woman) prone to moaning during sexual intercourse.  See olekitel.
+bekekland V.S. Inch. getting worried.  See bekikl."
+"3X2LT8FDHVHMALHW8AYR7EPJTDHW8Z","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3PB5A5BD0V5PZ5K79275WV2KXSM7GJ","A3AJOG8FAY1D73","Approved","Wed Dec 17 21:29:20 GMT 2014","Wed Dec 17 21:37:11 GMT 2014","Thu Dec 18 13:37:11 PST 2014","Wed Dec 17 15:45:27 PST 2014","","","471","100% (28/28)","100% (20/20)","100% (20/20)","http://tekinged.com/png-halves/dict-069-left.png","bekelero v.s. broad-shouldered.
+bekeklsel v.s.redup. asthmatic; always shortwinded. See sel.
+bekeklubech v.s. smell of smegma. See melubech.
+bekekosul v.s. smell strongly of perfume. See kosui.
+
+bekekreos v.s. always selfish or miserly. See mekreos.
+
+bekel n.oblig.poss. female genitals (used only in insults).
+bekelatk v.s. good at remembering; having a sharp memory. See latk-.
+bekelilangel v.s. cry a lot; prone to crying. See langel.
+
+belell-el stem n.poss. See bekall.
+belelngol v.s. smell of decomposing body.
+bekemechas v.s. smell like an old woman. See echas2.
+
+bekemesei v.s. smell of taro patch. See mesei.
+bekemilk v.s. smell of milk. See milk.
+bekemiom v.s. smell of spittle (esp., when rubbed on arm, etc.); smell of sweat.
+
+bekemkum v.s. smell of excrement.
+bekemongk v.s. always complaining. See mongk.
+
+bekemudech v.s. smell of vomit. See mudech1.
+bekeng-el stem n.poss. See bek2.
+bekengall v.a.s. is to be opened or spread apart. See omok.
+
+bekengduul v.s. smell of clams (after cleaning or cooking clams, etc.). See ngduul.
+
+bekengerachel v.s. responsible; always attentive to one's duties or obligations. See ngerachel.
+
+bekengikel v.s. smell of fish. See ngikel.
+bekenglemachel v.s. prone to chewing (betel nut) or smoking (tobacco) excessively. See nglemachel. e.g. Ng kmal bekenglemachel er a dekool. He smokes cigarettes constantly.
+
+bekerdekekl v.s. good at jumping. See merdekekl.
+bekerekung v.s. smell of crabs (after cooking or eating crabs, etc.). See rekung.
+bekeremrum v.s. prone to grumbling. See mengeremrum.
+bekerenguokl v.s. pimply. See renguokl.
+bekeriamel v.s. smell like football fruit; sweaty; have a strong body odor (especially, as result of diet or poor hygien). See riamel."
+"3X2LT8FDHVHMALHW8AYR7EPJTDHW8Z","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3WQQ9FUS6ATX82HF3L7X9K7IS2PB8O","ABX5OQLR6UNBC","Approved","Thu Dec 18 01:20:19 GMT 2014","Thu Dec 18 01:32:16 GMT 2014","Thu Dec 18 17:32:16 PST 2014","Wed Dec 17 20:11:58 PST 2014","","","717","100% (7/7)","100% (7/7)","100% (7/7)","http://tekinged.com/png-halves/dict-069-left.png","bekbeklero V.S. broad-shouldered.
+bekeklsel V.S. REDUP. asthmatic; always short-winded. See sel.
+bekeklubech V.S. mell of smegma. See melubech.
+bekekosul V.S. smell strongly of perfume. See kosui.
+bekekreos. V.S. always selfish or miserly. See mekreos.
+bekel N. OBLIG. POSS. female genitals (used only in insults).
+beklatk V.S. good at remembering; having a sharp memory. See latk-.
+bekelilangel. V.S. cry a lot; prone to crying. See langel.
+bekellel STEM N. POSS. See bekall.
+bekelngol V.S. smell of decomposing body.
+bekemechas V.S. smell like an old woman. See mechas2.
+bekemesei V.S. smell of taro patch. See mesei.
+bekemilk V.S. smell of milk. See milk.
+bekemiom V.S. smell of spittle (esp., when rubbed on arm, etc.); smell of sweat.
+bekemkum V.S. smell of excrement.
+bekemongk V.S. always complaining. See mongk.
+bekemudech V.S. smell of vomit. See mudech1.
+bekengel STEM N. POSS. See bek2.
+bekengall V.A.S. is to be opened or spread apart. See omok.
+bekengduul V.S. smell of clams (after cleaning or cooking clams, etc.). See ngduul.
+bekengerachel V.S. responsible; always attentive to one's duties or obligations. See ngerachel.
+bekengikel V.S. smell of fish. See ngikel.
+bekenglemachel V.S. prone to chewing (betel nut) or smoking (tobacco) excessively. See nglemachel. E.g. Ng kmal bekenglemachel er dekool. He smokes cigarettes constantly.
+bekerdekekl V.S. good at jumping. See merde-kekl.
+bekerekung V.S. smell of crabs(after cooking or eating crabs, etc.). See rekung.
+bekeremrum V.S. prone to grumbling. See mengeremrum.
+bekerenguokl V.S. pimply. See renguokl.
+bekeriamel V.S. smell like football fruit; sweaty; have a strong body odor (especially, as a result of diet or poor hygiene). See riamel."
+"3DA79LNS58U8H77W1OYKTDA99X7T3E","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","323Q6SJS8IFGEUUOBRNZ5NR2AG3FHF","A3AJOG8FAY1D73","Approved","Wed Dec 17 20:32:17 GMT 2014","Wed Dec 17 20:43:45 GMT 2014","Thu Dec 18 12:43:45 PST 2014","Wed Dec 17 15:45:27 PST 2014","","","688","100% (28/28)","100% (20/20)","100% (20/20)","http://tekinged.com/png-halves/dict-069-right.png","bekerkard v.s.redup. red. See kard-. --bekekerkard v.s.redup. reddish. --bekerkerdang v.s.redup.inch. is getting red. --bekerkard el udoud penny.
+bekerkerdang v.s.redup.inch. is getting red. See bekerkard.
+
+bekerredechel v.s. (tree, plant) bearing fruit continually. See rodech.
+bekerrcker(e)ongel v.s. hard-working (with purpose of earning money). See kerreker.
+bekerrius v.s. (baby) smell of drooling spittle.
+
+bekersiu n. type of large lime (Citrus sp.).
+bekerubak v.s. smell like an old man. See rubak.
+
+bekerurau v.s. generous; kind; charitable. --blekerurau n.r.s. generosity; kindness; charitableness.
+
+bekerurt v.s. good in running; prone to going around looking for girls. See rurt.
+bekes-el stem n.poss. See bakes1.
+bekesall v.a.s. (leg) is to be moved to walk. See bakes1.
+bekesbesebek (a rengul) v.s.redup. easily worried; worrisome. See suebek1.
+bekesbesib v.s. prone to sweating. See kesib1.
+
+bekesbesiil v.s. easily littered. See besbas.
+
+bekesechal v.s. have a male smell. See sechal.
+bekesechelei v.s. friendly; having many friends. See sechelei.
+bekesechesecher v.s.redup. get sick a lot; prone to getting sick. See secher.
+
+bekesekool v.s. like to play; be a playboy. See sekool.
+
+bekeselsel v.s.redup. asthmatic; always shortwinded. See sel.
+
+bekesengchali v.a.s. is to be forced open or pulled apart by force. See omekesangch.
+
+bekesengerenger v.s. get hungry easily; always getting hungry. See sengerenger.
+bekesengorech v.s. smell of a male pig, forest, or birds. --bekekesengorech v.s.redup. smell rather like a pig's house.
+bekesii v.pf. See omakes.
+
+bekesils v.s. (boys) smell sweaty or gamey (after perspiring in sun). See sils.
+bekesisaik v.s.redup. constantly lazy. See saik.
+bekesius v.s. swear a lot; talk vividly. See sius. --bekesius v.s.redup. rather vulgar in speech."
+"3DA79LNS58U8H77W1OYKTDA99X7T3E","3B30MLNK63E70G4HGXJ3I5Y6BH8IB3","Transcribe the text from a Column of a Palauan Language Dictionary","We're trying to digitize a scanned dictionary of an endangered Pacific Island language","image, write, transcription, dictionary, palau, palauan, language","$0.30","Wed Dec 17 18:30:46 GMT 2014","2","BatchId:1769064;","3600","86400","Wed Dec 24 18:30:46 GMT 2014","","","3YMTUJH0DSFWLNOUR485S2XZWLKT4C","ABX5OQLR6UNBC","Approved","Wed Dec 17 21:56:55 GMT 2014","Wed Dec 17 22:12:15 GMT 2014","Thu Dec 18 14:12:15 PST 2014","Wed Dec 17 15:45:28 PST 2014","","","920","100% (7/7)","100% (7/7)","100% (7/7)","http://tekinged.com/png-halves/dict-069-right.png","bekerkard V.S. REDUP. red. see kard-. --bekekerkard V.S. REDUP. reddish. --bekerkerdang V.S. REDUP. INCH. is getting red. --bekerkard el udoud penny.
+bekerkerdang V.S. REDUP. INCH. is getting red. see bekerkard.
+bekerredechel V.S. (tree, plant) bearing fruit continually. See rodech.
+bekerreker(e)ongel V.S. hard-working (with purpose of earning money). See kerreker.
+bekerrius V.S. (baby) smell of drooling spittle.
+bekersiu N. type of large lime (Citrus sp.).
+bekerubak V.S. smell like an old man. See rubak.
+bekerurau V.S. generous; kind; charitable. --blekerurau N.R.S. generosity; kindness; charitableness.
+bekerurt V.S. good in running; prone to going around looking for girls. See rurt.
+bekesel STEM N. POSS. see bakes1.
+bekesall V.A.S. (leg) is to be moved to walk. see bakes1.
+bekesbesebek (a rengul) V.S. REDUP.  easily worried; worrisime. See suebek1.
+bekesbesib V.S. prone to sweating. See kesib1.
+bekesbesiil V.S. easily littered. See besbas.
+bekesechal V.S. have a male smell. See sechal.
+bekesechelel V.S. friendly; having many friends. See sechelei.
+bekesechesecher V.S. REDUP. get sick a lot; prone to getting sick. see secher.
+bekesekool V.S. like to play; be a playboy. See sekool.
+bekeselsel V.S. REDUP. asthmatic; always short-winded. see sel.
+bekesengchall V.A.S. is to be forced open or pulled apart by force. See omekesangch.
+bekesengerenger V.S. get hungry easily; always getting hungry. Se sengerenger.
+bekesengorech V.S. smell of a male pig, forest, or birds. --bekekesengorech V.S. REDUP. smell rather like a pig's house.
+bekesil V.PF. See omakes.
+bekesils V.S. (boys) smell sweaty or gamey (after perspiring in sun). See sils.
+bekesisaik V.S. REDUP. constantly lazy. See saik.
+bekesius V.S. swear a lot; talk vividly. See sius. --bekekesius V.S. REDUP. rather vulgar in speech."

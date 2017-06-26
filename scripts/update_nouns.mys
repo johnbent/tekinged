@@ -1,0 +1,2 @@
+update nouns,all_words set nouns.english=all_words.english where length(all_words.english)>0 && all_words.palauan like nouns.base and all_words.english not like nouns.english and all_words.part_of_speech rlike 'n.' and all_words.palauan not in ('buk','chert','chur','meduu','klab');
+

@@ -1,0 +1,1 @@
+update all_words3,all_words set all_words3.eng=all_words.english where length(all_words.english)>0 && all_words.palauan like all_words3.pal and all_words.english not like all_words3.eng and all_words3.pos not in ('var.','pro.','num.') and all_words3.pos like all_words.part_of_speech and all_words3.pal not in ('meduu','chert','chur','buk')\G 

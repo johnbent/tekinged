@@ -1,0 +1,455 @@
+#  select quiztype,yearweek(added) as week,sum(correct)/sum(total) as perc, count(*) as count
+          from log_quizzes_filtered 
+          group by quiztype,yearweek(added) order by quiztype,yearweek(added)
+# DEBUG: 0 0.91 Audio
+# DEBUG: 1 0.94 Audio
+# DEBUG: 2 0.83 Audio
+# DEBUG: 3 1.00 Audio
+# DEBUG: 4 0.90 Audio
+# DEBUG: 5 0.92 Audio
+# DEBUG: 6 0.69 Audio
+# DEBUG: 7 0.96 Audio
+# DEBUG: 8 1.00 Audio
+# DEBUG: 9 1.00 Audio
+# DEBUG: 10 0.52 Audio
+# DEBUG: 11 1.00 Audio
+# DEBUG: 12 0.92 Audio
+# DEBUG: 13 0.96 Audio
+# DEBUG: 14 0.90 Audio
+# DEBUG: 15 0.91 Audio
+# DEBUG: 16 0.80 Audio
+# DEBUG: 17 1.00 Audio
+# DEBUG: 18 0.68 Audio
+# DEBUG: 19 0.82 Audio
+# DEBUG: 20 0.98 Audio
+# DEBUG: 21 1.00 Audio
+# DEBUG: 22 1.00 Audio
+# DEBUG: 23 1.00 Audio
+# DEBUG: 24 0.92 Audio
+# DEBUG: 25 0.85 Classic
+# DEBUG: 26 0.78 Classic
+# DEBUG: 27 0.81 Classic
+# DEBUG: 28 0.84 Classic
+# DEBUG: 29 0.82 Classic
+# DEBUG: 30 0.77 Classic
+# DEBUG: 31 0.65 Classic
+# DEBUG: 32 0.84 Classic
+# DEBUG: 33 0.81 Classic
+# DEBUG: 34 0.83 Classic
+# DEBUG: 35 0.85 Classic
+# DEBUG: 36 0.78 Classic
+# DEBUG: 37 0.92 Classic
+# DEBUG: 38 0.85 Classic
+# DEBUG: 39 0.89 Classic
+# DEBUG: 40 0.87 Classic
+# DEBUG: 41 0.83 Classic
+# DEBUG: 42 0.82 Classic
+# DEBUG: 43 0.64 Classic
+# DEBUG: 44 0.84 Classic
+# DEBUG: 45 0.78 Classic
+# DEBUG: 46 0.87 Classic
+# DEBUG: 47 0.68 Classic
+# DEBUG: 48 0.68 Classic
+# DEBUG: 49 0.76 Classic
+# DEBUG: 50 0.81 Classic
+# DEBUG: 51 0.75 Classic
+# DEBUG: 52 0.70 Classic
+# DEBUG: 53 0.83 Classic
+# DEBUG: 54 0.91 Classic
+# DEBUG: 55 0.80 Classic
+# DEBUG: 56 0.60 Classic
+# DEBUG: 57 0.80 Classic
+# DEBUG: 58 0.78 Classic
+# DEBUG: 59 0.92 Classic
+# DEBUG: 60 0.96 Classic
+# DEBUG: 61 0.61 Classic
+# DEBUG: 62 0.88 Classic
+# DEBUG: 63 0.85 Classic
+# DEBUG: 64 0.86 Classic
+# DEBUG: 65 0.73 Classic
+# DEBUG: 66 0.86 Classic
+# DEBUG: 67 0.92 Classic
+# DEBUG: 68 0.73 Classic
+# DEBUG: 69 0.78 Classic
+# DEBUG: 70 0.80 Classic
+# DEBUG: 71 0.55 Classic
+# DEBUG: 72 0.61 Classic
+# DEBUG: 73 0.88 Classic
+# DEBUG: 74 0.80 Classic
+# DEBUG: 75 0.80 Classic
+# DEBUG: 76 0.79 Classic
+# DEBUG: 77 0.52 Classic
+# DEBUG: 78 0.76 Classic
+# DEBUG: 79 0.64 Classic
+# DEBUG: 80 0.66 Classic
+# DEBUG: 81 0.68 Classic
+# DEBUG: 82 0.84 Classic
+# DEBUG: 83 0.62 Classic
+# DEBUG: 84 0.58 Classic
+# DEBUG: 85 0.54 Classic
+# DEBUG: 86 0.46 Classic
+# DEBUG: 87 0.84 Classic
+# DEBUG: 88 0.73 Classic
+# DEBUG: 89 0.77 Classic
+# DEBUG: 90 0.77 Classic
+# DEBUG: 91 0.77 Classic
+# DEBUG: 92 0.80 Classic
+# DEBUG: 93 0.84 Classic
+# DEBUG: 94 0.60 Classic
+# DEBUG: 95 0.76 Classic
+# DEBUG: 96 0.84 Classic
+# DEBUG: 97 0.76 Classic
+# DEBUG: 98 0.56 Classic
+# DEBUG: 99 0.92 Classic
+# DEBUG: 100 0.86 Classic
+# DEBUG: 101 0.68 Classic
+# DEBUG: 102 0.71 Classic
+# DEBUG: 103 0.80 Classic
+# DEBUG: 104 0.60 Classic
+# DEBUG: 105 0.56 Classic
+# DEBUG: 106 0.68 Classic
+# DEBUG: 107 0.72 Classic
+# DEBUG: 108 0.77 Classic
+# DEBUG: 109 0.80 Classic
+# DEBUG: 110 0.68 Classic
+# DEBUG: 111 0.96 Classic
+# DEBUG: 112 0.92 Classic
+# DEBUG: 113 0.80 Classic
+# DEBUG: 114 0.78 Classic
+# DEBUG: 115 0.56 Classic
+# DEBUG: 116 0.70 Classic
+# DEBUG: 117 0.92 Classic
+# DEBUG: 118 0.64 Classic
+# DEBUG: 119 0.88 Classic
+# DEBUG: 120 0.84 Classic
+# DEBUG: 121 0.69 Classic
+# DEBUG: 122 0.74 Classic
+# DEBUG: 123 0.70 Classic
+# DEBUG: 124 0.64 Classic
+# DEBUG: 125 0.76 Classic
+# DEBUG: 126 0.78 Classic
+# DEBUG: 127 0.68 Classic
+# DEBUG: 128 0.88 Classic
+# DEBUG: 129 0.68 Classic
+# DEBUG: 130 0.83 Living Things
+# DEBUG: 131 0.72 Living Things
+# DEBUG: 132 0.96 Living Things
+# DEBUG: 133 0.72 Living Things
+# DEBUG: 134 0.88 Living Things
+# DEBUG: 135 0.78 Living Things
+# DEBUG: 136 0.58 Parts of Speech
+# DEBUG: 137 0.69 Parts of Speech
+# DEBUG: 138 0.75 Parts of Speech
+# DEBUG: 139 0.18 Parts of Speech
+# DEBUG: 140 0.69 Parts of Speech
+# DEBUG: 141 0.63 Parts of Speech
+# DEBUG: 142 0.34 Parts of Speech
+# DEBUG: 143 0.71 Pictures
+# DEBUG: 144 0.74 Pictures
+# DEBUG: 145 0.67 Pictures
+# DEBUG: 146 0.64 Pictures
+# DEBUG: 147 0.52 Pictures
+# DEBUG: 148 0.72 Pictures
+# DEBUG: 149 0.65 Pictures
+# DEBUG: 150 0.66 Pictures
+# DEBUG: 151 0.60 Pictures
+# DEBUG: 152 0.28 Pictures
+# DEBUG: 153 0.73 Pictures
+# DEBUG: 154 0.96 Pictures
+# DEBUG: 155 0.83 Pictures
+# DEBUG: 156 0.96 Pictures
+# DEBUG: 157 0.76 Pictures
+# DEBUG: 158 0.78 Pictures
+# DEBUG: 159 0.55 Pictures
+# DEBUG: 160 0.62 Pictures
+# DEBUG: 161 0.94 Pictures
+# DEBUG: 162 0.60 Pictures
+# DEBUG: 163 0.58 Pictures
+# DEBUG: 164 0.92 Pictures
+# DEBUG: 165 0.72 Pictures
+# DEBUG: 166 0.52 Pictures
+# DEBUG: 167 0.69 Pictures
+# DEBUG: 168 0.65 Pictures
+# DEBUG: 169 0.70 Pictures
+# DEBUG: 170 0.48 Pictures
+# DEBUG: 171 0.55 Pictures
+# DEBUG: 172 0.88 Pictures
+# DEBUG: 173 0.64 Pictures
+# DEBUG: 174 0.68 Pictures
+# DEBUG: 175 0.50 Pictures
+# DEBUG: 176 0.64 Pictures
+# DEBUG: 177 0.88 Pictures
+# DEBUG: 178 0.44 Pictures
+# DEBUG: 179 0.56 Pictures
+# DEBUG: 180 0.52 Pictures
+# DEBUG: 181 0.68 Pictures
+# DEBUG: 182 0.59 Pictures
+# DEBUG: 183 0.61 Pictures
+# DEBUG: 184 0.62 Pictures
+# DEBUG: 185 0.72 Pictures
+# DEBUG: 186 0.36 Pictures
+# DEBUG: 187 0.40 Pictures
+# DEBUG: 188 0.60 Pictures
+# DEBUG: 189 0.68 Pictures
+# DEBUG: 190 0.56 Pictures
+# DEBUG: 191 0.76 Pictures
+# DEBUG: 192 0.48 Pictures
+# DEBUG: 193 0.68 Pictures
+# DEBUG: 194 0.52 Pictures
+# DEBUG: 195 0.88 Pictures
+# DEBUG: 196 0.48 Pictures
+# DEBUG: 197 0.52 Pictures
+# DEBUG: 198 0.84 Pictures
+# DEBUG: 199 0.72 Pictures
+# DEBUG: 200 0.76 Pictures
+# DEBUG: 201 0.60 Pictures
+# DEBUG: 202 0.24 Pictures
+# DEBUG: 203 0.64 Pictures
+# DEBUG: 204 0.36 Pictures
+# DEBUG: 205 0.54 Pictures
+# DEBUG: 206 0.76 Pictures
+# DEBUG: 207 0.48 Pictures
+# DEBUG: 208 0.64 Pictures
+# DEBUG: 209 0.87 Pronouns
+# DEBUG: 210 0.24 Pronouns
+# DEBUG: 211 0.42 Pronouns
+# DEBUG: 212 0.34 Pronouns
+# DEBUG: 213 0.84 Pronouns
+# DEBUG: 214 0.40 Pronouns
+# DEBUG: 215 0.76 Pronouns
+# DEBUG: 216 0.14 Pronouns
+# DEBUG: 217 0.80 Pronouns
+# DEBUG: 218 0.14 Pronouns
+# DEBUG: 219 0.27 Pronouns
+# DEBUG: 220 0.84 Proverbs
+# DEBUG: 221 0.68 Proverbs
+# DEBUG: 222 0.70 Proverbs
+# DEBUG: 223 0.72 Proverbs
+# DEBUG: 224 0.80 Proverbs
+# DEBUG: 225 0.84 Proverbs
+# DEBUG: 226 0.72 Proverbs
+# DEBUG: 227 0.80 Proverbs
+# DEBUG: 228 0.68 Proverbs
+# DEBUG: 229 0.92 Proverbs
+# DEBUG: 230 0.92 Proverbs
+# DEBUG: 231 0.56 Reng Expression
+# DEBUG: 232 0.68 Reng Expression
+# DEBUG: 233 0.79 Reng Expression
+# DEBUG: 234 0.73 Reng Expression
+# DEBUG: 235 0.68 Reng Expression
+# DEBUG: 236 0.52 Reng Expression
+# DEBUG: 237 0.60 Reng Expression
+# DEBUG: 238 0.68 Reng Expression
+# DEBUG: 239 0.73 Synonyms
+# DEBUG: 240 0.73 Synonyms
+# DEBUG: 241 0.70 Synonyms
+# DEBUG: 242 0.56 Synonyms
+# DEBUG: 243 0.68 Synonyms
+# DEBUG: 244 0.84 Synonyms
+# DEBUG: 245 0.80 Synonyms
+# DEBUG: 246 0.71 Synonyms
+# DEBUG: 247 0.44 Synonyms
+# DEBUG: 248 0.76 Synonyms
+# DEBUG: 249 0.88 Synonyms
+# DEBUG: 250 0.68 Synonyms
+# DEBUG: 251 0.62 Synonyms
+# DEBUG: 252 0.78 Synonyms
+# DEBUG: 253 0.66 Synonyms
+# DEBUG: 254 0.84 Synonyms
+# DEBUG: 255 0.84 Synonyms
+# DEBUG: 256 0.40 Synonyms
+# DEBUG: 257 0.20 Synonyms
+# DEBUG: 258 0.76 Synonyms
+# DEBUG: 259 0.24 Synonyms
+# DEBUG: 260 0.84 Trivia
+# DEBUG: 261 0.78 Trivia
+# DEBUG: 262 0.68 Trivia
+# DEBUG: 263 0.76 Trivia
+# DEBUG: 264 0.65 Trivia
+# DEBUG: 265 0.62 Trivia
+# DEBUG: 266 0.96 Trivia
+# DEBUG: 267 0.92 Trivia
+# DEBUG: 268 0.96 Trivia
+# DEBUG: 269 0.80 Trivia
+# DEBUG: 270 0.64 Trivia
+# DEBUG: 271 0.32 Trivia
+# DEBUG: 272 1.00 Trivia
+# DEBUG: 273 0.66 Trivia
+# DEBUG: 274 0.68 Trivia
+# DEBUG: 275 0.60 Trivia
+# DEBUG: 276 0.66 Trivia
+# DEBUG: 277 0.64 Trivia
+# DEBUG: 278 0.74 Trivia
+# DEBUG: 279 0.73 Trivia
+# DEBUG: 280 0.92 Trivia
+# DEBUG: 281 0.71 Trivia
+# DEBUG: 282 0.87 Trivia
+# DEBUG: 283 0.74 Trivia
+# DEBUG: 284 0.80 Trivia
+# DEBUG: 285 0.67 Trivia
+# DEBUG: 286 0.81 Trivia
+# DEBUG: 287 0.48 Trivia
+# DEBUG: 288 0.56 Trivia
+# DEBUG: 289 0.64 Trivia
+# DEBUG: 290 0.57 Trivia
+# DEBUG: 291 0.60 Trivia
+# DEBUG: 292 0.84 Trivia
+# DEBUG: 293 0.80 Trivia
+# DEBUG: 294 0.65 Trivia
+# DEBUG: 295 0.67 Trivia
+# DEBUG: 296 0.72 Trivia
+# DEBUG: 297 0.72 Trivia
+# DEBUG: 298 0.70 Trivia
+# DEBUG: 299 0.83 Trivia
+# DEBUG: 300 0.69 Trivia
+# DEBUG: 301 0.86 Trivia
+# DEBUG: 302 0.80 Trivia
+# DEBUG: 303 0.96 Trivia
+# DEBUG: 304 0.70 Trivia
+# DEBUG: 305 0.48 Trivia
+# DEBUG: 306 0.80 Trivia
+# DEBUG: 307 0.54 Trivia
+# DEBUG: 308 0.62 Trivia
+# DEBUG: 309 0.70 Trivia
+# DEBUG: 310 0.62 Trivia
+# DEBUG: 311 0.74 Trivia
+# DEBUG: 312 0.64 Trivia
+# DEBUG: 313 0.84 Trivia
+# DEBUG: 314 0.72 Trivia
+# DEBUG: 315 0.72 Trivia
+# DEBUG: 316 0.64 Trivia
+# DEBUG: 317 0.73 Trivia
+# DEBUG: 318 0.80 Trivia
+# DEBUG: 319 0.76 Trivia
+# DEBUG: 320 0.84 Trivia
+# DEBUG: 321 0.36 Trivia
+# DEBUG: 322 0.54 Trivia
+# DEBUG: 323 0.87 Trivia
+# DEBUG: 324 0.96 Trivia
+# DEBUG: 325 0.81 Trivia
+# DEBUG: 326 0.84 Trivia
+# DEBUG: 327 0.83 Trivia
+# DEBUG: 328 0.61 Trivia
+0 201446 0.850591715976 ? ? ? ? ? ? ? ? ? ?
+1 201447 0.781199351702 ? ? ? ? ? ? ? ? ? ?
+2 201448 0.8096 ? ? ? ? ? ? ? ? ? ?
+3 201449 0.844210526316 ? ? ? ? ? ? ? ? ? ?
+4 201450 0.817142857143 ? ? ? ? ? ? ? ? ? ?
+5 201451 0.770909090909 ? ? ? ? ? ? ? ? ? ?
+6 201452 0.653333333333 ? ? ? ? ? ? ? ? ? ?
+7 201501 0.84 ? ? ? ? ? ? ? ? ? ?
+8 201502 0.813333333333 ? ? ? ? ? ? ? ? ? ?
+9 201503 0.828571428571 ? ? ? ? ? ? ? ? ? ?
+10 201504 0.853333333333 ? ? ? ? ? ? ? ? ? ?
+11 201505 0.783333333333 ? ? ? ? ? ? ? ? ? ?
+12 201506 0.92 ? ? ? ? ? ? ? ? ? ?
+13 201507 0.848 ? ? ? ? ? ? ? ? ? ?
+14 201508 0.888888888889 ? ? ? ? ? ? ? ? ? ?
+15 201509 0.866666666667 ? ? ? ? ? ? ? ? ? ?
+16 201510 0.828148148148 ? ? ? ? ? ? ? ? ? ?
+17 201511 0.82 ? ? ? ? ? ? ? ? ? ?
+18 201513 0.64 ? ? ? ? ? ? ? ? ? ?
+19 201514 0.84 ? ? ? ? ? ? ? ? ? ?
+20 201515 0.777959183673 0.708 0.905454545455 ? ? ? ? ? ? ? ?
+21 201516 0.866666666667 0.736842105263 0.942857142857 ? ? ? ? ? ? ? ?
+22 201517 0.675428571429 0.67 0.828571428571 ? ? ? ? ? ? ? ?
+23 201518 0.68 0.64 1.0 0.579917766571 ? 0.868251991272 ? ? ? ? ?
+24 201519 0.755555555556 0.52 ? 0.693888015747 0.84 ? 0.84 ? ? ? ?
+25 201520 0.806666666667 0.72 ? ? 0.782 ? 0.68 ? ? ? ?
+26 201521 0.745614000956 0.645 ? ? 0.683076923077 ? ? ? ? ? ?
+27 201522 0.697783964475 0.657142857143 0.9 0.749652023315 0.76 ? 0.7 ? ? ? ?
+28 201523 0.835 0.596923076923 0.92 ? 0.651428571429 ? 0.72 ? ? ? ?
+29 201524 0.906666666667 0.28 0.693333333333 ? 0.624 ? ? ? ? ? ?
+30 201525 0.8 0.728 ? ? 0.96 ? ? ? ? ? ?
+31 201526 ? 0.96 ? ? ? ? ? ? ? ? ?
+32 201527 0.6 0.826666666667 ? ? 0.92 ? ? ? ? ? ?
+33 201528 0.8 ? ? ? ? ? ? ? ? ? ?
+34 201529 0.78 0.96 ? ? 0.96 ? ? ? ? ? ?
+35 201530 0.92 0.76 ? ? 0.8 ? 0.8 ? ? ? ?
+36 201531 0.96 0.78 0.96 0.181830062866 0.64 0.237333335876 ? ? ? ? ?
+37 201532 0.613333333333 0.553333333333 ? ? 0.32 ? ? ? ? ? ?
+38 201533 0.88 ? 1.0 ? 1.0 ? ? ? ? ? ?
+39 201534 0.853333333333 0.616 ? ? 0.664 ? ? ? ? ? ?
+40 201535 0.864 0.94 ? ? 0.68 ? ? ? ? ? ?
+41 201536 0.73 0.6 ? ? 0.6 ? ? ? ? ? ?
+42 201537 0.864 0.58 1.0 ? 0.66 ? ? ? ? ? ?
+43 201538 0.92 0.92 ? ? 0.64 ? 0.84 ? ? ? ?
+44 201539 0.733333333333 0.72 ? ? ? ? ? ? ? ? ?
+45 201542 0.78 0.52 0.52 ? 0.744 ? ? ? ? ? ?
+46 201543 0.8 0.685 ? ? 0.73 ? ? ? ? ? ?
+47 201544 0.546666666667 ? ? ? 0.92 ? ? ? ? ? ?
+48 201545 0.608 0.646666666667 ? ? 0.706666666667 0.421913146973 ? ? ? ? ?
+49 201546 0.88 0.7 ? ? 0.866666666667 0.341334495544 0.72 ? ? ? ?
+50 201547 0.8 0.48 ? ? ? ? ? ? ? ? ?
+51 201548 ? 0.546666666667 ? ? ? ? ? ? ? ? ?
+52 201549 0.8 ? ? ? ? ? ? ? ? ? ?
+53 201551 0.786666666667 0.88 ? ? 0.74 ? 0.8 ? ? ? ?
+54 201552 0.52 ? 1.0 ? 0.8 ? ? ? ? ? ?
+55 201601 0.76 0.64 ? ? 0.666666666667 ? ? ? ? ? ?
+56 201602 0.64 ? ? ? ? ? ? ? ? ? ?
+57 201603 0.66 ? ? ? 0.813333333333 ? ? ? ? ? ?
+58 201604 0.68 0.68 ? ? ? ? ? ? ? ? ?
+59 201605 ? 0.5 ? ? ? ? ? ? ? ? ?
+60 201606 ? 0.64 ? ? 0.48 ? ? ? ? ? ?
+61 201607 0.84 ? ? ? 0.56 ? ? ? ? ? ?
+62 201608 0.62 0.88 ? ? ? 0.843831176758 ? ? ? ? ?
+63 201609 0.582857142857 0.44 ? ? 0.64 0.399424724579 ? ? ? ? ?
+64 201610 ? 0.56 ? ? 0.573333333333 ? ? ? ? ? ?
+65 201611 0.54 0.52 0.92 0.68633354187 0.6 0.763609771729 ? ? ? ? ?
+66 201612 0.46 ? 0.96 ? 0.84 0.141111106873 ? ? ? ? ?
+67 201613 0.84 ? ? ? ? ? ? ? ? ? ?
+68 201614 0.73 0.68 0.9 ? 0.8 0.802962150574 ? ? ? ? ?
+69 201615 ? 0.59 0.906666666667 ? 0.65 ? 0.68 ? ? ? ?
+70 201616 0.77 0.613333333333 ? ? 0.665 ? 0.92 0.730434782609 ? ? ?
+71 201617 0.770909090909 0.616 ? ? 0.717142857143 ? ? 0.735 ? ? ?
+72 201618 0.766666666667 0.72 0.8 ? 0.72 ? ? 0.7 ? ? ?
+73 201619 0.8 0.36 1.0 ? 0.7 ? ? 0.555555555556 ? ? ?
+74 201620 0.84 0.4 ? ? 0.828 ? ? 0.68 ? ? ?
+75 201622 ? 0.6 ? ? ? ? ? ? ? ? ?
+76 201623 0.6 0.68 ? ? 0.69 ? ? ? ? ? ?
+77 201624 0.758836402893 0.56 ? ? 0.857777777778 ? ? 0.84 ? ? ?
+78 201625 0.84 ? 0.68 ? 0.8 ? ? 0.8 ? ? ?
+79 201626 0.76 0.76 ? ? 0.96 ? ? ? ? ? ?
+80 201628 0.56 0.48 ? 0.631751289368 0.7 ? ? 0.706666666667 ? ? ?
+81 201629 ? ? ? ? 0.48 ? ? 0.44 ? ? ?
+82 201630 0.92 ? ? ? ? ? ? ? ? ? ?
+83 201631 0.86 0.68 0.82 ? 0.8 ? ? ? ? ? ?
+84 201632 ? ? ? ? 0.54 ? ? 0.76 ? ? ?
+85 201633 ? 0.52 ? ? 0.62 ? ? ? ? ? ?
+86 201634 0.68 0.88 ? ? ? ? ? 0.88 ? ? ?
+87 201635 0.714285714286 0.48 ? ? 0.7 ? ? 0.68 ? ? ?
+88 201636 0.8 0.52 0.98 ? 0.62 ? 0.92 0.62 ? ? ?
+89 201637 ? 0.84 ? ? ? ? ? ? ? ? ?
+90 201638 0.6 0.72 ? ? 0.74 ? ? ? ? ? ?
+91 201639 0.56 ? ? ? ? 0.135226888657 ? ? ? ? ?
+92 201640 0.68 ? ? ? ? ? ? 0.78 ? ? ?
+93 201641 0.72 0.76 ? ? 0.64 ? ? ? ? ? ?
+94 201642 0.773333333333 ? ? ? 0.84 ? ? 0.66 ? ? ?
+95 201643 0.8 ? ? ? 0.72 ? ? ? ? ? ?
+96 201644 ? ? ? ? 0.72 ? ? ? ? ? ?
+97 201645 0.68 ? ? ? ? ? ? ? ? ? ?
+98 201646 0.96 ? ? ? ? ? ? ? ? ? ?
+99 201647 0.92 ? ? ? ? ? ? ? ? ? ?
+100 201648 0.8 ? ? ? ? ? ? 0.84 ? ? ?
+101 201650 ? 0.6 ? ? ? ? ? ? ? ? ?
+102 201651 0.78 ? ? ? ? ? ? ? ? ? ?
+103 201652 ? ? ? ? 0.64 ? ? ? ? ? ?
+104 201701 0.56 0.24 1.0 ? ? ? ? ? ? ? ?
+105 201702 0.7 0.64 ? ? 0.726666666667 ? ? ? ? ? ?
+106 201703 ? ? ? ? 0.8 ? ? ? ? ? ?
+107 201704 0.92 ? ? ? 0.76 ? ? ? ? ? ?
+108 201705 0.64 ? ? ? 0.84 ? ? 0.84 ? ? ?
+109 201706 0.88 0.36 1.0 ? 0.36 ? ? 0.4 0.832 0.56 ?
+110 201707 0.84 0.54 1.0 ? 0.54 ? ? 0.2 0.72 0.68 ?
+111 201708 0.68611111323 0.76 ? ? 0.873333333333 ? ? 0.76 0.96 0.79 ?
+112 201709 0.744 ? ? ? 0.96 ? ? ? ? 0.733333333333 ?
+113 201710 ? ? ? ? ? ? ? ? 0.72 ? ?
+114 201712 0.7 ? ? ? 0.813333333333 ? ? ? ? 0.68 ?
+115 201713 0.64 ? ? ? ? ? ? ? 0.88 ? ?
+116 201714 0.76 ? ? ? ? ? ? ? ? ? ?
+117 201715 ? ? ? ? ? ? ? 0.24 ? 0.52 ?
+118 201716 0.78 ? 0.92 0.338856697083 0.84 0.273333339691 ? ? 0.78 0.6 ?
+119 201718 ? 0.48 ? ? ? ? ? ? ? ? ?
+120 201721 0.68 ? ? ? ? ? ? ? ? 0.68 ?
+121 201722 0.88 ? ? ? 0.831111111111 ? ? ? ? ? ?
+122 201723 0.68 0.64 ? ? 0.613333333333 ? ? ? ? ? ?

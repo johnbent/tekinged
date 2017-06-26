@@ -1,0 +1,282 @@
+SKIP K-words pp 113-116.docx 
+SKIP 21830 11591 290 862
+DONE 21969 11463 291 872
+w -t bird keremlai n. brown booby
+w -t fish keremlai n. paddle tail snapper
+w -t fish kerengab n. skipjack tuna
+w kerengimes n. swamp reed.
+p kerengimes el ked --reed which grows on hillsides
+v merenguus v.t. put (pomade, etc.) in hair; use (pomade, etc.) for hair. --rungsii renguus rirengsii rirenguus
+- kerenguus v.recip. put pomade on each other’s hair.
+- rengsall v.a.s. (hair) is to be pomaded.
+- rrenguus v.r.s. (hair) pomaded.
+w renguokl n.a.s. pimples; acne.
+- bekerenguokl v.s. pimply 
+l renguokl merenguus
+w mengereel v.t. xx
+- kereoll v.a.s. is to be rolled
+w -t bird kereomel n. type of bird.  v.s. thrifty; prudent; not wasteful. 
+w keremelel n.poss.3s helper of advisor for pregnant woman
+v mengereomel v.t. keep; preserve; conserve; economize on.
+- koreomel v.pf.3p.inan 
+- kirreomel v.pf.3p.inan.past 
+w mengeremelel n.poss.3s ship’s captain 
+w mengreos v.t. xx
+- keresall v.a.s. is to be hoarded or held on to
+l mengreos mekreos kerreos
+w omekeriik/omkeriik v.t. wait for high or incoming tide
+l omekeriik keriik
+w kerik n. (bowl, plate, etc.) shallow or flat
+w kerior n. xx
+p metik a kerior --die; have an accident.
+e A kerierengel a Droteo e ng ririid a ududel. --Droteo had the misfortune of losing his money. 
+w keris n. goiter. v.s. (neck) swollen with goiter.
+- kersengel n.poss.3s 
+w kerisebsub v.s. xx
+- mekerisebsub v.s. required with a plural object
+v mengeroker v.t. xx
+- kerroker v.r.s. (food) removed from pot completely
+w kerous v.s. separate
+w -t place Kerradel n. old name of Ngerard
+w kerredakl n. type of chant.
+- kerredeklel n.poss.3s 
+v mengerredakl v.t. pray (by chanting).  --korredeklii korredakl kirredeklii kirredakl 
+l mengerredakl kerredakl 
+w kerrekar n. tree; wood; log; board.
+- kerrekerul n.poss.3s
+p rengul a kerrekar --center or core of tree
+w kerreker n.r.s. xx
+- bekerrekereongel/bekerrekerongel v.s. hard-working (with purpose of earning money).
+e Ngara a kerrekerngem? --What do you do to make a living?
+w kerreng v.s. careful; attentive
+w mengertall v.t. xx
+- kerretal v.r.s. scratched; raked
+w kerrikr n. joint of sail protruding from chalech.
+p redil el kerrikr --concave joint of sail into which hooked joint fits.
+p sechal el kerrikr --hooked joint of sail which fits into concave joints
+w kerrui n. cooing sound.
+- mengerrui v.i. (pigeon, person) make cooing sound.
+w kerruk n. chicken.
+- oukerruk v.i. keep or raise chickens; (chicken) cluck; (person) make sounds to call chickens; wave arms when leading singing.
+- kerrukureomel n. wild chicken.
+- kerrukeblai n. domesticated chicken
+v mengurs v.t. xx
+- kersall v.a.s. is to be pulled, towed or dragged
+w kersiang v.s. (plant, esp., betel nut) young
+w kersos v.s. yearning; anxious (to see)
+p kersos a rengul --yearning; anxious (to see).
+w kertaku n. bush in myrtle family
+w kerul n.poss.3s stem of vine.
+w kerumes n. plant in coffee family.
+w merumes v.t. xx
+- kerumes v.recip. poke at each other 
+w omekrur v.t. xx
+- kerur v.recip. bashful with each other (esp., when first meeting)
+v merus v.t. pierce; stab; inject; inoculate; v.i. fish underwater with one-pronged spear. --rusur remus rirsur rirus
+- rrus v.r.s. pierced; stabbed; injected; inoculated.
+- rsull v.a.s. is to be pierced, stabbed, injected or inoculated.
+e Te rirsur er a omechiuaiu. --They gave him an injection to put him to sleep./They anaesthetized him. 
+w kerusus v.s. (tree, plant, etc.) stunted
+v merutech v.t. xx --rutechii remutech rirtechii rirutech
+- merterutech v.t.redup. touch continually.
+- rrutech v.r.s. touched.
+- rtachel/rtuchel v.a.s. is to be touched.
+- rtochel v.a.s. is to be touched; n.a.s. log dividing front of fireplace from rest of house or bai.
+- reterutech v.s.redup. prone to touching people (sexually); lecherous; prone to touching things (esp., out of curiosity).
+- rutertechii v.s.redup. slow in accomplishing task; inefficient.
+- sekerutech v.s. prone to touching people (sexually); lecherous.
+v meruul v.t. make; do; prepare; produce; repair; make or cause (someone) to do something.
+- keruul v.recip. protect each other; do things with each other in mind; be considerate of each other; make something for each other.
+- karuruul v.recip.redup. protect each other; do things with each other in mind; be considerate of each other; make something for each other.
+- rruul v.r.s. made; done; prepared; (person) born to or made for; (person) trained or conditioned (to do something); n.r.s. something made or done; way of making things.
+p meruul a tekoi --speak or behave as if nothing is wrong.
+p meruul a klengit --commit a sin.
+p meruul a klungiaol --do something good or helpful.
+p meruul a delengerenger --commit mischief; break the law.
+p meruul a kldung --perform one’s obligations; uphold the law.
+p meruul a temall --perform black magic.
+p rullii besul --make (oneself) comfortable (for eating, sleeping, etc.); get (oneself) ready.
+e A rrellel a Droteo a blechoel el ungil. --Droteo always makes things well.
+e A ngelekel a rruul el diak loleb a tekoi. --Her child is trained not to interrupt people.
+e A chad a rruul el mo songerenger. --Human beings are made or born to be hungry. 
+w kesengel n.poss.3s xx
+p kesengel a klaubetikerreng --strength of mutual affection
+- kmes v.s. (clothes, etc.) tight; (rope, etc.) taut; (relationship) close.
+p kmes a usekerel el chad --person who is hard to coax or flatter; person who is firm or straight-laced
+v olekes v.caus. tighten; make (relationship) closer.  --okesengii okes ulekesengii ulekes 
+- okesengall v.a.s. is to be tightened.
+- ulkes v.r.s. tightened
+l olekes kesengel
+w olekesongel n. belt.
+- olekesengelel n.poss.3s 
+w okesongel n. anything to be tightened or closed.
+p Mokes a okesongel. --Batten down the hatches./Be prepared. 
+l olekes olekesongel okesongel
+v mengesadel v.t. decrease amount of or reduce in number (resulting of insufficiency).
+- kosadel v.pf.3p.inan
+- kilsadel v.pf.3p.inan.past
+- kesadel v.a.s. is to be decreased or reduced.
+- klsadel v.r.s. decreased; reduced; depleted.
+w kesadel v.s. arthritic
+w kesai n. xx 
+- kesai v.s. insufficient; not enough; few.
+- kekesai v.s.redup. rather insufficient.
+p kesai el malk --a bit of chicken
+v mengesai v.t. decrease amount of or reduce in number (resulting of insufficiency).
+- kosai v.pf.3p.inan
+- kilsai v.pf.3p.inan.past
+- klsai v.r.s. decreased; reduced.
+v melais v.t. delouse.  --soisii smais silisii silais
+- kesais v.recip. delouse each other 
+- selais v.r.s. deloused.
+- sisall v.a.s. is to be deloused.
+v mesalo v.t. grab at (soft substance - food, earth, etc.) and squeeze or knead; put fingers in (mouth); prepare (taro patch) for planting (by softening dirt). --soluii smalo silluii silalo 
+- klloaol/selalo v.r.s. grabbed at and squeezed or kneaded; (taro patch) prepared.
+- kloaol v.a.s. is to be grabbed at and squeezed or kneaded; (taro patch) is to be prepared.
+- kesalo v.recip. caress each other; prepare taro patch together.
+w omesalo n.act. action of preparing taro patch for planting
+r oba a omesalo-eaur --use Ngeaur methods in cultivating taro patch --In Palauan legend, such a method was used by Iluochel and considered sloppy).
+l omesalo mesalo
+v mesam v.t. begin to thrust at someone but then stop (arm, spear, etc.) halfway (in order to deceive); gesture threateningly with (hand). --somur suam silemur silam
+- kesam v.recip. gesture threateningly at each other.
+- selam v.r.s. thrust at 
+w kesamd n. gill.
+- kesemdel n.poss.3s 
+v -t fishing mengesamd v.t. choke or kill (fish) (by breaking gill). --kosemdii kosamd kilsemdii kilsamd
+- klsamd v.r.s. (fish) choked.
+- ksmedall v.a.s. (fish) is to be choked 
+v mesamk v.t. husk (coconut fibers) by hand. --somkii suamk silemkii silamk
+- kesamk v.recip. husk by hand together.
+- selamk v.r.s. husked by hand.
+- semikel/semkall v.a.s. is to be husked by hand.
+- semsemikel v.a.s.redup. (coconut) covered with fibers 
+v mesarech v.t. xx --sorechii smarech sirrechii silarech 
+- kesarech v.recip. step on (each other’s feet).
+- selarech v.r.s. stepped on; toured or visited.
+- serrochel v.r.s. stepping on.
+- serochel v.a.s. is to be stepped on, toured or visited.
+w omesarech n.act. visit; trip; journey.
+l mesarech omesarech
+v melasech v.t. xx --dosechii dmasech dilsechii dilasech
+w omelasech n. action of carving.
+p chad er a omelasech --carpenter 
+l melasech omelasech
+v melasech v.t. spread widely apart. --sesechii smasech silsechii silasech --selasech v.r.s.
+- kesasech v.recip. spread (legs) in unison (in exercise, game, etc.).
+v mesauch v.t. break off (branch of tree, etc.) at base or node; break (someone’s limb) at joint; open (someone’s mouth) wide by force; carry (child) with (child’s) legs straddling one’s side; handle (child) roughly; spread (legs, etc.) apart. --souchii smauch siluchii silauch
+- kesauch v.recip. break (each other’s limbs).
+- kloechel v.r.s. broken off.
+- mesesusauch v.erg.redup. easily broken off.
+- mesusauch v.t.redup. handle (child) rather roughly.
+- selauch v.r.s. broken off; (child) carried at side with legs astraddle.
+- soechel v.a.s. is to be broken off.
+v omengkangk v.t. lay (usually, long object) on ground. --mengkengkii mengkangk milengkengkii milengkangk --blengkangk v.r.s. (object, usually long) laid on ground; (tide) low. --bengkengkall v.a.s. --bengkengkoll v.a.s. (object, usually long) to be laid on ground; exposed quickly by outgoing tide. --obengkangk v.erg. fall down or collapse (in a sprawl). 
+- kesbengkangk v.i. fall down suddenly 
+v mesebek v.t. kick (with forward movement of leg); press firmly with feet. --sobekii suebek silebekii silebek --selebek v.r.s. --sebokel v.a.s.
+- kesebek v.recip. kick each other
+w -t place Kesebekuu n. passage in Koror
+w kesebekuu n. vine in Legume family
+w kesebekuu n. moray eel.
+w kesebibui n. plant in pepper family
+v mesedem v.t. xx --sodemii suedem sildemii siledem 
+- kesedem v.recip. propose activities to each other.
+- sedomel/sedemall v.a.s. is to be propositioned or proposed.
+- seledem/seldomel v.r.s. propositioned; proposed
+w kesekedelang v.s.inch. becoming too small, confine, etc.
+w kesekes n. hymn; chant; lullaby.
+- kesekesngel n.poss.3s 
+v mengesekes v.t. xx --kosekesengii kosekes kilsekesengii kilsekes
+- kesekesengall/kesekesongl v.a.s. (chant, lullaby, etc.) is to be sung.
+- klsekes v.r.s. (chant, lullaby, etc.) sung
+w -t tree kesemeduu n. type of tree
+w kesemesemek v.s. wet; soaked; drenched; unkempt
+v mengesemramr v.t. scratch at (skin, person, etc.). --kosemremrii kosemramr kilsemremrii kilsemramr
+- kesemramr v.recip. scratch at each other or each other’s skin.
+- klsemramr v.r.s. scratched at 
+w kesengam v.s. (hair) straight.
+- mekesengam v.s. (hair) straight (required with plural subject)
+w kesengil n.poss.3s at most; at least.
+e Ak rullii er a kesengil, e ng teruich el klebesei. --I’ll fix or do it in ten days at most. 
+e A ngkedem a kesengil, e ng kleim el kluk. --Your fine is at least five dollars. 
+e A kesengil! --There are too many. 
+w kesengliil v.s. asthmatic (permanent condition).
+w kesengurd v.s. very skinny
+v omeseos v.t. squeeze; press; choke (neck). --mesesii/mesosii meseos milsesii/milsosii milseos
+- keseos v.recip. squeeze each other.
+- osesall/besosall v.a.s. is to be squeezed or pressed.
+- ulseos/blseos v.r.s. squeezed; pressed
+w oseos n. instrument for squeezing something in.
+l omeseos oseos
+v merers v.t. xx --sorsii smers silersii silers
+- kesers v.recip. block each other
+- selers v.r.s. --sersoll v.a.s.
+w orers n.instr. anything used for fenching something in; excuse.
+e Lak morers er kau. --Don't make excuses to get out of it.
+l orers merers
+l sers merers
+w -t tree kesiamel n. tree in Panax family
+v mesib v.t. break (ground); plow (land); dig (ditch, toilet, etc.). --sibur suib silbur silib
+- kesib v.recip. injure each other by getting too close when using pickaxe, etc.
+- mesbesib v.erg.redup. easy to plow or dig.
+- sball/sbuul v.a.s. (ground) is to be broken, plowed or dug.
+- selib v.r.s. (groung) broken, plowed or dug
+w -t tree kesiil n. Eugenia tree
+v menges v.t. grate or scrape (usually, coconut, sometimes, taro). --kosir kmes kilsir kiles 
+- kesiil v.a.s. (coconut or taro) is to be grated or scraped.
+- kles/klsiil v.r.s. (coconut or taro) grated or scraped
+w ullengesiil n. coconut meat remaining on shell after scraping
+l ullengesiil menges
+w onges n.instr. coconut scraper; female genitals.
+- ongesil n.poss.3s 
+l menges onges
+w kesiliou v.s. (building, etc.) dilapidated or structurally damaged or out of kilter
+v mesiou v.t. xx
+- kesiou v.recip. serve each other; dress each other up.
+- mesisiou v.t. redup. dress (oneself) continually.
+- seliou v.r.s. served.
+- sisiou v.s.redup. always wanting to dress up; compulsively neat; fastidious.
+- siungall v.a.s. is to be served.
+- siungel v.a.s. is to be dressed up.
+w keskus n. lemon grass
+v mesodel v.t. tear (cloth, paper, etc.); dismember (slaughtered animal). --sodelii smodel sildelii silodel 
+- kesodel v.recip. slash at each other (with knives); tear (things) together.
+- mesesodel v.erg.redup. easily torn; get torn all over.
+- sedelall v.a.s. is to be torn or dismembered.
+- selodel v.r.s. torn; dismembered.
+- selesodel v.r.s.redup. torn all over
+w -t fishing kesokes n. long fishnet (kept stationary in order to trap fish on falling tide).
+- kesekesel n.poss.3s 
+p ngikel el kesokes --fish caught with long net 
+v mengesokes v.t. catch (fish) with (long) net; lurk around environs of house; block (e.g., road, entrance, etc.); surround. --kosekesii kosokes kilsekesii kilsokes 
+- kesekakel/kesekesall v.a.s. (fish) is to be caught (with long net).
+- klsokes v.r.s. fished out.
+l mengesokes kesokes
+w mekesokes/mekesong n. environs of house; yard.
+w -t cheled kesuar n. small sea crab.
+- mengesuar v.i. collect small sea crabs.
+- kesuariroi n. type of shellfish
+v mesuch v.t. xx --suchar smuch silechar siluch 
+- kesuch v.recip. pull strongly at each other.
+- sechaol v.a.s. xx
+- seluch v.r.s. jerked; pulled strongly at 
+START
+v mesuched v.t. xx --suchedii smuched silechedii siluched
+- kesuched v.recip. pull at each other; press (each other’s limbs).
+- mesechesuched v.i.redup. always talk harshly or impolitely to people.
+- sechedall v.a.s. xx
+- sechudel v.a.s. temporarily crippled (by muscle cramp, etc.).
+- seluched v.r.s. pulled at; pressed 
+w osuched n.instr. action or way of pressing.
+- osechedel n.poss.3s 
+p osuched a rechui --Aramina tree
+l mesuched osuched
+w mesumech v.t. xx
+- kesumech v.recip. give messages for each other; massage each other
+w merumes v.t. xx
+- kesumes v.recip. stick or prick each other
+v mesumk v.t. pull out (hair). --sumkii suumk silemkii silumk
+- kesumk v.recip. pull out (each other’s hair).
+- selumk v.r.s. (hair) pulled out
+w klsus n. night
+w melamk v.t. xx
+- ketamk v.recip. shave each other

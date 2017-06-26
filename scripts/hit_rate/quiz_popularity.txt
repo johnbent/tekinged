@@ -1,0 +1,11 @@
+#	4734
+Audio	4.3726	0
+Classic	46.7047	0
+Living	0.7816	0
+POS	0.6971	0
+Pictures	25.8555	0
+Pronouns	1.3942	0
+Proverbs	0.5703	0
+Reng	1.1407	0
+Synonyms	4.7529	0
+Trivia	13.7305	0

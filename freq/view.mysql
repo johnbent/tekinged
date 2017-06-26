@@ -1,0 +1,6 @@
+SELECT f.pal,f.perc,f.quantity,
+       IF(b.pos LIKE 'var.',a.pos,b.pos) AS pos,
+       IF(ISNULL(b.eng) OR b.pos LIKE 'var.',a.eng,b.eng) AS eng,
+       IF(ISNULL(b.pdef),a.pdef,b.pdef) AS pdef  
+    FROM frequency f,all_words3 a, all_words3 b 
+    WHERE f.stem=b.id AND b.stem=a.id LIMIT 30;

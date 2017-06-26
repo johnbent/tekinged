@@ -1,0 +1,761 @@
+#  select quiztype,yearweek(added) as week,count(*) as count,1 as perc           from log_quiz            group by quiztype,yearweek(added) order by quiztype,yearweek(added);
+# DEBUG: 0 1.00 Audio
+# DEBUG: 1 1.00 Audio
+# DEBUG: 2 1.00 Audio
+# DEBUG: 3 1.00 Audio
+# DEBUG: 4 1.00 Audio
+# DEBUG: 5 1.00 Audio
+# DEBUG: 6 1.00 Audio
+# DEBUG: 7 1.00 Audio
+# DEBUG: 8 1.00 Audio
+# DEBUG: 9 1.00 Audio
+# DEBUG: 10 1.00 Audio
+# DEBUG: 11 1.00 Audio
+# DEBUG: 12 1.00 Audio
+# DEBUG: 13 1.00 Audio
+# DEBUG: 14 1.00 Audio
+# DEBUG: 15 1.00 Audio
+# DEBUG: 16 1.00 Audio
+# DEBUG: 17 1.00 Audio
+# DEBUG: 18 1.00 Audio
+# DEBUG: 19 1.00 Audio
+# DEBUG: 20 1.00 Audio
+# DEBUG: 21 1.00 Audio
+# DEBUG: 22 1.00 Audio
+# DEBUG: 23 1.00 Audio
+# DEBUG: 24 1.00 Audio
+# DEBUG: 25 1.00 Audio
+# DEBUG: 26 1.00 Audio
+# DEBUG: 27 1.00 Audio
+# DEBUG: 28 1.00 Audio
+# DEBUG: 29 1.00 Audio
+# DEBUG: 30 1.00 Audio
+# DEBUG: 31 1.00 Audio
+# DEBUG: 32 1.00 Audio
+# DEBUG: 33 1.00 Audio
+# DEBUG: 34 1.00 Audio
+# DEBUG: 35 1.00 Audio
+# DEBUG: 36 1.00 Audio
+# DEBUG: 37 1.00 Audio
+# DEBUG: 38 1.00 Audio
+# DEBUG: 39 1.00 Audio
+# DEBUG: 40 1.00 Audio
+# DEBUG: 41 1.00 Audio
+# DEBUG: 42 1.00 Audio
+# DEBUG: 43 1.00 Audio
+# DEBUG: 44 1.00 Audio
+# DEBUG: 45 1.00 Audio
+# DEBUG: 46 1.00 Audio
+# DEBUG: 47 1.00 Audio
+# DEBUG: 48 1.00 Audio
+# DEBUG: 49 1.00 Audio
+# DEBUG: 50 1.00 Audio
+# DEBUG: 51 1.00 Audio
+# DEBUG: 52 1.00 Audio
+# DEBUG: 53 1.00 Audio
+# DEBUG: 54 1.00 Audio
+# DEBUG: 55 1.00 Audio
+# DEBUG: 56 1.00 Audio
+# DEBUG: 57 1.00 Audio
+# DEBUG: 58 1.00 Audio
+# DEBUG: 59 1.00 Audio
+# DEBUG: 60 1.00 Audio
+# DEBUG: 61 1.00 Audio
+# DEBUG: 62 1.00 Audio
+# DEBUG: 63 1.00 Audio
+# DEBUG: 64 1.00 Audio
+# DEBUG: 65 1.00 Classic
+# DEBUG: 66 1.00 Classic
+# DEBUG: 67 1.00 Classic
+# DEBUG: 68 1.00 Classic
+# DEBUG: 69 1.00 Classic
+# DEBUG: 70 1.00 Classic
+# DEBUG: 71 1.00 Classic
+# DEBUG: 72 1.00 Classic
+# DEBUG: 73 1.00 Classic
+# DEBUG: 74 1.00 Classic
+# DEBUG: 75 1.00 Classic
+# DEBUG: 76 1.00 Classic
+# DEBUG: 77 1.00 Classic
+# DEBUG: 78 1.00 Classic
+# DEBUG: 79 1.00 Classic
+# DEBUG: 80 1.00 Classic
+# DEBUG: 81 1.00 Classic
+# DEBUG: 82 1.00 Classic
+# DEBUG: 83 1.00 Classic
+# DEBUG: 84 1.00 Classic
+# DEBUG: 85 1.00 Classic
+# DEBUG: 86 1.00 Classic
+# DEBUG: 87 1.00 Classic
+# DEBUG: 88 1.00 Classic
+# DEBUG: 89 1.00 Classic
+# DEBUG: 90 1.00 Classic
+# DEBUG: 91 1.00 Classic
+# DEBUG: 92 1.00 Classic
+# DEBUG: 93 1.00 Classic
+# DEBUG: 94 1.00 Classic
+# DEBUG: 95 1.00 Classic
+# DEBUG: 96 1.00 Classic
+# DEBUG: 97 1.00 Classic
+# DEBUG: 98 1.00 Classic
+# DEBUG: 99 1.00 Classic
+# DEBUG: 100 1.00 Classic
+# DEBUG: 101 1.00 Classic
+# DEBUG: 102 1.00 Classic
+# DEBUG: 103 1.00 Classic
+# DEBUG: 104 1.00 Classic
+# DEBUG: 105 1.00 Classic
+# DEBUG: 106 1.00 Classic
+# DEBUG: 107 1.00 Classic
+# DEBUG: 108 1.00 Classic
+# DEBUG: 109 1.00 Classic
+# DEBUG: 110 1.00 Classic
+# DEBUG: 111 1.00 Classic
+# DEBUG: 112 1.00 Classic
+# DEBUG: 113 1.00 Classic
+# DEBUG: 114 1.00 Classic
+# DEBUG: 115 1.00 Classic
+# DEBUG: 116 1.00 Classic
+# DEBUG: 117 1.00 Classic
+# DEBUG: 118 1.00 Classic
+# DEBUG: 119 1.00 Classic
+# DEBUG: 120 1.00 Classic
+# DEBUG: 121 1.00 Classic
+# DEBUG: 122 1.00 Classic
+# DEBUG: 123 1.00 Classic
+# DEBUG: 124 1.00 Classic
+# DEBUG: 125 1.00 Classic
+# DEBUG: 126 1.00 Classic
+# DEBUG: 127 1.00 Classic
+# DEBUG: 128 1.00 Classic
+# DEBUG: 129 1.00 Classic
+# DEBUG: 130 1.00 Classic
+# DEBUG: 131 1.00 Classic
+# DEBUG: 132 1.00 Classic
+# DEBUG: 133 1.00 Classic
+# DEBUG: 134 1.00 Classic
+# DEBUG: 135 1.00 Classic
+# DEBUG: 136 1.00 Classic
+# DEBUG: 137 1.00 Classic
+# DEBUG: 138 1.00 Classic
+# DEBUG: 139 1.00 Classic
+# DEBUG: 140 1.00 Classic
+# DEBUG: 141 1.00 Classic
+# DEBUG: 142 1.00 Classic
+# DEBUG: 143 1.00 Classic
+# DEBUG: 144 1.00 Classic
+# DEBUG: 145 1.00 Classic
+# DEBUG: 146 1.00 Classic
+# DEBUG: 147 1.00 Classic
+# DEBUG: 148 1.00 Classic
+# DEBUG: 149 1.00 Classic
+# DEBUG: 150 1.00 Classic
+# DEBUG: 151 1.00 Classic
+# DEBUG: 152 1.00 Classic
+# DEBUG: 153 1.00 Classic
+# DEBUG: 154 1.00 Classic
+# DEBUG: 155 1.00 Classic
+# DEBUG: 156 1.00 Classic
+# DEBUG: 157 1.00 Classic
+# DEBUG: 158 1.00 Classic
+# DEBUG: 159 1.00 Classic
+# DEBUG: 160 1.00 Classic
+# DEBUG: 161 1.00 Classic
+# DEBUG: 162 1.00 Classic
+# DEBUG: 163 1.00 Classic
+# DEBUG: 164 1.00 Classic
+# DEBUG: 165 1.00 Classic
+# DEBUG: 166 1.00 Classic
+# DEBUG: 167 1.00 Classic
+# DEBUG: 168 1.00 Classic
+# DEBUG: 169 1.00 Classic
+# DEBUG: 170 1.00 Classic
+# DEBUG: 171 1.00 Classic
+# DEBUG: 172 1.00 Classic
+# DEBUG: 173 1.00 Classic
+# DEBUG: 174 1.00 Classic
+# DEBUG: 175 1.00 Classic
+# DEBUG: 176 1.00 Classic
+# DEBUG: 177 1.00 Classic
+# DEBUG: 178 1.00 Classic
+# DEBUG: 179 1.00 Classic
+# DEBUG: 180 1.00 Classic
+# DEBUG: 181 1.00 Classic
+# DEBUG: 182 1.00 Classic
+# DEBUG: 183 1.00 Classic
+# DEBUG: 184 1.00 Classic
+# DEBUG: 185 1.00 Classic
+# DEBUG: 186 1.00 Classic
+# DEBUG: 187 1.00 Classic
+# DEBUG: 188 1.00 Classic
+# DEBUG: 189 1.00 Classic
+# DEBUG: 190 1.00 Classic
+# DEBUG: 191 1.00 Classic
+# DEBUG: 192 1.00 Classic
+# DEBUG: 193 1.00 Classic
+# DEBUG: 194 1.00 Classic
+# DEBUG: 195 1.00 Classic
+# DEBUG: 196 1.00 Classic
+# DEBUG: 197 1.00 Classic
+# DEBUG: 198 1.00 Classic
+# DEBUG: 199 1.00 Living Things
+# DEBUG: 200 1.00 Living Things
+# DEBUG: 201 1.00 Living Things
+# DEBUG: 202 1.00 Living Things
+# DEBUG: 203 1.00 Living Things
+# DEBUG: 204 1.00 Living Things
+# DEBUG: 205 1.00 Living Things
+# DEBUG: 206 1.00 Living Things
+# DEBUG: 207 1.00 Living Things
+# DEBUG: 208 1.00 Living Things
+# DEBUG: 209 1.00 Living Things
+# DEBUG: 210 1.00 Living Things
+# DEBUG: 211 1.00 Living Things
+# DEBUG: 212 1.00 Living Things
+# DEBUG: 213 1.00 Living Things
+# DEBUG: 214 1.00 Living Things
+# DEBUG: 215 1.00 Living Things
+# DEBUG: 216 1.00 Parts of Speech
+# DEBUG: 217 1.00 Parts of Speech
+# DEBUG: 218 1.00 Parts of Speech
+# DEBUG: 219 1.00 Parts of Speech
+# DEBUG: 220 1.00 Parts of Speech
+# DEBUG: 221 1.00 Parts of Speech
+# DEBUG: 222 1.00 Parts of Speech
+# DEBUG: 223 1.00 Parts of Speech
+# DEBUG: 224 1.00 Parts of Speech
+# DEBUG: 225 1.00 Parts of Speech
+# DEBUG: 226 1.00 Parts of Speech
+# DEBUG: 227 1.00 Parts of Speech
+# DEBUG: 228 1.00 Parts of Speech
+# DEBUG: 229 1.00 Parts of Speech
+# DEBUG: 230 1.00 Parts of Speech
+# DEBUG: 231 1.00 Parts of Speech
+# DEBUG: 232 1.00 Parts of Speech
+# DEBUG: 233 1.00 Parts of Speech
+# DEBUG: 234 1.00 Parts of Speech
+# DEBUG: 235 1.00 Parts of Speech
+# DEBUG: 236 1.00 Parts of Speech
+# DEBUG: 237 1.00 Parts of Speech
+# DEBUG: 238 1.00 Parts of Speech
+# DEBUG: 239 1.00 Parts of Speech
+# DEBUG: 240 1.00 Parts of Speech
+# DEBUG: 241 1.00 Parts of Speech
+# DEBUG: 242 1.00 Parts of Speech
+# DEBUG: 243 1.00 Parts of Speech
+# DEBUG: 244 1.00 Parts of Speech
+# DEBUG: 245 1.00 Parts of Speech
+# DEBUG: 246 1.00 Parts of Speech
+# DEBUG: 247 1.00 Parts of Speech
+# DEBUG: 248 1.00 Parts of Speech
+# DEBUG: 249 1.00 Parts of Speech
+# DEBUG: 250 1.00 Parts of Speech
+# DEBUG: 251 1.00 Parts of Speech
+# DEBUG: 252 1.00 Parts of Speech
+# DEBUG: 253 1.00 Parts of Speech
+# DEBUG: 254 1.00 Parts of Speech
+# DEBUG: 255 1.00 Parts of Speech
+# DEBUG: 256 1.00 Parts of Speech
+# DEBUG: 257 1.00 Pictures
+# DEBUG: 258 1.00 Pictures
+# DEBUG: 259 1.00 Pictures
+# DEBUG: 260 1.00 Pictures
+# DEBUG: 261 1.00 Pictures
+# DEBUG: 262 1.00 Pictures
+# DEBUG: 263 1.00 Pictures
+# DEBUG: 264 1.00 Pictures
+# DEBUG: 265 1.00 Pictures
+# DEBUG: 266 1.00 Pictures
+# DEBUG: 267 1.00 Pictures
+# DEBUG: 268 1.00 Pictures
+# DEBUG: 269 1.00 Pictures
+# DEBUG: 270 1.00 Pictures
+# DEBUG: 271 1.00 Pictures
+# DEBUG: 272 1.00 Pictures
+# DEBUG: 273 1.00 Pictures
+# DEBUG: 274 1.00 Pictures
+# DEBUG: 275 1.00 Pictures
+# DEBUG: 276 1.00 Pictures
+# DEBUG: 277 1.00 Pictures
+# DEBUG: 278 1.00 Pictures
+# DEBUG: 279 1.00 Pictures
+# DEBUG: 280 1.00 Pictures
+# DEBUG: 281 1.00 Pictures
+# DEBUG: 282 1.00 Pictures
+# DEBUG: 283 1.00 Pictures
+# DEBUG: 284 1.00 Pictures
+# DEBUG: 285 1.00 Pictures
+# DEBUG: 286 1.00 Pictures
+# DEBUG: 287 1.00 Pictures
+# DEBUG: 288 1.00 Pictures
+# DEBUG: 289 1.00 Pictures
+# DEBUG: 290 1.00 Pictures
+# DEBUG: 291 1.00 Pictures
+# DEBUG: 292 1.00 Pictures
+# DEBUG: 293 1.00 Pictures
+# DEBUG: 294 1.00 Pictures
+# DEBUG: 295 1.00 Pictures
+# DEBUG: 296 1.00 Pictures
+# DEBUG: 297 1.00 Pictures
+# DEBUG: 298 1.00 Pictures
+# DEBUG: 299 1.00 Pictures
+# DEBUG: 300 1.00 Pictures
+# DEBUG: 301 1.00 Pictures
+# DEBUG: 302 1.00 Pictures
+# DEBUG: 303 1.00 Pictures
+# DEBUG: 304 1.00 Pictures
+# DEBUG: 305 1.00 Pictures
+# DEBUG: 306 1.00 Pictures
+# DEBUG: 307 1.00 Pictures
+# DEBUG: 308 1.00 Pictures
+# DEBUG: 309 1.00 Pictures
+# DEBUG: 310 1.00 Pictures
+# DEBUG: 311 1.00 Pictures
+# DEBUG: 312 1.00 Pictures
+# DEBUG: 313 1.00 Pictures
+# DEBUG: 314 1.00 Pictures
+# DEBUG: 315 1.00 Pictures
+# DEBUG: 316 1.00 Pictures
+# DEBUG: 317 1.00 Pictures
+# DEBUG: 318 1.00 Pictures
+# DEBUG: 319 1.00 Pictures
+# DEBUG: 320 1.00 Pictures
+# DEBUG: 321 1.00 Pictures
+# DEBUG: 322 1.00 Pictures
+# DEBUG: 323 1.00 Pictures
+# DEBUG: 324 1.00 Pictures
+# DEBUG: 325 1.00 Pictures
+# DEBUG: 326 1.00 Pictures
+# DEBUG: 327 1.00 Pictures
+# DEBUG: 328 1.00 Pictures
+# DEBUG: 329 1.00 Pictures
+# DEBUG: 330 1.00 Pictures
+# DEBUG: 331 1.00 Pictures
+# DEBUG: 332 1.00 Pictures
+# DEBUG: 333 1.00 Pictures
+# DEBUG: 334 1.00 Pictures
+# DEBUG: 335 1.00 Pictures
+# DEBUG: 336 1.00 Pictures
+# DEBUG: 337 1.00 Pictures
+# DEBUG: 338 1.00 Pictures
+# DEBUG: 339 1.00 Pictures
+# DEBUG: 340 1.00 Pictures
+# DEBUG: 341 1.00 Pictures
+# DEBUG: 342 1.00 Pictures
+# DEBUG: 343 1.00 Pictures
+# DEBUG: 344 1.00 Pictures
+# DEBUG: 345 1.00 Pictures
+# DEBUG: 346 1.00 Pictures
+# DEBUG: 347 1.00 Pictures
+# DEBUG: 348 1.00 Pictures
+# DEBUG: 349 1.00 Pictures
+# DEBUG: 350 1.00 Pictures
+# DEBUG: 351 1.00 Pictures
+# DEBUG: 352 1.00 Pictures
+# DEBUG: 353 1.00 Pictures
+# DEBUG: 354 1.00 Pictures
+# DEBUG: 355 1.00 Pictures
+# DEBUG: 356 1.00 Pictures
+# DEBUG: 357 1.00 Pictures
+# DEBUG: 358 1.00 Pictures
+# DEBUG: 359 1.00 Pictures
+# DEBUG: 360 1.00 Pictures
+# DEBUG: 361 1.00 Pictures
+# DEBUG: 362 1.00 Pictures
+# DEBUG: 363 1.00 Pictures
+# DEBUG: 364 1.00 Pictures
+# DEBUG: 365 1.00 Pronouns
+# DEBUG: 366 1.00 Pronouns
+# DEBUG: 367 1.00 Pronouns
+# DEBUG: 368 1.00 Pronouns
+# DEBUG: 369 1.00 Pronouns
+# DEBUG: 370 1.00 Pronouns
+# DEBUG: 371 1.00 Pronouns
+# DEBUG: 372 1.00 Pronouns
+# DEBUG: 373 1.00 Pronouns
+# DEBUG: 374 1.00 Pronouns
+# DEBUG: 375 1.00 Pronouns
+# DEBUG: 376 1.00 Pronouns
+# DEBUG: 377 1.00 Pronouns
+# DEBUG: 378 1.00 Pronouns
+# DEBUG: 379 1.00 Pronouns
+# DEBUG: 380 1.00 Pronouns
+# DEBUG: 381 1.00 Pronouns
+# DEBUG: 382 1.00 Pronouns
+# DEBUG: 383 1.00 Pronouns
+# DEBUG: 384 1.00 Pronouns
+# DEBUG: 385 1.00 Pronouns
+# DEBUG: 386 1.00 Pronouns
+# DEBUG: 387 1.00 Pronouns
+# DEBUG: 388 1.00 Pronouns
+# DEBUG: 389 1.00 Pronouns
+# DEBUG: 390 1.00 Pronouns
+# DEBUG: 391 1.00 Pronouns
+# DEBUG: 392 1.00 Pronouns
+# DEBUG: 393 1.00 Pronouns
+# DEBUG: 394 1.00 Pronouns
+# DEBUG: 395 1.00 Pronouns
+# DEBUG: 396 1.00 Pronouns
+# DEBUG: 397 1.00 Pronouns
+# DEBUG: 398 1.00 Pronouns
+# DEBUG: 399 1.00 Pronouns
+# DEBUG: 400 1.00 Pronouns
+# DEBUG: 401 1.00 Pronouns
+# DEBUG: 402 1.00 Pronouns
+# DEBUG: 403 1.00 Pronouns
+# DEBUG: 404 1.00 Pronouns
+# DEBUG: 405 1.00 Pronouns
+# DEBUG: 406 1.00 Pronouns
+# DEBUG: 407 1.00 Pronouns
+# DEBUG: 408 1.00 Pronouns
+# DEBUG: 409 1.00 Pronouns
+# DEBUG: 410 1.00 Pronouns
+# DEBUG: 411 1.00 Pronouns
+# DEBUG: 412 1.00 Pronouns
+# DEBUG: 413 1.00 Pronouns
+# DEBUG: 414 1.00 Pronouns
+# DEBUG: 415 1.00 Pronouns
+# DEBUG: 416 1.00 Proverbs
+# DEBUG: 417 1.00 Proverbs
+# DEBUG: 418 1.00 Proverbs
+# DEBUG: 419 1.00 Proverbs
+# DEBUG: 420 1.00 Proverbs
+# DEBUG: 421 1.00 Proverbs
+# DEBUG: 422 1.00 Proverbs
+# DEBUG: 423 1.00 Proverbs
+# DEBUG: 424 1.00 Proverbs
+# DEBUG: 425 1.00 Proverbs
+# DEBUG: 426 1.00 Proverbs
+# DEBUG: 427 1.00 Proverbs
+# DEBUG: 428 1.00 Proverbs
+# DEBUG: 429 1.00 Proverbs
+# DEBUG: 430 1.00 Proverbs
+# DEBUG: 431 1.00 Proverbs
+# DEBUG: 432 1.00 Proverbs
+# DEBUG: 433 1.00 Proverbs
+# DEBUG: 434 1.00 Proverbs
+# DEBUG: 435 1.00 Proverbs
+# DEBUG: 436 1.00 Proverbs
+# DEBUG: 437 1.00 Proverbs
+# DEBUG: 438 1.00 Proverbs
+# DEBUG: 439 1.00 Proverbs
+# DEBUG: 440 1.00 Proverbs
+# DEBUG: 441 1.00 Proverbs
+# DEBUG: 442 1.00 Proverbs
+# DEBUG: 443 1.00 Proverbs
+# DEBUG: 444 1.00 Proverbs
+# DEBUG: 445 1.00 Proverbs
+# DEBUG: 446 1.00 Proverbs
+# DEBUG: 447 1.00 Proverbs
+# DEBUG: 448 1.00 Proverbs
+# DEBUG: 449 1.00 Proverbs
+# DEBUG: 450 1.00 Proverbs
+# DEBUG: 451 1.00 Proverbs
+# DEBUG: 452 1.00 Proverbs
+# DEBUG: 453 1.00 Proverbs
+# DEBUG: 454 1.00 Proverbs
+# DEBUG: 455 1.00 Proverbs
+# DEBUG: 456 1.00 Proverbs
+# DEBUG: 457 1.00 Proverbs
+# DEBUG: 458 1.00 Proverbs
+# DEBUG: 459 1.00 Proverbs
+# DEBUG: 460 1.00 Proverbs
+# DEBUG: 461 1.00 Reng Expression
+# DEBUG: 462 1.00 Reng Expression
+# DEBUG: 463 1.00 Reng Expression
+# DEBUG: 464 1.00 Reng Expression
+# DEBUG: 465 1.00 Reng Expression
+# DEBUG: 466 1.00 Reng Expression
+# DEBUG: 467 1.00 Reng Expression
+# DEBUG: 468 1.00 Reng Expression
+# DEBUG: 469 1.00 Reng Expression
+# DEBUG: 470 1.00 Reng Expression
+# DEBUG: 471 1.00 Reng Expression
+# DEBUG: 472 1.00 Reng Expression
+# DEBUG: 473 1.00 Reng Expression
+# DEBUG: 474 1.00 Reng Expression
+# DEBUG: 475 1.00 Reng Expression
+# DEBUG: 476 1.00 Reng Expression
+# DEBUG: 477 1.00 Reng Expression
+# DEBUG: 478 1.00 Synonyms
+# DEBUG: 479 1.00 Synonyms
+# DEBUG: 480 1.00 Synonyms
+# DEBUG: 481 1.00 Synonyms
+# DEBUG: 482 1.00 Synonyms
+# DEBUG: 483 1.00 Synonyms
+# DEBUG: 484 1.00 Synonyms
+# DEBUG: 485 1.00 Synonyms
+# DEBUG: 486 1.00 Synonyms
+# DEBUG: 487 1.00 Synonyms
+# DEBUG: 488 1.00 Synonyms
+# DEBUG: 489 1.00 Synonyms
+# DEBUG: 490 1.00 Synonyms
+# DEBUG: 491 1.00 Synonyms
+# DEBUG: 492 1.00 Synonyms
+# DEBUG: 493 1.00 Synonyms
+# DEBUG: 494 1.00 Synonyms
+# DEBUG: 495 1.00 Synonyms
+# DEBUG: 496 1.00 Synonyms
+# DEBUG: 497 1.00 Synonyms
+# DEBUG: 498 1.00 Synonyms
+# DEBUG: 499 1.00 Synonyms
+# DEBUG: 500 1.00 Synonyms
+# DEBUG: 501 1.00 Synonyms
+# DEBUG: 502 1.00 Synonyms
+# DEBUG: 503 1.00 Synonyms
+# DEBUG: 504 1.00 Synonyms
+# DEBUG: 505 1.00 Synonyms
+# DEBUG: 506 1.00 Synonyms
+# DEBUG: 507 1.00 Synonyms
+# DEBUG: 508 1.00 Synonyms
+# DEBUG: 509 1.00 Synonyms
+# DEBUG: 510 1.00 Synonyms
+# DEBUG: 511 1.00 Synonyms
+# DEBUG: 512 1.00 Synonyms
+# DEBUG: 513 1.00 Synonyms
+# DEBUG: 514 1.00 Synonyms
+# DEBUG: 515 1.00 Synonyms
+# DEBUG: 516 1.00 Synonyms
+# DEBUG: 517 1.00 Synonyms
+# DEBUG: 518 1.00 Synonyms
+# DEBUG: 519 1.00 Synonyms
+# DEBUG: 520 1.00 Synonyms
+# DEBUG: 521 1.00 Trivia
+# DEBUG: 522 1.00 Trivia
+# DEBUG: 523 1.00 Trivia
+# DEBUG: 524 1.00 Trivia
+# DEBUG: 525 1.00 Trivia
+# DEBUG: 526 1.00 Trivia
+# DEBUG: 527 1.00 Trivia
+# DEBUG: 528 1.00 Trivia
+# DEBUG: 529 1.00 Trivia
+# DEBUG: 530 1.00 Trivia
+# DEBUG: 531 1.00 Trivia
+# DEBUG: 532 1.00 Trivia
+# DEBUG: 533 1.00 Trivia
+# DEBUG: 534 1.00 Trivia
+# DEBUG: 535 1.00 Trivia
+# DEBUG: 536 1.00 Trivia
+# DEBUG: 537 1.00 Trivia
+# DEBUG: 538 1.00 Trivia
+# DEBUG: 539 1.00 Trivia
+# DEBUG: 540 1.00 Trivia
+# DEBUG: 541 1.00 Trivia
+# DEBUG: 542 1.00 Trivia
+# DEBUG: 543 1.00 Trivia
+# DEBUG: 544 1.00 Trivia
+# DEBUG: 545 1.00 Trivia
+# DEBUG: 546 1.00 Trivia
+# DEBUG: 547 1.00 Trivia
+# DEBUG: 548 1.00 Trivia
+# DEBUG: 549 1.00 Trivia
+# DEBUG: 550 1.00 Trivia
+# DEBUG: 551 1.00 Trivia
+# DEBUG: 552 1.00 Trivia
+# DEBUG: 553 1.00 Trivia
+# DEBUG: 554 1.00 Trivia
+# DEBUG: 555 1.00 Trivia
+# DEBUG: 556 1.00 Trivia
+# DEBUG: 557 1.00 Trivia
+# DEBUG: 558 1.00 Trivia
+# DEBUG: 559 1.00 Trivia
+# DEBUG: 560 1.00 Trivia
+# DEBUG: 561 1.00 Trivia
+# DEBUG: 562 1.00 Trivia
+# DEBUG: 563 1.00 Trivia
+# DEBUG: 564 1.00 Trivia
+# DEBUG: 565 1.00 Trivia
+# DEBUG: 566 1.00 Trivia
+# DEBUG: 567 1.00 Trivia
+# DEBUG: 568 1.00 Trivia
+# DEBUG: 569 1.00 Trivia
+# DEBUG: 570 1.00 Trivia
+# DEBUG: 571 1.00 Trivia
+# DEBUG: 572 1.00 Trivia
+# DEBUG: 573 1.00 Trivia
+# DEBUG: 574 1.00 Trivia
+# DEBUG: 575 1.00 Trivia
+# DEBUG: 576 1.00 Trivia
+# DEBUG: 577 1.00 Trivia
+# DEBUG: 578 1.00 Trivia
+# DEBUG: 579 1.00 Trivia
+# DEBUG: 580 1.00 Trivia
+# DEBUG: 581 1.00 Trivia
+# DEBUG: 582 1.00 Trivia
+# DEBUG: 583 1.00 Trivia
+# DEBUG: 584 1.00 Trivia
+# DEBUG: 585 1.00 Trivia
+# DEBUG: 586 1.00 Trivia
+# DEBUG: 587 1.00 Trivia
+# DEBUG: 588 1.00 Trivia
+# DEBUG: 589 1.00 Trivia
+# DEBUG: 590 1.00 Trivia
+# DEBUG: 591 1.00 Trivia
+# DEBUG: 592 1.00 Trivia
+# DEBUG: 593 1.00 Trivia
+# DEBUG: 594 1.00 Trivia
+# DEBUG: 595 1.00 Trivia
+# DEBUG: 596 1.00 Trivia
+# DEBUG: 597 1.00 Trivia
+# DEBUG: 598 1.00 Trivia
+# DEBUG: 599 1.00 Trivia
+# DEBUG: 600 1.00 Trivia
+# DEBUG: 601 1.00 Trivia
+# DEBUG: 602 1.00 Trivia
+# DEBUG: 603 1.00 Trivia
+# DEBUG: 604 1.00 Trivia
+# DEBUG: 605 1.00 Trivia
+# DEBUG: 606 1.00 Trivia
+# DEBUG: 607 1.00 Trivia
+# DEBUG: 608 1.00 Trivia
+# DEBUG: 609 1.00 Trivia
+# DEBUG: 610 1.00 Trivia
+# DEBUG: 611 1.00 Trivia
+# DEBUG: 612 1.00 Trivia
+# DEBUG: 613 1.00 Trivia
+# DEBUG: 614 1.00 Trivia
+# DEBUG: 615 1.00 Trivia
+# DEBUG: 616 1.00 Trivia
+# DEBUG: 617 1.00 Trivia
+# DEBUG: 618 1.00 Trivia
+# DEBUG: 619 1.00 Trivia
+# DEBUG: 620 1.00 Trivia
+# DEBUG: 621 1.00 Trivia
+# DEBUG: 622 1.00 Trivia
+# DEBUG: 623 1.00 Trivia
+# DEBUG: 624 1.00 Trivia
+0 201446 2531 ? ? ? ? ? ? ? ? ? 2531
+1 201447 2689 ? ? ? ? ? ? ? ? ? 2689
+2 201448 1347 ? ? ? ? ? ? ? ? ? 1347
+3 201449 782 ? ? ? ? ? ? ? ? ? 782
+4 201450 500 ? ? ? ? ? ? ? ? ? 500
+5 201451 671 ? ? ? ? ? ? ? ? ? 671
+6 201452 269 ? ? ? ? ? ? ? ? ? 269
+7 201501 717 ? ? ? ? ? ? ? ? ? 717
+8 201502 631 ? ? ? ? ? ? ? ? ? 631
+9 201503 377 ? ? ? ? ? ? ? ? ? 377
+10 201504 524 ? ? ? ? ? ? ? ? ? 524
+11 201505 560 ? ? ? ? ? ? ? ? ? 560
+12 201506 607 ? ? ? ? ? ? ? ? ? 607
+13 201507 498 ? ? ? ? ? ? ? ? ? 498
+14 201508 407 ? ? ? ? ? ? ? ? ? 407
+15 201509 264 ? ? ? ? ? ? ? ? ? 264
+16 201510 716 ? ? ? ? ? ? ? ? ? 716
+17 201511 117 ? ? ? ? ? ? ? ? ? 117
+18 201512 18 ? ? ? ? ? ? ? ? ? 18
+19 201513 73 ? ? ? ? ? ? ? ? ? 73
+20 201514 251 ? ? ? ? ? ? ? ? ? 251
+21 201515 1830 5276 415 ? ? ? ? ? ? ? 7521
+22 201516 474 1284 548 ? ? ? ? ? ? ? 2306
+23 201517 1992 2120 304 ? ? ? ? ? ? ? 4416
+24 201518 295 588 27 158 ? 113 ? ? ? ? 1181
+25 201519 289 312 29 27 209 10 51 ? ? ? 927
+26 201520 222 226 11 2 739 5 58 ? ? ? 1263
+27 201521 226 332 ? 26 449 4 5 ? ? ? 1042
+28 201522 415 307 187 42 163 35 49 ? ? ? 1198
+29 201523 308 463 31 11 469 53 26 ? ? ? 1361
+30 201524 196 89 115 ? 334 10 14 ? ? ? 758
+31 201525 227 191 8 16 57 ? 24 ? ? ? 523
+32 201526 118 87 1 11 76 31 2 ? ? ? 326
+33 201527 194 321 ? 1 67 ? 1 ? ? ? 584
+34 201528 50 65 ? ? 97 ? ? ? ? ? 212
+35 201529 122 94 ? 21 48 ? ? ? ? ? 285
+36 201530 217 132 ? ? 72 ? 30 ? ? ? 451
+37 201531 101 165 55 25 32 24 1 ? ? ? 403
+38 201532 106 152 34 26 32 23 ? ? ? ? 373
+39 201533 129 20 25 ? 57 26 ? ? ? ? 257
+40 201534 204 194 28 8 155 ? 3 ? ? ? 592
+41 201535 150 145 2 1 82 1 2 ? ? ? 383
+42 201536 168 89 ? ? 38 ? ? ? ? ? 295
+43 201537 172 91 25 2 57 25 1 ? ? ? 373
+44 201538 90 35 ? 9 81 ? 25 ? ? ? 240
+45 201539 107 35 ? ? 25 ? ? ? ? ? 167
+46 201540 18 76 ? ? 63 ? ? ? ? ? 157
+47 201541 32 74 ? 6 31 ? ? ? ? ? 143
+48 201542 83 142 27 4 159 ? ? ? ? ? 415
+49 201543 53 396 25 1 197 ? 7 ? ? ? 679
+50 201544 183 36 ? 1 43 2 ? ? ? ? 265
+51 201545 272 243 23 4 135 33 11 ? ? ? 721
+52 201546 93 186 26 ? 298 29 46 ? ? ? 678
+53 201547 69 57 ? ? 54 ? ? ? ? ? 180
+54 201548 5 135 ? ? 31 25 6 ? ? ? 202
+55 201549 41 12 7 ? 1 1 ? ? ? ? 62
+56 201550 59 17 ? ? 2 ? ? ? ? ? 78
+57 201551 105 127 ? ? 158 10 25 ? ? ? 425
+58 201552 37 ? 25 ? 49 ? 16 ? ? ? 127
+59 201601 57 126 8 1 126 3 ? ? ? ? 321
+60 201602 141 14 ? ? 7 ? ? ? ? ? 162
+61 201603 120 26 1 ? 178 ? ? ? ? ? 325
+62 201604 151 102 51 ? 59 ? ? ? ? ? 363
+63 201605 45 118 ? ? 25 ? ? ? ? ? 188
+64 201606 121 85 ? 5 64 ? ? ? ? ? 275
+65 201607 38 ? 25 ? 37 25 ? ? ? ? 125
+66 201608 79 82 1 6 79 189 ? ? ? ? 436
+67 201609 299 188 3 ? 114 200 1 ? ? ? 805
+68 201610 3 54 19 ? 183 ? 2 ? ? ? 261
+69 201611 147 132 69 31 56 54 14 ? ? ? 503
+70 201612 105 35 27 6 43 30 ? ? ? ? 246
+71 201613 129 1 ? ? 1 ? ? ? ? ? 131
+72 201614 186 51 56 1 7 79 1 ? ? ? 381
+73 201615 76 117 80 3 116 ? 25 ? ? ? 417
+74 201616 694 144 1 5 297 ? 26 1635 ? ? 2802
+75 201617 410 278 28 ? 479 15 1 297 ? ? 1508
+76 201618 161 112 69 3 281 2 8 164 ? ? 800
+77 201619 77 34 28 4 109 4 ? 339 ? ? 595
+78 201620 102 59 2 ? 295 1 2 26 ? ? 487
+79 201621 3 ? ? ? ? 1 ? ? ? ? 4
+80 201622 21 60 1 ? 59 ? ? 39 ? ? 180
+81 201623 53 31 ? ? 134 ? 1 75 ? ? 294
+82 201624 84 41 14 42 259 23 2 82 ? ? 547
+83 201625 75 4 14 9 129 5 ? 27 ? ? 263
+84 201626 77 28 ? 14 44 5 ? 9 ? ? 177
+85 201627 29 13 ? 3 5 5 ? 3 ? ? 58
+86 201628 66 25 ? 39 79 4 ? 78 ? ? 291
+87 201629 10 1 ? 11 79 4 ? 40 ? ? 145
+88 201630 45 31 ? ? 16 ? ? ? ? ? 92
+89 201631 71 26 51 ? 28 ? ? 1 ? ? 177
+90 201632 2 1 ? ? 50 ? ? 25 ? ? 78
+91 201633 21 79 ? ? 57 ? 2 2 ? ? 161
+92 201634 62 79 3 ? ? 5 1 42 ? ? 192
+93 201635 185 76 ? ? 172 ? ? 50 ? ? 483
+94 201636 108 86 49 ? 53 5 26 100 ? ? 427
+95 201637 70 57 ? ? 9 ? 10 ? ? ? 146
+96 201638 43 60 1 ? 106 1 1 8 ? ? 220
+97 201639 75 3 ? ? 9 25 ? 6 ? ? 118
+98 201640 67 27 1 ? 29 ? ? 75 ? ? 199
+99 201641 162 37 ? ? 74 ? ? 3 ? ? 276
+100 201642 119 48 ? ? 61 ? 1 102 ? ? 331
+101 201643 38 ? ? ? 59 ? ? 21 ? ? 118
+102 201644 25 55 ? ? 73 ? ? ? ? ? 153
+103 201645 83 51 ? ? 52 ? 4 12 ? ? 202
+104 201646 49 26 31 6 10 ? ? ? ? ? 122
+105 201647 63 30 78 ? ? ? 1 22 ? ? 194
+106 201648 49 50 30 ? ? ? ? 27 ? ? 156
+107 201649 2 16 ? ? ? ? ? 26 ? ? 44
+108 201650 98 123 36 ? 76 25 15 ? ? ? 373
+109 201651 78 16 ? ? 11 ? ? ? ? ? 105
+110 201652 16 1 ? ? 100 ? ? 10 ? ? 127
+111 201701 51 41 73 ? 2 22 ? 2 ? ? 191
+112 201702 91 89 2 ? 208 8 ? 44 ? ? 442
+113 201703 42 1 1 ? 45 ? ? ? ? ? 89
+114 201704 84 ? ? ? 86 ? ? 1 ? ? 171
+115 201705 85 25 ? ? 41 6 ? 27 ? ? 184
+116 201706 150 80 112 ? 77 1 ? 28 377 281 1106
+117 201707 132 119 57 ? 83 ? 10 29 63 140 633
+118 201708 366 46 2 2 282 10 1 34 28 141 912
+119 201709 164 27 ? ? 25 ? ? 1 29 122 368
+120 201710 32 12 1 ? 27 35 ? 23 63 22 215
+121 201711 20 ? ? ? 18 ? ? ? 1 1 40
+122 201712 98 77 ? ? 160 ? ? ? 50 75 460
+123 201713 60 79 4 ? 7 ? 3 3 57 61 274
+124 201714 106 26 16 ? 25 ? 5 ? 6 6 190
+125 201715 42 5 31 ? 25 1 ? 25 2 49 180
+126 201716 72 33 34 24 126 50 ? 25 81 55 500
+127 201717 9 7 ? ? 25 ? ? ? ? 12 53
+128 201718 87 55 25 ? 43 ? ? ? 17 30 257
+129 201719 12 15 9 ? 2 ? ? ? 13 7 58
+130 201720 31 5 ? ? ? 3 ? 5 9 25 78
+131 201721 57 15 ? ? 25 ? ? ? 3 35 135
+132 201722 41 21 2 ? 233 ? ? ? 8 ? 305
+133 201723 39 69 ? 5 194 ? ? ? 67 40 414
+134 201724 ? 1 ? ? 2 ? ? ? ? ? 3

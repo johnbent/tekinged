@@ -1,0 +1,430 @@
+# select distinct(yearweek(added)) as date from log_query order by yearweek(added)
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201438'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201438'
+1 201438 TOTAL 760 PERC 74.21
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201439'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201439'
+2 201439 TOTAL 3327 PERC 68.17
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201440'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201440'
+3 201440 TOTAL 325 PERC 69.23
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201441'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201441'
+4 201441 TOTAL 738 PERC 54.47
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201442'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201442'
+5 201442 TOTAL 6787 PERC 32.64
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201443'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201443'
+6 201443 TOTAL 377 PERC 68.70
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201444'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201444'
+7 201444 TOTAL 1521 PERC 50.43
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201445'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201445'
+8 201445 TOTAL 1030 PERC 54.56
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201446'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201446'
+9 201446 TOTAL 1135 PERC 48.46
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201447'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201447'
+10 201447 TOTAL 688 PERC 57.85
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201448'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201448'
+11 201448 TOTAL 767 PERC 51.50
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201449'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201449'
+12 201449 TOTAL 416 PERC 52.88
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201450'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201450'
+13 201450 TOTAL 480 PERC 58.75
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201451'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201451'
+14 201451 TOTAL 783 PERC 47.13
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201452'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201452'
+15 201452 TOTAL 938 PERC 51.92
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201501'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201501'
+16 201501 TOTAL 825 PERC 52.48
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201502'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201502'
+17 201502 TOTAL 1740 PERC 67.59
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201503'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201503'
+18 201503 TOTAL 2452 PERC 61.17
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201504'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201504'
+19 201504 TOTAL 2283 PERC 68.07
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201505'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201505'
+20 201505 TOTAL 2638 PERC 78.66
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201506'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201506'
+21 201506 TOTAL 1636 PERC 78.30
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201507'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201507'
+22 201507 TOTAL 2095 PERC 76.42
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201508'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201508'
+23 201508 TOTAL 1624 PERC 79.37
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201509'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201509'
+24 201509 TOTAL 2965 PERC 77.91
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201510'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201510'
+25 201510 TOTAL 4655 PERC 87.76
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201511'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201511'
+26 201511 TOTAL 2722 PERC 88.76
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201512'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201512'
+27 201512 TOTAL 1911 PERC 82.47
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201513'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201513'
+28 201513 TOTAL 1690 PERC 77.40
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201514'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201514'
+29 201514 TOTAL 2316 PERC 85.66
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201515'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201515'
+30 201515 TOTAL 2339 PERC 76.61
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201516'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201516'
+31 201516 TOTAL 1569 PERC 71.32
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201517'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201517'
+32 201517 TOTAL 1344 PERC 61.01
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201518'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201518'
+33 201518 TOTAL 1085 PERC 57.33
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201519'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201519'
+34 201519 TOTAL 1618 PERC 76.27
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201520'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201520'
+35 201520 TOTAL 2045 PERC 76.58
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201521'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201521'
+36 201521 TOTAL 828 PERC 69.69
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201522'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201522'
+37 201522 TOTAL 937 PERC 64.89
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201523'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201523'
+38 201523 TOTAL 1039 PERC 70.26
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201524'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201524'
+39 201524 TOTAL 1470 PERC 72.18
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201525'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201525'
+40 201525 TOTAL 1501 PERC 63.76
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201526'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201526'
+41 201526 TOTAL 1242 PERC 64.98
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201527'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201527'
+42 201527 TOTAL 445 PERC 62.70
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201528'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201528'
+43 201528 TOTAL 534 PERC 50.00
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201529'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201529'
+44 201529 TOTAL 866 PERC 56.70
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201530'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201530'
+45 201530 TOTAL 825 PERC 69.82
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201531'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201531'
+46 201531 TOTAL 618 PERC 62.78
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201532'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201532'
+47 201532 TOTAL 1392 PERC 66.81
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201533'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201533'
+48 201533 TOTAL 751 PERC 52.06
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201534'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201534'
+49 201534 TOTAL 1229 PERC 64.12
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201535'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201535'
+50 201535 TOTAL 783 PERC 61.30
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201536'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201536'
+51 201536 TOTAL 750 PERC 52.00
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201537'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201537'
+52 201537 TOTAL 1204 PERC 61.79
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201538'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201538'
+53 201538 TOTAL 810 PERC 60.12
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201539'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201539'
+54 201539 TOTAL 613 PERC 61.99
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201540'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201540'
+55 201540 TOTAL 981 PERC 59.12
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201541'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201541'
+56 201541 TOTAL 599 PERC 52.25
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201542'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201542'
+57 201542 TOTAL 585 PERC 55.21
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201543'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201543'
+58 201543 TOTAL 1126 PERC 60.04
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201544'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201544'
+59 201544 TOTAL 686 PERC 56.12
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201545'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201545'
+60 201545 TOTAL 2235 PERC 80.76
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201546'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201546'
+61 201546 TOTAL 1688 PERC 73.70
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201547'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201547'
+62 201547 TOTAL 1910 PERC 75.29
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201548'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201548'
+63 201548 TOTAL 1463 PERC 65.41
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201549'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201549'
+64 201549 TOTAL 969 PERC 59.65
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201550'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201550'
+65 201550 TOTAL 1207 PERC 61.72
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201551'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201551'
+66 201551 TOTAL 488 PERC 51.43
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201552'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201552'
+67 201552 TOTAL 702 PERC 60.26
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201601'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201601'
+68 201601 TOTAL 860 PERC 60.81
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201602'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201602'
+69 201602 TOTAL 1065 PERC 66.29
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201603'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201603'
+70 201603 TOTAL 1178 PERC 64.60
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201604'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201604'
+71 201604 TOTAL 746 PERC 58.04
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201605'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201605'
+72 201605 TOTAL 1143 PERC 60.98
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201606'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201606'
+73 201606 TOTAL 1659 PERC 72.33
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201607'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201607'
+74 201607 TOTAL 1770 PERC 70.62
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201608'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201608'
+75 201608 TOTAL 1538 PERC 75.16
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201609'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201609'
+76 201609 TOTAL 830 PERC 65.78
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201610'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201610'
+77 201610 TOTAL 3181 PERC 84.03
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201611'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201611'
+78 201611 TOTAL 3011 PERC 80.04
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201612'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201612'
+79 201612 TOTAL 2309 PERC 75.79
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201613'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201613'
+80 201613 TOTAL 1583 PERC 66.65
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201614'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201614'
+81 201614 TOTAL 1395 PERC 69.10
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201615'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201615'
+82 201615 TOTAL 1281 PERC 58.24
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201616'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201616'
+83 201616 TOTAL 1790 PERC 70.45
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201617'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201617'
+84 201617 TOTAL 1532 PERC 62.14
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201618'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201618'
+85 201618 TOTAL 1406 PERC 61.17
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201619'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201619'
+86 201619 TOTAL 1352 PERC 65.83
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201620'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201620'
+87 201620 TOTAL 938 PERC 58.53
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201621'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201621'
+88 201621 TOTAL 2281 PERC 66.29
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201622'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201622'
+89 201622 TOTAL 1549 PERC 59.13
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201623'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201623'
+90 201623 TOTAL 1233 PERC 57.91
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201624'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201624'
+91 201624 TOTAL 729 PERC 60.36
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201625'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201625'
+92 201625 TOTAL 996 PERC 60.74
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201626'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201626'
+93 201626 TOTAL 9251 PERC 76.54
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201627'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201627'
+94 201627 TOTAL 1092 PERC 59.34
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201628'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201628'
+95 201628 TOTAL 1561 PERC 67.26
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201629'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201629'
+96 201629 TOTAL 1804 PERC 64.97
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201630'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201630'
+97 201630 TOTAL 1559 PERC 62.48
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201631'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201631'
+98 201631 TOTAL 1351 PERC 62.40
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201632'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201632'
+99 201632 TOTAL 1351 PERC 69.80
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201633'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201633'
+100 201633 TOTAL 1458 PERC 68.31
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201634'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201634'
+101 201634 TOTAL 1626 PERC 66.48
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201635'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201635'
+102 201635 TOTAL 1184 PERC 61.40
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201636'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201636'
+103 201636 TOTAL 909 PERC 58.64
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201637'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201637'
+104 201637 TOTAL 1342 PERC 62.82
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201638'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201638'
+105 201638 TOTAL 1438 PERC 57.51
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201639'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201639'
+106 201639 TOTAL 2008 PERC 71.41
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201640'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201640'
+107 201640 TOTAL 1729 PERC 64.78
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201641'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201641'
+108 201641 TOTAL 1247 PERC 58.46
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201642'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201642'
+109 201642 TOTAL 1369 PERC 62.16
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201643'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201643'
+110 201643 TOTAL 1273 PERC 63.00
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201644'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201644'
+111 201644 TOTAL 1200 PERC 62.25
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201645'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201645'
+112 201645 TOTAL 10371 PERC 79.92
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201646'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201646'
+113 201646 TOTAL 7955 PERC 79.87
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201647'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201647'
+114 201647 TOTAL 2457 PERC 70.78
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201648'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201648'
+115 201648 TOTAL 7173 PERC 80.45
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201649'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201649'
+116 201649 TOTAL 4572 PERC 74.91
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201650'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201650'
+117 201650 TOTAL 3968 PERC 71.60
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201651'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201651'
+118 201651 TOTAL 2731 PERC 76.13
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201652'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201652'
+119 201652 TOTAL 3859 PERC 76.94
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201701'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201701'
+120 201701 TOTAL 3551 PERC 72.29
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201702'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201702'
+121 201702 TOTAL 3287 PERC 70.95
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201703'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201703'
+122 201703 TOTAL 4137 PERC 76.09
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201704'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201704'
+123 201704 TOTAL 8590 PERC 79.52
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201705'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201705'
+124 201705 TOTAL 3613 PERC 74.54
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201706'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201706'
+125 201706 TOTAL 7694 PERC 76.35
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201707'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201707'
+126 201707 TOTAL 3234 PERC 69.79
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201708'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201708'
+127 201708 TOTAL 5550 PERC 75.57
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201709'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201709'
+128 201709 TOTAL 7541 PERC 83.82
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201710'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201710'
+129 201710 TOTAL 3931 PERC 76.09
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201711'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201711'
+130 201711 TOTAL 11152 PERC 88.72
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201712'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201712'
+131 201712 TOTAL 29305 PERC 90.54
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201713'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201713'
+132 201713 TOTAL 9997 PERC 87.58
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201714'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201714'
+133 201714 TOTAL 7725 PERC 82.74
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201715'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201715'
+134 201715 TOTAL 9132 PERC 86.79
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201716'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201716'
+135 201716 TOTAL 6387 PERC 83.51
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201717'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201717'
+136 201717 TOTAL 7297 PERC 85.45
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201718'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201718'
+137 201718 TOTAL 5772 PERC 77.62
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201719'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201719'
+138 201719 TOTAL 8394 PERC 86.31
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201720'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201720'
+139 201720 TOTAL 8147 PERC 69.66
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201721'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201721'
+140 201721 TOTAL 10227 PERC 72.37
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201722'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201722'
+141 201722 TOTAL 6888 PERC 82.32
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201723'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201723'
+142 201723 TOTAL 5494 PERC 81.65
+# select count(*) as count from log_query where found=1 and yearweek(added) = '201724'
+# select count(*) as count from log_query where found=0 and yearweek(added) = '201724'
+143 201724 TOTAL 2134 PERC 83.60

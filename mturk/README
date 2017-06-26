@@ -1,0 +1,5 @@
+First copy the Batch file from Amazon mturk
+./batch2mturk.py
+Then turn the batch results into individual lines
+./mturk2lines.py
+Then turn the lines into words

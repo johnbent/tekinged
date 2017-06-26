@@ -1,0 +1,22 @@
+SKIP
+w -t fish udech n. [Lethrinus obsoletus]
+w -t fish tiau n. [Plectropomus areolatus]
+w -t fish butiliang n. [Scarus dimidiatus; Chlorurus sodidus]
+w -t fish rekruk n. [Lethrinus xanthochilus]
+w -t fish ngimer n. [Cheilinus undulatus]
+w -t fish elebdechukl n. [Scarus ghobban]
+w -t fish bechol n. [Plectorinchus chaetonoides]
+w -t fish riamel n. [Ostracion cubicus]
+w -t fish temekai n. xx
+p ubei temekai --[Cromileptes altivelis]
+w -t fish melchotechachau n. [Scarus altipinnis]
+w -t fish kelsebuul var. klsebul
+START
+w -t fish ngemoel n. [Calotomus carolinus]
+w -t fish oteot n. [Caranx lugubris]
+w -t fish kedesau n. xx
+p kedesau iengel --[lutjanus argentimaculatus]
+w -t fish osuched n. xx
+p osuched chui --[Hipposcarus harid]
+w -t fish kelalk n. [Macolor niger]
+w -t fish beab n. [Kyphosus cinerascens]

@@ -1,0 +1,30 @@
+#NAME “tekinged.com”
+#INDEX_LANGUAGE “Palauan”
+#CONTENTS_LANGUAGE “English”
+
+blai
+  house
+
+sechal
+  man
+
+redil
+  woman
+
+mengelebed
+  hit; strike.
+
+ngikel
+  fish.
+
+kall
+  food
+
+ralm
+  water
+
+ngak
+  I/me.
+
+kau
+  you/you all.

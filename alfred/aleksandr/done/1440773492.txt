@@ -1,0 +1,47 @@
+v melbolb v.t. xx;
+ibelbii 
+v melechiir v.t. xx;
+ticherii xxx ??? xxx
+v omub v.t. xx --mngii
+v omiu v.t. xx --miungii
+v omuut v.t. xx --mutii
+v melekau v.t. xx;
+??? tokau 
+v melimd v.t. xx;
+??? tuimd
+v melobs v.t. xx;
+dobsii duobs
+v mengelekall v.t. xx;
+??? kelekall
+v mengelsakl v.t. xx;
+chelsakl
+v mengemeldiil v.t. xx;
+komeldillii
+v mengemus v.t. xx;
+chumsengii chomus
+v mengetechat v.t. xx;
+chotechetir chotechat
+v mengetitk v.t. xx;
+chitetkii
+v mengetukl v.t. xx;
+??? kutukl
+v mengetut v.t. xx;
+kututur 
+v mengidadeb v.t. xx;
+??? choidadeb
+v mengiechab v.t. xx;
+chiechebengii chuiechab
+v mengiroir v.t. xx; 
+choiririi choiroir chiliririi chiliroir
+v olengimes v.caus. xx;
+ongmesii ongimes
+v olidoid v.t. xx;
+??? oidoid
+v omekberaod v.caus. make heavy;
+mekberedii mekbereod
+v ometkou v.t. xx;
+??? metkou
+v omtaor v.t. xx;
+mtorii mtaor 
+v omtelub v.caus. xx;
+mtelbar 
