@@ -1,7 +1,0 @@
-SKIP
-l mengiuch omengiuch
-l mengedeb kedebengel
-l ultechakl oltechakl
-START
-l olsorech klaiuesorech
-l mengetkat keltkat

@@ -21,6 +21,7 @@ def run_query(query,values):
     print "Error: %s" % e
     return -1
 
+db=pymysql.connect(user="johnbent",passwd="chemelekelbuuch",db="belau",host="mysql.tekinged.com")
 c=db.cursor()
 for line in codecs.open(inputfile):
     line = line.decode('utf-8').strip()

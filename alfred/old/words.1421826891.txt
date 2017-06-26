@@ -1,1 +1,0 @@
-w tabi n. foo --outabi v.t.

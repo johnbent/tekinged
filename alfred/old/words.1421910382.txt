@@ -1,5 +1,0 @@
-l otil omat
-w omat v.t. foo 
-p omat a irimd --collect sea cucumber.
-p omat er a btil --sit down.
-w irimd n. type of sea cucumber.

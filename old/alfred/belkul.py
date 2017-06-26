@@ -15,9 +15,7 @@ def run_query(query):
     e = sys.exc_info()[0]
     print "Error: %s" % e
 
-pusr=os.getenv('TEK_USR')
-ppwd=os.getenv('TEK_PWD')
-db=pymysql.connect(user=pusr,passwd=ppwd,db="belau",host="mysql.tekinged.com")
+db=pymysql.connect(user="johnbent",passwd="0730Remliik",db="belau",host="mysql.tekinged.com")
 c=db.cursor()
 for line in open(wordfile):
     line = line.rstrip('\r\n');

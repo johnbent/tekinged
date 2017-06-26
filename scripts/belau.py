@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+import os
 import sys
 #from sshtunnel import SSHTunnelForwarder
 import MySQLdb
@@ -37,7 +38,6 @@ def pal2id(c,pal,verbose=False):
   #        remote_bind_address=('127.0.0.1', 3308))
   #server.start()
   #print "Have connection to %d" % server.local_bind_port
-  #con = MySQLdb.connect(user='johnbent',passwd='chemelekelbuuch',db='belau',host='127.0.0.1',port=server.local_bind_port,cursorclass=MySQLdb.cursors.DictCursor)
   #cur = con.cursor()
   #return (con,cur)
 
@@ -55,8 +55,9 @@ def print_from_id(c,wid,indent=''):
 
 def connect():
   #print "Connecting via tunnel"
-  # mysql -u johnbent --password=chemelekelbuuch -h 127.0.0.1 -P 3307 -D belau -A
-  db=MySQLdb.connect(user="johnbent",passwd="chemelekelbuuch",db="belau",host="127.0.0.1",port=3307,cursorclass=MySQLdb.cursors.DictCursor)
+  pword=os.getenv('TEK_PWD')
+  puser=os.getenv('TEK_USR')
+  db=MySQLdb.connect(user=puser,passwd=pword,db="belau",host="127.0.0.1",port=3307,cursorclass=MySQLdb.cursors.DictCursor)
   c=db.cursor()
   return (db,c)
 

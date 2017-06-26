@@ -1,7 +1,0 @@
-w melacheb v.t. foo --meritechetacheb v.s.redup.
-w omeu v.t. foo --bengall v.a.s. --omeu v.i. (egg, chicken) hatch. --omengang v.inch. (egg, chicken) begin to hatch. --kebeu v.recip. (hit each other and) break. --omeongel n. submerged rock or similar object which could endanger boat.
-w omritel v.t. foo --ometiteritel v.i.redup. fall backwards with shaking motion (from fright, etc.).
-w ometkou v.t. lift up (water) in container. --betkou n. any container for getting large amount of water; bucket.
-w ometochel n. place for pounding nuts of tropical almond or shellfish. --Ometochel n. name of hill between Ngeremlengui and Melekeok from which (in Palauan legend) Miladeldil threw stones to mark the territories of her four children (Melekeok, Imiungs, Oreor, and Ngerebungs).
-p ometochel el miich --place for pounding nuts of tropical almond.
-p ometochel el sang --place for pounding shellfish.

@@ -8,6 +8,6 @@ do
   echo "What is marker?"
   read marker
   command="insert into kerresel_pages (last) values ('$marker')"
-  echo $command | mysql --password=chemelekelbuuch -u johnbent -h mysql.tekinged.com -D belau
+  echo $command | mysql --password=$TEK_PWD -u $TEK_USR -h mysql.tekinged.com -D belau
   echo $command | tee -a commands.mysql 
 done

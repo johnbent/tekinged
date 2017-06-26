@@ -1,4 +1,0 @@
-l meludeu meleu
-l medulel meleu
-w meleu v.t. foo
-p Doleu! --Let's go!
