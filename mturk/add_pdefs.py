@@ -5,8 +5,7 @@ import sys
 import pymysql
 
 def main():
-  db=pymysql.connect(user="johnbent",passwd="chemelekelbuuch",db="belau",host="mysql.tekinged.com")
-  c=db.cursor()
+  (db,c)=belau.connect()
 
   f = open('pdefs.txt')
   for line in f.readlines():
