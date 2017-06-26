@@ -150,7 +150,7 @@ def main():
   xml = open('Palauan.xml', 'w')
   print_header(xml)
 
-  q = "select id,pal,eng,pdef,pos,oword,origin from all_words3 where id=stem"; 
+  q = "select id,pal,eng,pdef,pos,oword,origin from all_words3 where id=stem and (isnull(pos) or pos not like 'affix')"; 
   if args.f:
     q += " and pal like '%s' " % args.f
   if args.l:
