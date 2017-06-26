@@ -12,7 +12,7 @@ def query(q,c):
   return c.fetchall()
 
 def print_footer(xml):
-  xml.write( '</d:dictionary>' )
+  xml.write( '</d:dictionary>\n' )
 
 def print_header(xml):
   xml.write( '''<?xml version="1.0" encoding="UTF-8"?>
@@ -20,14 +20,14 @@ def print_header(xml):
   This is the Palauan dictionary source file as produced using the tekinged.com database.
   It can be built using Dictionary Development Kit.
 -->
-<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng"> ''')
+<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng"> \n''')
 
 def add_image(wid,pal,xml):
   if os.path.isfile('OtherResources/Images/%d.jpg' % wid ):
     xml.write( '''\
           <span class="picture">
           <img src="Images/%d.jpg" alt="%s"/>
-          </span>''' % ( wid, pal ))
+          </span>\n''' % ( wid, pal ))
     
 def space(multiplier=1):
   width=5*multiplier
@@ -45,11 +45,11 @@ def display_word(row,htype,xml):
     else:
       return ''
 
-  xml.write( '\t<div d:priority="2" class="entry">%s<%s style="display: inline">%s</%s> %s <i>%s</i> %s %s' % 
+  xml.write( '\t<div d:priority="2" class="entry">%s<%s style="display: inline">%s</%s> %s <i>%s</i> %s %s\n' % 
             ( space(), htype, row['pal'], htype, space(), row['pos'], space(), get_eng(row['eng']) ))
   if row['pdef']:
-    xml.write( '\t<span class="pdef" d:priority="2">%s</span>' % row['pdef'])
-  xml.write( '</div>' )
+    xml.write( '\t<span class="pdef" d:priority="2">%s</span>\n' % row['pdef'])
+  xml.write( '</div>\n' )
 
 def get_pal(wid,c):
   q='select pal from all_words3 where id=%d' % wid
@@ -77,15 +77,15 @@ def add_sentences(word,branches,c,table,label,english,xml,explanation=None):
   q='select * from %s where %s limit 7' % (table, get_regexes(word,branches))
   examples = query(q,c)
   if examples:
-    xml.write( '<span class="column">')
-    xml.write( '%s' % label )
+    xml.write( '<span class="column">\n')
+    xml.write( '%s\n' % label )
     for example in examples:
       if explanation:
         explanation_text = '[%s]' % example[explanation]
       else:
         explanation_text = ''
-      xml.write( '<div class="entry"><i>%s</i> %s %s</div>' % ( example['palauan'], example[english], explanation_text ) )
-    xml.write( '</span>' )
+      xml.write( '<div class="entry"><i>%s</i> %s %s</div>\n' % ( example['palauan'], example[english], explanation_text ) )
+    xml.write( '</span>\n' )
 
 def add_synonyms(row,c,xml):
   q='select word as b from synonyms where grouping in (select grouping from synonyms where word=%d) and word !=%d' % (row['id'],row['id'])
@@ -100,23 +100,23 @@ def add_extras(q,c,label,xml):
   if extras:
     xml.write( '<div class="extra" d:priority="2"><h1 style="display: inline">%s:</h1>' % label )
     for extra in extras:
-      xml.write( get_pal(extra['b'],c) )
-    xml.write( '</div>' )
+      xml.write( '%s ' % get_pal(extra['b'],c) )
+    xml.write( '</div>\n' )
 
 def print_word(row,c,xml):
   # get the branch words
   branches = query('select id,pal,eng,pdef,pos from all_words3 where stem=%d and stem!=id order by pal' % row['id'], c)
 
   # main header for each word
-  xml.write( '<d:entry id="%s_%d" d:title="%s">' % ( row['pal'], row['id'], row['pal'] ) )
+  xml.write( '<d:entry id="%s_%d" d:title="%s">\n' % ( row['pal'], row['id'], row['pal'] ) )
 
   # index entries for the word and its branches
-  xml.write( '\t<d:index d:value="%s"/>' % row['pal'] )
+  xml.write( '\t<d:index d:value="%s"/>\n' % row['pal'] )
   for branch in branches:
-    xml.write( '\t<d:index d:value="%s"/>' % branch['pal'] )
+    xml.write( '\t<d:index d:value="%s"/>\n' % branch['pal'] )
 
   # show a header 
-  xml.write( '<div d:priority="2"><h1>%s</h1></div>' % row['pal'] )
+  xml.write( '<div d:priority="2"><h1>%s</h1></div>\n' % row['pal'] )
 
   # now show the word
   display_word(row,'b',xml)
@@ -135,7 +135,7 @@ def print_word(row,c,xml):
   add_image(row['id'],row['pal'],xml)
 
   # end the word
-  xml.write( '</d:entry>' )
+  xml.write( '</d:entry>\n' )
 
 
 def main():
