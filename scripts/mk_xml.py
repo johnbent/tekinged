@@ -144,7 +144,7 @@ def main():
   xml = open('Palauan.xml', 'w')
   print_header(xml)
 
-  q = "select id,pal,eng,pdef,pos,oword,origin from all_words3 where id=stem limit 10"; 
+  q = "select id,pal,eng,pdef,pos,oword,origin from all_words3 where id=stem"; 
   words = query(q,c)
   for idx,row in enumerate(words):
     print '%5d/%d %s' % (idx, len(words), row['pal'])
