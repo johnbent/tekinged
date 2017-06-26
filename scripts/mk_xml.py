@@ -99,9 +99,9 @@ def add_links(row,c,xml):
 def add_extras(q,c,label,xml):
   extras = query(q,c)
   if extras:
-    xml.write( '<div class="extra" d:priority="2"><h1 style="display: inline">%s:</h1>' % label )
+    xml.write( '<div class="extra" d:priority="2"><h1 style="display: inline">%s: </h1>' % label )
     for extra in extras:
-      xml.write( '%s ' % get_pal(extra['b'],c) )
+      xml.write( '%s' % get_pal(extra['b'],c) )
     xml.write( '</div>\n' )
 
 def origin_to_string(o):
@@ -122,7 +122,7 @@ def show_borrowing(row,c,xml):
       origin += " %s" % row['oword']
     xml.write( '\t<div class="borrow" d:priority="2">%s</div>\n' % origin )
 
-def print_word(row,c,xml):
+def print_word(row,c,xml,compressed):
   # get the branch words
   branches = query('select id,pal,eng,pdef,pos from all_words3 where stem=%d and stem!=id order by pal' % row['id'], c)
 
@@ -154,10 +154,11 @@ def print_word(row,c,xml):
   add_proverbs(row,branches,c,xml)
 
   # now add the picture
-  add_image(row['id'],row['pal'],xml)
+  if not compressed:
+    add_image(row['id'],row['pal'],xml)
 
   # end the word
-  xml.write( '</d:entry>\n' )
+  xml.write( '</d:entry>\n\n' )
 
 
 def main():
@@ -166,21 +167,26 @@ def main():
   parser = argparse.ArgumentParser(description='Convert database into XML suitable to convert into Mac Dict with Dictionary Development Kit.')
   parser.add_argument('-l', type=int, help='Only do a few words.') 
   parser.add_argument('-f', type=str, help='Only do a specific word.')
+  parser.add_argument('-z', action='store_true', default=False, help='Compressed mode without pictures')
   args = parser.parse_args()
 
-  xml = open('Palauan.xml', 'w')
+  if args.z:
+    xml = open('Palauan_lite.xml', 'w')
+  else:
+    xml = open('Palauan.xml', 'w')
+
   print_header(xml)
 
   q = "select id,pal,eng,pdef,pos,oword,origin from all_words3 where id=stem and (isnull(pos) or pos not like 'affix')"; 
   if args.f:
     q += " and pal like '%s' " % args.f
   if args.l:
-    q += " limit %d order by rand()" % args.l
+    q += " order by rand() limit %d " % args.l
   print query
   words = query(q,c)
   for idx,row in enumerate(words):
     print '%5d/%d %s' % (idx, len(words), row['pal'])
-    print_word(row,c,xml)
+    print_word(row,c,xml,args.z)
 
   print_footer(xml)
 
