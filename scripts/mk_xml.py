@@ -104,12 +104,30 @@ def add_extras(q,c,label,xml):
       xml.write( '%s ' % get_pal(extra['b'],c) )
     xml.write( '</div>\n' )
 
+def origin_to_string(o):
+  return {
+    'J': 'Japanese',
+    'T': 'Tagalog',
+    'E': 'English',
+    'S': 'Spanish',
+    'M': 'Malay',
+    'G': 'German',
+  }.get(o[0],o)
+
+def show_borrowing(row,c,xml):
+  # borrowed marker
+  if row['origin']:
+    origin="from %s" % origin_to_string(row['origin'])
+    if row['oword']:
+      origin += " %s" % row['oword']
+    xml.write( '\t<div class="borrow" d:priority="2">%s</div>\n' % origin )
+
 def print_word(row,c,xml):
   # get the branch words
   branches = query('select id,pal,eng,pdef,pos from all_words3 where stem=%d and stem!=id order by pal' % row['id'], c)
 
   # main header for each word
-  xml.write( '<d:entry id="%s_%d" d:title="%s">\n' % ( row['pal'], row['id'], row['pal'] ) )
+  xml.write( '<d:entry id="%s_%d" style="display: inline" d:title="%s">\n' % ( row['pal'], row['id'], row['pal'] ) )
 
   # index entries for the word and its branches
   xml.write( '\t<d:index d:value="%s"/>\n' % row['pal'] )
@@ -118,6 +136,9 @@ def print_word(row,c,xml):
 
   # show a header 
   xml.write( '<div d:priority="2"><h1>%s</h1></div>\n' % row['pal'] )
+
+  # show any borrowing
+  show_borrowing(row,c,xml)
 
   # now show the word
   display_word(row,'b',xml)
