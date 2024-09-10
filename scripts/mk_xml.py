@@ -25,10 +25,7 @@ def print_header(xml):
 
 def add_image(wid,pal,xml):
   if os.path.isfile('OtherResources/Images/%d.jpg' % wid ):
-    xml.write( '''\
-          <span class="picture">
-          <img src="Images/%d.jpg" alt="%s"/>
-          </span>\n''' % ( wid, pal ))
+    xml.write( '\t<span class="picture"><img src="Images/%d.jpg" alt="%s"/></span>\n' % ( wid, pal ))
     
 def space(multiplier=1):
   width=5*multiplier
@@ -46,11 +43,11 @@ def display_word(row,htype,xml):
     else:
       return ''
 
-  xml.write( '\t<div d:priority="2" class="entry">%s<%s style="display: inline">%s</%s> %s <i>%s</i> %s %s\n' % 
+  xml.write( '\t<div class="entry">%s<%s style="display: inline">%s</%s> %s <i>%s</i> %s %s\n' % 
             ( space(), htype, row['pal'], htype, space(), row['pos'], space(), get_eng(row['eng']) ))
   if row['pdef']:
-    xml.write( '\t<span class="pdef" d:priority="2">%s</span>\n' % row['pdef'])
-  xml.write( '</div>\n' )
+    xml.write( '\t<span class="pdef" d:priority="0">%s</span>\n' % row['pdef'])
+  xml.write( '\t</div>\n' )
 
 def get_pal(wid,c):
   q='select pal from all_words3 where id=%d' % wid
@@ -99,9 +96,9 @@ def add_links(row,c,xml):
 def add_extras(q,c,label,xml):
   extras = query(q,c)
   if extras:
-    xml.write( '<div class="extra" d:priority="2"><h1 style="display: inline">%s: </h1>' % label )
+    xml.write( '\t<div class="extra" d:priority="0"><h1 style="display: inline">%s: </h1>' % label )
     for extra in extras:
-      xml.write( '%s' % get_pal(extra['b'],c) )
+      xml.write( '%s ' % get_pal(extra['b'],c) )
     xml.write( '</div>\n' )
 
 def origin_to_string(o):
@@ -120,7 +117,7 @@ def show_borrowing(row,c,xml):
     origin="from %s" % origin_to_string(row['origin'])
     if row['oword']:
       origin += " %s" % row['oword']
-    xml.write( '\t<div class="borrow" d:priority="2">%s</div>\n' % origin )
+    xml.write( '\t<div class="borrow" d:priority="0">%s</div>\n' % origin )
 
 def print_word(row,c,xml,compressed):
   # get the branch words
@@ -135,7 +132,7 @@ def print_word(row,c,xml,compressed):
     xml.write( '\t<d:index d:value="%s"/>\n' % branch['pal'] )
 
   # show a header 
-  xml.write( '<div d:priority="2"><h1>%s</h1></div>\n' % row['pal'] )
+  xml.write( '\t<div d:priority="0"><h1>%s</h1></div>\n' % row['pal'] )
 
   # show any borrowing
   show_borrowing(row,c,xml)
